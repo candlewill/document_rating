@@ -1,0 +1,13 @@
+　IBM(FW)　的本(N)　本我(N)　用的(N)　最多(Vi)　，(COMMACATEGORY)
+　也(ADV)　是(Vt)　感覺(N)　最好(Vi)　的(T)　本本(DET)　。(PERIODCATEGORY)
+　其他(DET)　廠商(N)　的用壞過(N)　不少(Vi)　，(COMMACATEGORY)
+　老(Vi)　款的(N)　一些(DET)　現在(N)　還(ADV)　有(Vt)　幾(DET)　個(M)　基本(A)　成了(Vi)　垃圾(N)　。(PERIODCATEGORY)
+　購買(Vt)　這(DET)　一(DET)　款(M)　主要(A)　還是(C)　品牌(N)　，(COMMACATEGORY)
+　以後(N)　除了(P)　IBM(FW)　，(COMMACATEGORY)
+　我(N)　不會(ADV)　購買(Vt)　其他(DET)　品牌(N)　本本(DET)　了(T)　。(PERIODCATEGORY)
+　優點(N)　多多(Vi)　，(COMMACATEGORY)
+　不(ADV)　一一(ADV)　贅述(Vi)　，(COMMACATEGORY)
+　主要(ADV)　是(Vt)　速度(N)　，(COMMACATEGORY)
+　製作(Vt)　工藝(N)　，(COMMACATEGORY)
+　堅固(Vi)　性和(N)　品牌(N)　偏好(Nv)　度(N)　。(PERIODCATEGORY)
+　

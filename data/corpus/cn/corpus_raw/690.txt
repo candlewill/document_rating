@@ -1,0 +1,5 @@
+　個人(N)　家裡(N)　有(Vt)　Altis(FW)　10.5(DET)　也有(b)　Focus(FW)　((PARENTHESISCATEGORY)　不過(C)　是(Vt)　tdci(FW)　的(T)　)(PARENTHESISCATEGORY)　其實(ADV)　兩(DET)　台(M)　車各(b)　有(Vt)　各(DET)　的(T)　好處(N)　如果(C)　主要(ADV)　都(ADV)　是(Vt)　市區(N)　行駛(Vi)　，(COMMACATEGORY)
+　Altis(FW)　也很(Vi)　不錯(Vi)　啊(T)　CVT(FW)　變速箱(N)　開起來(ADV)　很(ADV)　平順(Vi)　雖然(C)　安全(Vi)　配備(N)　稍微(ADV)　差(Vi)　一些(DET)　，(COMMACATEGORY)
+　也(ADV)　應該(ADV)　還可以(ADV)　接受(Vt)　至於(P)　Focus(FW)　安全性(N)　來(ADV)　說比(Vt)　Altis(FW)　好(Vi)　一些(DET)　((PARENTHESISCATEGORY)　個人(N)　認為(Vt)　啦(T)　)(PARENTHESISCATEGORY)　雖然(C)　還是(ADV)　使用(Vt)　4(DET)　AT(FW)　變速箱(N)　，(COMMACATEGORY)
+　所以(C)　油耗(A)　會(ADV)　稍微(ADV)　差(Vi)　一些(DET)　但是(C)　安全(Vi)　無價(Vi)　啊(T)　至於(P)　Fortis(FW)　因為(C)　都(ADV)　沒有(ADV)　接觸(Vt)　過(ASP)　，(COMMACATEGORY)
+　所以(C)　不(ADV)　好(Vi)　評論(N)

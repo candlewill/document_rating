@@ -1,0 +1,4 @@
+　剛剛(ADV)　看到(Vt)　了(ASP)　這(DET)　個(M)　議題(N)　.(PERIODCATEGORY)　基本(N)　上(POST)　,(COMMACATEGORY)
+　核(N)　廢料(N)　放(Vt)　你家(N)　好不好(Vi)　?(QUESTIONCATEGORY)　當然(ADV)　不好(Vi)　!(EXCLANATIONCATEGORY)　那(DET)　火力(N)　發電廠(N)　蓋(Vt)　你家(N)　好不好(Vi)　?(QUESTIONCATEGORY)　當然(ADV)　也(ADV)　不好(Vi)　!(EXCLANATIONCATEGORY)　那(DET)　風力(N)　發電(Vi)　放(Vt)　你家(N)　好不好(Vi)　?(QUESTIONCATEGORY)　不好(Vi)　!(EXCLANATIONCATEGORY)　太陽能(N)　發電(Vi)　蓋(Vt)　你家(N)　好不好(Vi)　?(QUESTIONCATEGORY)　不好(Vi)　!(EXCLANATIONCATEGORY)　水力(N)　發電(Vi)　蓋(Vt)　你家(N)　好不好(Vi)　?(QUESTIONCATEGORY)　不好(Vi)　!(EXCLANATIONCATEGORY)　這(DET)　個(M)
+　問題(N)　大家(N)　都(ADV)　知道(Vt)　!(EXCLANATIONCATEGORY)　重點(N)　是(Vt)　能源(N)　哪裡(N)　來(T)　?(QUESTIONCATEGORY)　能源(N)　夠不夠(Vi)　?(QUESTIONCATEGORY)　價錢(N)　?(QUESTIONCATEGORY)　會不會(ADV)　大幅(ADV)　影響(Vt)　民生(N)　?(QUESTIONCATEGORY)　上面(N)　所(ADV)　說的(N)　發電(Vi)　.(PERIODCATEGORY)　在(P)　台灣(N)　都有人(N)　抗議(Vt)　反對(Vt)　過(ASP)　!(EXCLANATIONCATEGORY)　那(DET)　能源(N)　哪裡(N)　來(T)　?(QUESTIONCATEGORY)　民生(N)　能源(N)　價格(N)　考慮(Vt)　清楚(Vi)　了嗎(b)　?(QUESTIONCATEGORY)
+　

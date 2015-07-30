@@ -1,0 +1,8 @@
+　1(DET)　整體(N)　做工(Vi)　精細(Vi)　2(DET)　白色(N)　的(T)　基本(N)　不會(ADV)　有(Vt)　手印(N)　的(T)　困擾(N)　，(COMMACATEGORY)
+　這(DET)　是我(b)　選擇(Vt)　白色(N)　的(T)　主要(A)　原因(N)　3(DET)　鍵盤(N)　的手感好(N)　；(SEMICOLONCATEGORY)　觸摸(Vt)　板(N)　的(T)　多點(DET)　功能(N)　會(ADV)　有(Vt)　驚喜(Vi)　4(DET)　電池(N)　續航(N)　能力(N)　確實(ADV)　很強(Vi)　，(COMMACATEGORY)
+　很(ADV)　滿意(Vt)　5(DET)　cpu(FW)　沒有(Vt)　想象的(N)　那麼(ADV)　差(Vi)　，(COMMACATEGORY)
+　日常(A)　文案(N)　工作(N)　和(C)　上網(Vi)　絕對(ADV)　夠用(b)　。(PERIODCATEGORY)
+　主流(N)　數值(N)　計算(Nv)　軟件(N)　matlab(FW)　可以(ADV)　順利(Vi)　安裝(Vt)　並(ADV)　運行(Vi)　，(COMMACATEGORY)
+　運算(Nv)　速度(N)　比(P)　主流(N)　cpu(FW)　要慢(b)　一半(DET)　（(PARENTHESISCATEGORY)　超頻(Vi)　時(POST)　）(PARENTHESISCATEGORY)　6(DET)　主流(N)　視頻(b)　播放(Vt)　非常(ADV)　流暢(Vi)　7改(b)　xp(FW)　系統(N)　很(ADV)　容易(Vi)　。(PERIODCATEGORY)
+　eeebuntu(FW)　系統(N)　應該(ADV)　更(ADV)　好(Vi)　，(COMMACATEGORY)
+　待(P)　嘗試(Vt)

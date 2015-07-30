@@ -1,0 +1,7 @@
+　台灣(N)　意識(N)　覺醒(Nv)　這沒(b)　什麼(DET)　,(COMMACATEGORY)
+　也(ADV)　不(ADV)　是(Vt)　這(DET)　一兩(DET)　年的(N)　事情(N)　,(COMMACATEGORY)
+　每(DET)　個(M)　人(N)　都(ADV)　愛(Vt)　台灣(N)　這(DET)　對(P)　國民黨(N)　來(ADV)　說(Vt)　有(Vt)　什麼(DET)　好(ADV)　擔心(Vt)　不安(Vi)　的(T)　,(COMMACATEGORY)
+　一時(N)　的(T)　激情(N)　難免(Vi)　,(COMMACATEGORY)
+　但(C)　現實(N)　終究(ADV)　要(ADV)　去(ADV)　面對(Vt)　.(PERIODCATEGORY)　人(N)　一但(N)　在(P)　面對(Vt)　現實(N)　的(T)　時候(N)　就(ADV)　會(ADV)　清醒(Vi)　才(ADV)　會(ADV)　覺悟(Vi)　.(PERIODCATEGORY)　面對(Vt)　台灣(N)　終究(ADV)　是(Vt)　中國(N)　的(T)　領土(N)　的(T)　問題(N)　這(DET)　才是(N)　國民黨(N)　真正(A)　勝選的(N)　關鍵(N)　,(COMMACATEGORY)
+　沒有(Vt)　選舉(N)　每(ADV)　個(M)　人(N)　都(ADV)　可以(ADV)　幻想(Vt)　更(ADV)　美好(Vi)　的(T)　未來(N)　一但(N)　到(Vt)　了(ASP)　選舉(N)　多數(DET)　人(N)　還是(ADV)　會(ADV)　冷靜(Vi)　的(T)　看待(Vt)　兩岸(N)　關係(N)　怎樣(Vi)　的(T)　選擇(N)　才是(N)　對(P)　台灣(N)　最好(Vi)　.(PERIODCATEGORY)
+　

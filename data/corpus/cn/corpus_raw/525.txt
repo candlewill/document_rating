@@ -1,0 +1,13 @@
+　推薦給(Vt)　每(DET)　一(DET)　個(M)　希望(Vt)　自己(N)　獨立(Vi)　和(C)　清醒(Vi)　的(T)　人(N)　。(PERIODCATEGORY)
+　尤其(ADV)　是在(b)　國內(N)　近年(N)　有(Vt)　很多(DET)　各(DET)　種(M)　各(DET)　樣(M)　的(T)　邪教(N)　，(COMMACATEGORY)
+　傳(Vt)　銷(Vt)　。(PERIODCATEGORY)
+　對於(P)　辨別(Vt)　這(DET)　個(M)　團體(N)　遊很大的(N)　幫助(Vt)　。(PERIODCATEGORY)
+　也(ADV)　幫助(Vt)　我(N)　認識到(Vt)　?(QUESTIONCATEGORY)　什麼(DET)　華人(N)　總是(ADV)　成(Vi)　?(QUESTIONCATEGORY)　其他(DET)　國家(N)　民族(N)　暴力(N)　攻擊(Vt)　的(T)　對象(N)　。(PERIODCATEGORY)
+　華人(N)　在(P)　外面(N)　太(ADV)　低調(Vi)　了(T)　，(COMMACATEGORY)
+　以致(C)　失去(Vt)　自我(N)　，(COMMACATEGORY)
+　缺乏(Vt)　獨立(Vi)　的(T)　人格(N)　，(COMMACATEGORY)
+　民族(N)　品格(N)　和(C)　國格(N)　，(COMMACATEGORY)
+　不(ADV)　夠(Vi)　維護(Vt)　自己(N)　的(T)　尊嚴(N)　。(PERIODCATEGORY)
+　所以(C)　很(ADV)　容易(Vi)　成(Vi)　?(QUESTIONCATEGORY)　其他(DET)　國家(N)　民族(N)　假想(Vt)　的泰迪熊的(N)　對象(N)　。(PERIODCATEGORY)
+　結合(Vt)　《(PARENTHESISCATEGORY)　我們(N)　要(ADV)　有(Vt)　尊嚴(N)　的活(N)　?(QUESTIONCATEGORY)　》(PARENTHESISCATEGORY)　能(ADV)　知道(Vt)　我們(N)　要(ADV)　怎麼(ADV)　做(Vt)　。(PERIODCATEGORY)
+　

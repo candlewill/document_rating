@@ -1,0 +1,12 @@
+　性(N)　價比(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　送(Vt)　了(ASP)　散熱(Vi)　底座(N)　溫度(N)　控制(Vt)　能(ADV)　平均(Vi)　低(Vi)　12(DET)　度(M)　左右(POST)　,(COMMACATEGORY)
+　不(ADV)　運行(Vi)　大(Vi)　程序(N)　發熱(Vi)　不(ADV)　大(Vi)　,(COMMACATEGORY)
+　各(DET)　種(M)　接口(ADV)　比較(ADV)　齊全(Vi)　,(COMMACATEGORY)
+　安裝(Vt)　系統(N)　的(T)　時候(N)　如果(C)　不(ADV)　懂(Vt)　一點(DET)　專業(Vi)　知識(N)　很難(Vi)　安裝(Vt)　,(COMMACATEGORY)
+　首先(ADV)　開機(Vi)　後(POST)　按照(P)　提示(N)　按(P)　F(FW)　2(DET)　進入(Vt)　BIOS(FW)　,(COMMACATEGORY)
+　將(P)　MAIN(FW)　下面(N)　模式(N)　改成(Vt)　IDE(FW)　接口(Vi)　,(COMMACATEGORY)
+　然後(ADV)　將(ADV)　?(QUESTIONCATEGORY)　動(N)　項目(N)　改(Vt)　?(QUESTIONCATEGORY)　光驅(b)　?(QUESTIONCATEGORY)　動(N)　,(COMMACATEGORY)
+　刪掉(Vt)　預裝(b)　系統(N)　後(POST)　纔(ADV)　好(Vi)　安裝(Vt)　XP(FW)　,(COMMACATEGORY)
+　基本(N)　上(N)　GHOST(FW)　版的(N)　系統(N)　是(Vt)　安裝(Vt)　不了的(N)　,(COMMACATEGORY)
+　只(ADV)　能用(N)　安裝(Vt)　盤(N)　安裝(Vt)　.(PERIODCATEGORY)
+　

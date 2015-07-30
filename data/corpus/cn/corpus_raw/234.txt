@@ -1,0 +1,11 @@
+　我(N)　是(Vt)　出差(Vi)　在(P)　瀋陽(N)　，(COMMACATEGORY)
+　本來(ADV)　我(N)　以前(N)　已經(ADV)　買過(b)　一(DET)　個(M)　，(COMMACATEGORY)
+　這(DET)　次(M)　的(T)　本本(DET)　是幫(b)　朋友(N)　買的(N)　，(COMMACATEGORY)
+　比(P)　原來(A)　的(T)　性能(N)　和(C)　配置(Nv)　有所(Vt)　提高(Vt)　，(COMMACATEGORY)
+　但是(C)　價錢(N)　反倒(C)　降下來(Vi)　了(ASP)　，(COMMACATEGORY)
+　提高(Vt)　的(T)　地方(N)　主要(ADV)　有(Vt)　兩(DET)　處(M)　：(COLONCATEGORY)　一(DET)　、(PAUSECATEGORY)　N(FW)　270(DET)　提高到(Vt)　N(FW)　280(DET)　，(COMMACATEGORY)
+　六(DET)　芯鋰電的(N)　容量(N)　從(P)　4400(DET)　毫(N)　安(N)　提高到(Vt)　了(ASP)　5200(DET)　毫(N)　安(Vi)　，(COMMACATEGORY)
+　很(ADV)　值得(Vi)　購買(Vt)　，(COMMACATEGORY)
+　我(N)　用了(b)　兩(DET)　個(M)　月(N)　，(COMMACATEGORY)
+　樣樣(DET)　功能(N)　都很好(N)　！(EXCLANATIONCATEGORY)
+　

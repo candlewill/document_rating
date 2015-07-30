@@ -1,0 +1,6 @@
+　陳菊(N)　提告(b)　的是(N)　嗎(T)　？(QUESTIONCATEGORY)
+　那就從(N)　這裡(N)　開始(Vt)　這(DET)　對(M)　我很(Vi)　重要(Vi)　今年(N)　我(N)　要是(C)　選輸(Vt)　說不定(ADV)　真的(ADV)　會(ADV)　去(Vt)　內地(N)　發展(N)　到時候(ADV)　用得上(b)　陳菊(N)　向關廠(b)　工人(N)　提告(b)　要求(Vt)　償還(Vt)　貸款(N)　是(Vt)　對的(N)　還是(C)　錯的(N)　？(QUESTIONCATEGORY)
+　有(Vt)　人說(Vi)　陳菊(N)　擺爛(b)　不(ADV)　追討(Vt)　這(DET)　代表(N)　追討(Vt)　是(Vt)　對的(N)　不然(C)　就是(C)　擺爛(b)　這詞(b)　代表(Vt)　的是(N)　正面(N)　意義(N)　如果(C)　是(Vt)　對的(N)　為什麼(ADV)　現在(N)　的(T)　勞動部(b)　放棄(Vt)　上訴(Vt)　了(T)　？(QUESTIONCATEGORY)
+　為何(ADV)　不(ADV)　繼續(Vt)　做對(Vt)　的事(N)　？(QUESTIONCATEGORY)
+　但(C)　我(N)　看上(Vt)　一(DET)　篇(M)　的(T)　反映(Nv)　好像(ADV)　是在講(b)　陳菊(N)　是錯的(N)　害(Vt)　到(P)　王如玄(b)　那麼(ADV)　現在(N)　勞動部(b)　放棄(Vt)　上訴(Vt)　就(ADV)　是(Vt)　對的(N)　了(T)　可是(C)　既然(C)　勞動部(b)　撤(Vt)　告是(b)　對的(N)　那(DET)　版(N)　上(POST)　又(ADV)　一(DET)　片(M)　批評(N)　聲浪(N)　的(T)　原因(N)　是(Vt)　？(QUESTIONCATEGORY)
+　

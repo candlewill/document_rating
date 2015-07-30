@@ -1,0 +1,13 @@
+　哈哈(ADV)　,(COMMACATEGORY)
+　別(ADV)　亂扣我(b)　帽子(N)　,(COMMACATEGORY)
+　既然(C)　你(N)　看(Vt)　不(ADV)　懂(Vt)　我的(N)　意思(N)　,(COMMACATEGORY)
+　那(ADV)　我(N)　就(ADV)　明說(Vi)　吧(T)　,(COMMACATEGORY)
+　別(ADV)　再(ADV)　亂(Vi)　猜(Vt)　囉(T)　!(EXCLANATIONCATEGORY)　我(N)　認為(Vt)　你(N)　跟(P)　在酸(b)　樓主(b)　,(COMMACATEGORY)
+　以(P)　嘲諷(Vt)　的(T)　意思(N)　在挑(b)　?(QUESTIONCATEGORY)　。(PERIODCATEGORY)
+　而(C)　我(N)　純粹(ADV)　以(P)　一(DET)　個(M)　看不慣(Vt)　的(T)　路人(N)　的(T)　角色(N)　在(P)　發言(Vi)　,(COMMACATEGORY)
+　我(N)　不(ADV)　認識(Vt)　樓主(b)　,(COMMACATEGORY)
+　但(C)　願意(Vt)　幫他(b)　說(Vt)　句(M)　公道話(N)　。(PERIODCATEGORY)
+　至於(P)　要用(b)　啥(DET)　標準(N)　測試(N)　,(COMMACATEGORY)
+　你(N)　不(ADV)　是(Vt)　口(M)　氣(N)　很大說(Vi)　算出來(Vt)　是(Vt)　10(DET)　km/l(FW)　也測嗎(b)　?(QUESTIONCATEGORY)　怎麼(ADV)　現在(N)　又(C)　拿這(N)　來(ADV)　說嘴(Vi)　?(QUESTIONCATEGORY)　現在(N)　變成(Vt)　我的(N)　建議(Vt)　你(N)　都(ADV)　照辦(Vi)　嗎(T)　?(QUESTIONCATEGORY)　嘿(T)　,(COMMACATEGORY)
+　我(N)　可是(C)　公證人(N)　喔(T)　。(PERIODCATEGORY)
+　

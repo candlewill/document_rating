@@ -1,0 +1,8 @@
+　三(DET)　O(FW)　,(COMMACATEGORY)
+　幾(DET)　年(M)　前(N)　爛(Vi)　車頂(N)　事件(N)　是一大(b)　敗筆(N)　,(COMMACATEGORY)
+　連(C)　我爸都(Vt)　受驚(Vi)　了(T)　!(EXCLANATIONCATEGORY)　品質(N)　不良(Vi)　又(ADV)　不(ADV)　負責任(Vi)　,(COMMACATEGORY)
+　但(C)　它(N)　實在(ADV)　好開(N)　~(FW)　T(FW)　的話(N)　..(ETCCATEGORY)　行銷(N)　大過(Vt)　一切(DET)　((PARENTHESISCATEGORY)　歌(N)　后(POST)　或七速(b)　)(PARENTHESISCATEGORY)　,(COMMACATEGORY)
+　完完全全(ADV)　適合(Vi)　多數(DET)　國人(N)　買車的(N)　特性(N)　;(SEMICOLONCATEGORY)　但(C)　撇開(Vt)　一些(DET)　該(DET)　有的(DET)　安全(Nv)　科技(N)　不談(N)　,(COMMACATEGORY)
+　至少(ADV)　在(P)　設計(N)　上(POST)　使得(Vt)　維修(Vt)　容易(Vi)　又(ADV)　可以(ADV)　少(Vi)　花錢(Vi)　,(COMMACATEGORY)
+　問題(N)　少(Vi)　~(FW)　希望(Vt)　台灣(N)　將來(N)　會(ADV)　有個(b)　真正(A)　競爭(N)　的(T)　市場(N)　!(EXCLANATIONCATEGORY)　目前(N)　消費者(N)　真的(ADV)　很(ADV)　吃虧(Vi)　.(PERIODCATEGORY)
+　

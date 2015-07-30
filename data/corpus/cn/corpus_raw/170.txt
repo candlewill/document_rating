@@ -1,0 +1,8 @@
+　希望(Vt)　藉(P)　此(DET)　文章(N)　來(ADV)　喚醒(Vt)　和泰(N)　高層(N)　的(T)　良心(N)　.(PERIODCATEGORY)　和泰(N)　的(T)　高層(N)　們(N)　,(COMMACATEGORY)
+　要(ADV)　摸摸(Vt)　良心(N)　呀(T)　.(PERIODCATEGORY)　你們(N)　可是(C)　成了(Vi)　潛在(A)　的(T)　傷人(Vi)　/(FW)　殺人犯(N)　.(PERIODCATEGORY)　因為(C)　CAMRY(FW)　沒有(Vt)　EPS(FW)　,(COMMACATEGORY)
+　台灣(N)　一(DET)　年(M)　會(ADV)　有(Vt)　多少(DET)　人(N)　因此(C)　受傷(Vi)　/(FW)　死亡(Vi)　.(PERIODCATEGORY)　不管(C)　是(Vt)　CAMRY(FW)　的(T)　車主(N)　,(COMMACATEGORY)
+　或是(C)　因此(C)　與(P)　CAMRY(FW)　發生(Vt)　事故(N)　的(T)　人(N)　.(PERIODCATEGORY)　也(ADV)　希望(Vt)　政府(N)　拿出(Vt)　魄力(N)　,(COMMACATEGORY)
+　6(DET)　SRS+ESP(FW)　也(ADV)　該(ADV)　成為(Vt)　台灣(N)　的(T)　標準(N)　配備(N)　.(PERIODCATEGORY)　難道(ADV)　台灣人(N)　的命不(N)　值錢(Vi)　嗎(T)　?(QUESTIONCATEGORY)　和泰(N)　今年(N)　EPS(FW)　應該(ADV)　超過(Vt)　13(DET)　元(M)　,(COMMACATEGORY)
+　換算(Vt)　可賺(b)　超過(Vt)　70億(DET)　台幣(N)　,(COMMACATEGORY)
+　希望(Vt)　你們(N)　賺的(N)　這些(DET)　錢不是用(b)　台灣人(N)　的(T)　性命(N)　換來(Vt)　的(T)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)
+　

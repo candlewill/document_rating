@@ -1,0 +1,9 @@
+　我(N)　是(Vt)　2010(DET)　年(M)　3月(N)　購入(Vt)　的(T)　，(COMMACATEGORY)
+　近(DET)　一(DET)　個(M)　月我的車也(N)　開始(Vt)　發現(Vt)　有(Vt)　冷氣(N)　開啟(Vt)　異味(N)　（(PARENTHESISCATEGORY)　酸味(N)　）(PARENTHESISCATEGORY)　問題(N)　，(COMMACATEGORY)
+　看來(ADV)　這(DET)　問題(N)　並(ADV)　不(ADV)　是(Vt)　個案(N)　，(COMMACATEGORY)
+　和泰(N)　應該(ADV)　重視(Vt)　並(ADV)　給(Vt)　消費者(N)　一(DET)　個(M)　滿意(Vt)　的(T)　說明(N)　和(C)　提出(Vt)　積極(Vi)　有效(Vi)　的(T)　解決(Nv)　方式(N)　，(COMMACATEGORY)
+　而(C)　不(ADV)　是(Vt)　任由(Vt)　保養廠(N)　以(P)　一些(DET)　無效(Vi)　作法(N)　暫時(ADV)　安撫(Vt)　消費者(N)　，(COMMACATEGORY)
+　如(C)　無(Vt)　持續(Vt)　善意(N)　解決(Vt)　，(COMMACATEGORY)
+　恐(Vt)　又(ADV)　要(ADV)　演成(Vt)　集體(A)　消費(N)　糾紛(N)　事件(N)　了(T)　，(COMMACATEGORY)
+　相信(Vt)　亦非(N)　和泰(N)　公司(N)　所(ADV)　樂見(Vt)　。(PERIODCATEGORY)
+　

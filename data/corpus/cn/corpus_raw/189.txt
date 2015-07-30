@@ -1,0 +1,8 @@
+　說真的(ADV)　買到(Vt)　最(ADV)　便宜(Vi)　的我(N)　真的(ADV)　會(ADV)　很(ADV)　開心(Vi)　，(COMMACATEGORY)
+　買到(Vt)　很貴的(N)　會(ADV)　嘔個(b)　老半天(ADV)　可能(ADV)　是我(b)　比較(ADV)　不同(Vi)　吧(T)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　我買(b)　東西(N)　都(ADV)　希望(Vt)　買到(Vt)　便宜(Vi)　的(T)　，(COMMACATEGORY)
+　不(ADV)　想買貴被當(b)　盤子(N)　敲耶(b)　~(FW)　回想(Vt)　起來(ASP)　，(COMMACATEGORY)
+　家(N)　中從(b)　以前(N)　到(P)　現在(N)　已經(ADV)　買入(Vt)　1(DET)　X(FW)　台(N)　車子(N)　，(COMMACATEGORY)
+　只要(C)　交完車(b)　付完(Vt)　錢(N)　後(POST)　，(COMMACATEGORY)
+　再(ADV)　也(ADV)　不(ADV)　見(Vt)　業代(Vt)　蹤影(N)　..(ETCCATEGORY)　屢試不爽(Vi)　喔(T)　!(EXCLANATIONCATEGORY)　幾乎(ADV)　各(ADV)　大(Vi)　汽車(N)　品牌(N)　都有過(N)　經驗(N)　，(COMMACATEGORY)
+　所以(C)　從此(ADV)　再(ADV)　也(ADV)　不(ADV)　相信(Vt)　業代(Vt)　口(N)　中(POST)　的(T)　服務(Nv)　價格(N)　便宜(Vi)　給(Vt)　我(N)　，(COMMACATEGORY)
+　對(P)　我(N)　來(ADV)　說才是(b)　最好(Vi)　的(T)　服務(Nv)　~(FW)　~(FW)

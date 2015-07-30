@@ -1,0 +1,6 @@
+　無知(Vi)　吧(T)　!(EXCLANATIONCATEGORY)　怎麼(ADV)　會(ADV)　有(Vt)　人說(Vi)　Altis(FW)　好(Vi)　?(QUESTIONCATEGORY)　我新車買了(b)　三(DET)　個(M)　月就賣了(b)　((PARENTHESISCATEGORY)　七月(N)　買(Vt)　十月(N)　賣(Vt)　)(PARENTHESISCATEGORY)　一(DET)　.(PERIODCATEGORY)　不省油(N)　((PARENTHESISCATEGORY)　順順(Vi)　開才(N)　10(DET)　點(M)　多(Vi)　的(T)　油耗(A)　,(COMMACATEGORY)
+　純(Vi)　高速(N)　才(ADV)　13多(DET)　,(COMMACATEGORY)
+　別(ADV)　騙人(Vi)　說(Vt)　有(Vt)　18(DET)　好嗎(N)　)(PARENTHESISCATEGORY)　二(DET)　.(PERIODCATEGORY)　車子(N)　晃到(Vt)　我(N)　開山(Vi)　路都(Vt)　暈頭轉向(Vi)　三(DET)　.(PERIODCATEGORY)　好開在(N)　哪(T)　?(QUESTIONCATEGORY)　方向盤(N)　輕又沒力(N)　...(ETCCATEGORY)　四(DET)　.(PERIODCATEGORY)　省(N)　保養(Nv)　費(N)　...(ETCCATEGORY)　這(DET)　點(M)　我(N)　認同(Vt)　,(COMMACATEGORY)
+　但(C)　安全性(N)　...(ETCCATEGORY)　多爬文吧(N)　!(EXCLANATIONCATEGORY)　五(DET)　.(PERIODCATEGORY)　不過(C)　Camry(FW)　或是(C)　以前(N)　進口(Vt)　的(T)　Coronalla(FW)　及純(b)　進口(Nv)　的都(N)　還(ADV)　算(Vt)　不錯(Vi)　,(COMMACATEGORY)
+　其它(DET)　就(P)　日本(N)　的(T)　Altis(FW)　有(Vt)　很多(DET)　安全(Nv)　配備(N)　台灣(N)　呢(T)　?(QUESTIONCATEGORY)　一(DET)　年(M)　要多花(N)　20萬(DET)　養車我(b)　也(ADV)　願意(Vt)　因為(C)　我的命(b)　超過(Vt)　了(ASP)　這(DET)　個(M)　價位(N)
+　

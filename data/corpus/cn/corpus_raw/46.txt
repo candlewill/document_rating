@@ -1,0 +1,12 @@
+　這(DET)　是(Vt)　一(DET)　本(M)　非常(ADV)　值得(Vi)　推薦(Vt)　的(T)　一(DET)　本(M)　書(N)　，(COMMACATEGORY)
+　我(N)　讀後(b)　收益(N)　頗多(Vi)　，(COMMACATEGORY)
+　並且(C)　已(ADV)　推薦給(Vt)　我的(N)　朋友(N)　，(COMMACATEGORY)
+　希望(Vt)　也(ADV)　能(ADV)　對(P)　別人(N)　有所(Vt)　幫助(N)　。(PERIODCATEGORY)
+　生活(N)　在紛繁(b)　複雜(Vi)　的世界(N)　中(POST)　，(COMMACATEGORY)
+　要(ADV)　做到(Vt)　不抱怨(N)　是(Vt)　何等(Vi)　的不(N)　容易(Vi)　，(COMMACATEGORY)
+　但是(C)　《(PARENTHESISCATEGORY)　不抱怨(N)　的世界(N)　》(PARENTHESISCATEGORY)　它(N)　運用(Vt)　簡單(Vi)　的(T)　方法(N)　可以(ADV)　幫助(Vt)　你(N)　控制(Vt)　自己(N)　的(T)　語言(N)　，(COMMACATEGORY)
+　以至於(C)　將(P)　思想(N)　調整(Vt)　到(P)　正向(Vi)　，(COMMACATEGORY)
+　進而(C)　你(N)　將(ADV)　在無(b)　意識(N)　中(POST)　改變(Vt)　自己(N)　的(T)　生命(N)　。(PERIODCATEGORY)
+　讓(Vt)　我們(N)　共同(ADV)　進入(Vt)　不抱怨(N)　的世界(N)　，(COMMACATEGORY)
+　那(DET)　一定(ADV)　是(Vt)　個(M)　不(ADV)　一樣(Vi)　的世界(N)　！(EXCLANATIONCATEGORY)
+　

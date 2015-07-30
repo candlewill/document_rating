@@ -1,0 +1,13 @@
+　1(DET)　.(PERIODCATEGORY)　白色(N)　的(T)　，(COMMACATEGORY)
+　很(ADV)　漂亮(Vi)　，(COMMACATEGORY)
+　做工(Vi)　還可以(Vi)　；(SEMICOLONCATEGORY)　2(DET)　.(PERIODCATEGORY)　網上的(N)　軟件(N)　資源(N)　非常(ADV)　豐富(Vt)　，(COMMACATEGORY)
+　這(DET)　是我買它的最(b)　主要(A)　原因(N)　；(SEMICOLONCATEGORY)　3(DET)　.(PERIODCATEGORY)　電池(N)　不錯(Vi)　，(COMMACATEGORY)
+　昨天(N)　從(P)　下午(N)　兩(DET)　點(N)　到(Vt)　晚上(N)　十(DET)　點(M)　還(ADV)　有(Vt)　25(DET)　分鐘(M)　的(T)　剩餘(Nv)　時間(N)　（(PARENTHESISCATEGORY)　關閉(Vt)　攝像頭(b)　，(COMMACATEGORY)
+　無(Vt)　?(QUESTIONCATEGORY)　和藍牙(N)　）(PARENTHESISCATEGORY)　主要(A)　拷貝(Nv)　東西(N)　，(COMMACATEGORY)
+　看起來(ADV)　正常(Vi)　使用(Vt)　八(DET)　小時(M)　左右(POST)　沒(Vt)　問題(N)　；(SEMICOLONCATEGORY)　4(DET)　.(PERIODCATEGORY)　散熱(Vi)　不錯(Vi)　，(COMMACATEGORY)
+　CPU(FW)　核心(N)　不過(ADV)　40(DET)　~(FW)　55(DET)　度(M)　，(COMMACATEGORY)
+　很多(DET)　小(Vi)　本(ADV)　要(ADV)　上到(Vt)　80(DET)　度(M)　了(T)　；(SEMICOLONCATEGORY)　5(DET)　.(PERIODCATEGORY)　變壓器(N)　很(ADV)　小巧(Vi)　，(COMMACATEGORY)
+　很多(DET)　小(Vi)　本(M)　的(T)　電源(N)　都用的是(N)　大(Vi)　本(M)　的(T)　電源(N)　，(COMMACATEGORY)
+　本(ADV)　倒是(ADV)　很輕(Vi)　，(COMMACATEGORY)
+　可(ADV)　旅行(Vi)　重量(N)　還是(ADV)　比較(ADV)　重(Vi)　。(PERIODCATEGORY)
+　

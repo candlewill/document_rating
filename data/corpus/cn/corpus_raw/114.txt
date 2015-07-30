@@ -1,0 +1,13 @@
+　隨(P)　你(N)　高興(Vt)　,(COMMACATEGORY)
+　車子(N)　雖然(C)　同級(N)　,(COMMACATEGORY)
+　大小(N)　有別(Vi)　不是嗎(N)　?(QUESTIONCATEGORY)　馬(N)　2(DET)　長(Vi)　3.9(DET)　米(M)　,(COMMACATEGORY)
+　也(ADV)　才(ADV)　1039(DET)　,(COMMACATEGORY)
+　上(N)　一代(Vt)　國產(A)　SWIFT(FW)　頂級(A)　版也(N)　只(ADV)　有(Vt)　1045(DET)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　其他(DET)　我(N)　就(ADV)　懶得(Vt)　找了(b)　,(COMMACATEGORY)
+　認真(Vi)　說來(ADV)　yaris(FW)　重量(N)　算(Vt)　中間(N)　範圍(N)　..(ETCCATEGORY)　另外(C)　..(ETCCATEGORY)　得了(Vi)　吧(T)　!(EXCLANATIONCATEGORY)　還(Vt)　什麼(DET)　對號(Vi)　入座(Vi)　?(QUESTIONCATEGORY)　,(COMMACATEGORY)
+　這(DET)　版(N)　開口(Vi)　就說(N)　yaris(FW)　太輕了的(N)　,(COMMACATEGORY)
+　有(Vt)　哪(DET)　個(M)　是(Vt)　正面(N)　的(T)　評論(N)　?(QUESTIONCATEGORY)　這(DET)　種(M)　車重(N)　比較(Vt)　,(COMMACATEGORY)
+　是(Vt)　給(Vt)　那些(DET)　喜歡(Vt)　論斤秤兩(b)　評論(Vt)　車子(N)　好壞(N)　的(T)　人(N)　看(Vt)　,(COMMACATEGORY)
+　你(N)　如果(C)　沒(Vt)　這(DET)　種(M)　重量(N)　迷思(N)　,(COMMACATEGORY)
+　又(ADV)　何必(ADV)　堅持(Vt)　yaris(FW)　比較(ADV)　輕(Vi)　?(QUESTIONCATEGORY)
+　

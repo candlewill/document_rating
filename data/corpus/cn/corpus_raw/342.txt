@@ -1,0 +1,12 @@
+　住(Vt)　了(ASP)　一(DET)　晚(M)　，(COMMACATEGORY)
+　服務(Vt)　很(ADV)　到(Vt)　位(M)　，(COMMACATEGORY)
+　熱情(Vi)　周到(Vi)　，(COMMACATEGORY)
+　房間(N)　復古(Vt)　舒適(Vi)　，(COMMACATEGORY)
+　但(C)　佈局(Vi)　略(ADV)　顯(Vt)　緊湊(Vi)　。(PERIODCATEGORY)
+　唯一(A)　美中不足(Vi)　之處(b)　在於(Vt)　我離店(Vi)　之後(POST)　發現(Vt)　手機(N)　充電器(N)　遺忘(Vt)　在(P)　房間(N)　，(COMMACATEGORY)
+　打過去(Vi)　電話(N)　詢問(Vt)　前(DET)　臺(N)　居然(ADV)　不(ADV)　知道(Vt)　此(DET)　事(N)　，(COMMACATEGORY)
+　後(N)　經(P)　服務生(N)　及(C)　清潔(Nv)　人員(N)　仔細(Vi)　尋找(Vt)　才(ADV)　找到(Vt)　（(PARENTHESISCATEGORY)　其實(ADV)　就(ADV)　在(P)　插座(N)　上(N)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　希望(Vt)　打掃(Vt)　衛生(N)　的(T)　時候(N)　更(ADV)　仔細(Vi)　完美(Vi)　一些(DET)　。(PERIODCATEGORY)
+　總體(N)　很好(Vi)　，(COMMACATEGORY)
+　下(DET)　次(M)　還(ADV)　會(ADV)　選擇(Vt)　。(PERIODCATEGORY)
+　

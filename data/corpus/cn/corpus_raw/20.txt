@@ -1,0 +1,13 @@
+　張(N)　曼娟的(N)　文字(N)　和張小嫻(N)　一樣(Vi)　，(COMMACATEGORY)
+　都(ADV)　屬於(Vt)　療傷(Vi)　係(Vt)　，(COMMACATEGORY)
+　雖然(C)　我(N)　沒有(ADV)　受傷(Vi)　，(COMMACATEGORY)
+　但(C)　這(DET)　並(ADV)　不(ADV)　影響(Vt)　我對她的(N)　喜愛(Nv)　。(PERIODCATEGORY)
+　最(ADV)　愛(Vt)　她(N)　《(PARENTHESISCATEGORY)　百(DET)　年(M)　相思(Vi)　》(PARENTHESISCATEGORY)　裏的(N)　《(PARENTHESISCATEGORY)　傳奇(N)　》(PARENTHESISCATEGORY)　捲(Vt)　，(COMMACATEGORY)
+　原本(ADV)　看似(Vt)　幽暗(Vi)　充滿(Vt)　憤懣(Vi)　的(T)　傳說(N)　，(COMMACATEGORY)
+　卻(ADV)　被她(Vt)　溫柔(Vi)　款款(DET)　地道(N)　來(POST)　，(COMMACATEGORY)
+　感受(Vt)　那些(DET)　歷史(N)　長流(N)　中(N)　紅顏(N)　女子(N)　的(T)　喜怒哀樂(N)　。(PERIODCATEGORY)
+　唉(T)　她(N)　那(DET)　份(M)　淡定(N)　從容(Vi)　，(COMMACATEGORY)
+　愛(Vt)　她(N)　那(DET)　份(M)　心細(Vi)　如塵(b)　，(COMMACATEGORY)
+　愛(Vt)　她(N)　那(DET)　份(M)　溫柔(Vi)　似水(b)　。(PERIODCATEGORY)
+　愛(Vt)　她(N)　。(PERIODCATEGORY)
+　

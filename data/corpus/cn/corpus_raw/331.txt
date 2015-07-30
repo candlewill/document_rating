@@ -1,0 +1,7 @@
+　全(DET)　鍵盤(N)　帶(Vt)　數字鍵(N)　的顯卡(N)　足夠(Vi)　強大(Vi)　.(PERIODCATEGORY)　N(FW)　卡(N)　相對(Vi)　A(FW)　卡(N)　,(COMMACATEGORY)
+　個人(N)　偏向(Vt)　N(FW)　卡(N)　GHOSTXP(FW)　很(ADV)　容易(Vi)　.(PERIODCATEGORY)　除了(P)　指紋(N)　識別(Nv)　外(POST)　.(PERIODCATEGORY)　所有(DET)　驅動(Nv)　都(ADV)　能(ADV)　裝(Vt)　齊全(Vi)　了(T)　,(COMMACATEGORY)
+　指紋(N)　識別(Nv)　,(COMMACATEGORY)
+　非(ADV)　要(ADV)　在(P)　XP(FW)　下(N)　使用(Vt)　的(T)　朋友(N)　,(COMMACATEGORY)
+　可以(ADV)　用(P)　替代(Vt)　驅動(Nv)　.(PERIODCATEGORY)　貢獻(N)　下(POST)　驅動(Vt)　地址(N)　:(COLONCATEGORY)　http://dlsvr01.asus.com/pub/ASUS/nb/F9Dc/Fingerprints_XP(FW)　_(FW)　080530(DET)　.(PERIODCATEGORY)
+　zip(FW)　((PARENTHESISCATEGORY)　華碩(N)　官方(N)　地址(N)　,(COMMACATEGORY)
+　放心(Vt)　下吧(Vt)　)(PARENTHESISCATEGORY)

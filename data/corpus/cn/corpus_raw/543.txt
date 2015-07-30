@@ -1,0 +1,10 @@
+　所以(C)　不(ADV)　希望(Vt)　林義雄(N)　死的是(b)　國民黨(N)　希望(Vt)　林義雄(N)　死的是(b)　那(DET)　群(M)　想讓他(b)　變成(Vt)　終極(Vi)　武器(N)　的(T)　居心叵測(Vi)　的(T)　人(N)　就(ADV)　跟(P)　文林(N)　苑(b)　王家(N)　一樣(Vi)　，(COMMACATEGORY)
+　一(DET)　堆(M)　人(N)　圍在(b)　旁邊(N)　加油(Vi)　打氣(Vi)　說(Vt)　絕對(ADV)　不能(ADV)　妥協(Vi)　，(COMMACATEGORY)
+　要(ADV)　跟(P)　政府(N)　幹(Vt)　到底(Vi)　，(COMMACATEGORY)
+　怎(ADV)　知(Vt)　打官司(Vi)　賠錢(Vi)　的(T)　風險(N)　都(ADV)　不再(ADV)　這些(DET)　職業(N)　學生(N)　身(N)　上(POST)　我(N)　看到(Vt)　時候(N)　林義雄(N)　撐不(N)　下去(Vi)　了(ASP)　，(COMMACATEGORY)
+　想(Vt)　放棄(Vt)　了(ASP)　圍在(b)　旁邊(N)　的還(N)　會(ADV)　說(Vt)　林義雄(N)　表示(Vt)　萬死不辭(Vi)　！(EXCLANATIONCATEGORY)
+　另外(C)　，(COMMACATEGORY)
+　為什麼(ADV)　能(ADV)　讓人在(b)　眾目睽睽(Vi)　的(T)　情況(N)　下(N)　自殺(Vi)　？(QUESTIONCATEGORY)
+　強制(ADV)　送醫(Vi)　不行(Vi)　嗎(T)　？(QUESTIONCATEGORY)
+　還是(C)　學生會(N)　包圍(Vt)　林義雄(N)　不讓(N)　送醫(Vi)　？(QUESTIONCATEGORY)
+　

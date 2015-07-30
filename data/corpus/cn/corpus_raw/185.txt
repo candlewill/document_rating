@@ -1,0 +1,6 @@
+　唉(T)　......(ETCCATEGORY)　連(C)　人民(N)　保姆(N)　受(Vt)　重傷(Vi)　的(T)　消息(N)　都(ADV)　能(ADV)　拿來(Vt)　利用(Vt)　,(COMMACATEGORY)
+　真是(ADV)　佩服(Vt)　佩服(Vt)　.(PERIODCATEGORY)　不(ADV)　想想(Vt)　為啥(ADV)　警政署(N)　不(ADV)　使用(Vt)　他(N)　推薦(Vt)　的(T)　牌子(N)　.(PERIODCATEGORY)　不(ADV)　想想(Vt)　為啥(ADV)　小黃(N)　也(ADV)　不(ADV)　使用(Vt)　他(N)　推薦(Vt)　的(T)　牌子(N)　.(PERIODCATEGORY)　如果(C)　坦克(N)　真的(ADV)　那麼(ADV)　便宜(Vi)　又(ADV)　那麼(ADV)　好(Vi)　,(COMMACATEGORY)
+　為何(ADV)　多數(DET)　人都(Vt)　不(ADV)　敢用(Vt)　.(PERIODCATEGORY)　因為(C)　口碑(N)　不好嘛(N)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　想想(Vt)　警察(N)　追(Vt)　歹徒(N)　追到(Vt)　一半(DET)　,(COMMACATEGORY)
+　重(Vi)　踩(Vt)　坦克(N)　油門(N)　然後(ADV)　變速箱(N)　承受不了(Vt)　又(ADV)　當場(ADV)　掛點(b)　.(PERIODCATEGORY)　這(DET)　這(DET)　...(ETCCATEGORY)　這(DET)　像話(Vi)　嗎(T)　?(QUESTIONCATEGORY)　話(N)　說(Vt)　我(N)　以前(N)　在九和(N)　維修(Vt)　,(COMMACATEGORY)
+　還(ADV)　真的(ADV)　看(Vt)　過(ASP)　警車(N)　在拆(N)　變速箱(N)　耶(T)　!(EXCLANATIONCATEGORY)
+　

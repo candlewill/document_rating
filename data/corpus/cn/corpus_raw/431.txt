@@ -1,0 +1,11 @@
+　您好(Vi)　，(COMMACATEGORY)
+　什麼(DET)　時候(N)　才(ADV)　能(ADV)　在(P)　噹噹(ADV)　網(N)　上(POST)　看見(Vt)　在(P)　建築(N)　公司(N)　當(P)　會計(N)　，(COMMACATEGORY)
+　我(N)　把(P)　三(DET)　本(M)　書都(Vt)　看完(Vt)　了(ASP)　。(PERIODCATEGORY)
+　感覺(N)　還想(b)　立即(ADV)　買到(Vt)　下(DET)　一(DET)　本(M)　抱(Vt)　?(QUESTIONCATEGORY)　看(Vt)　。(PERIODCATEGORY)
+　您(N)　寫的太(b)　好了(T)　，(COMMACATEGORY)
+　讓(Vt)　人(N)　有(Vt)　興趣(N)　學(Vt)　會計(N)　。(PERIODCATEGORY)
+　心(N)　裏想(b)　?(QUESTIONCATEGORY)　怎麼(ADV)　幹好(Vi)　會計(N)　。(PERIODCATEGORY)
+　好像(ADV)　自己(N)　就(ADV)　在當(b)　會計(N)　，(COMMACATEGORY)
+　對於(P)　準備(Vt)　進入(Vt)　這(DET)　一(DET)　行(N)　和在(N)　這(DET)　行(M)　幹(Vt)　出納(N)　的(T)　朋友(N)　們(N)　來(ADV)　說(Vt)　，(COMMACATEGORY)
+　買(Vt)　一(DET)　本(M)　看看(Vt)　真是(ADV)　好(Vi)　。(PERIODCATEGORY)
+　

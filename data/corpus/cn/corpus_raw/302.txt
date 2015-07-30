@@ -1,0 +1,11 @@
+　配置(Vt)　比較(ADV)　超值(Vi)　，(COMMACATEGORY)
+　發(Vt)　熱量(N)　比我用的(Vt)　聯想(N)　E(FW)　390(DET)　小(Vi)　（(PARENTHESISCATEGORY)　CPU(FW)　待機(N)　40(DET)　度(M)　、(PAUSECATEGORY)　最高(Vt)　71(DET)　度(M)　；(SEMICOLONCATEGORY)　GPU(FW)　45(DET)　度(M)　、(PAUSECATEGORY)　最高(Vt)　70(DET)　度(M)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　風扇(N)　聲音(N)　也(ADV)　不(ADV)　大(Vi)　，(COMMACATEGORY)
+　而且(C)　不(ADV)　經常(ADV)　高速(Vi)　運轉(Vt)　，(COMMACATEGORY)
+　3(DET)　dmark06：27XX(FW)　分(Vt)　，(COMMACATEGORY)
+　在(P)　4(DET)　K(FW)　以內(POST)　的(T)　機器(N)　中(POST)　還(ADV)　沒(ADV)　見過(b)　，(COMMACATEGORY)
+　接(Vt)　電視(N)　播放(Vt)　1080(DET)　P(FW)　基本(A)　流暢(Vi)　（(PARENTHESISCATEGORY)　硬解(Vt)　cpu(FW)　佔用(Vt)　率沒(b)　超過(Vt)　40(DET)　%(M)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　做工(Vi)　說不上(Vt)　精細(Vi)　但(C)　也(ADV)　還(ADV)　沒(Vt)　什麼(DET)　發現(Vt)　什麼(DET)　缺陷(N)　，(COMMACATEGORY)
+　操作(Vt)　系統(N)　安裝(Vt)　順利(Vi)　，(COMMACATEGORY)
+　附帶(Vt)　DVD(FW)　中(N)　有(Vt)　全(DET)　套(M)　XP(FW)　、(PAUSECATEGORY)　VISTA(FW)　驅動(Nv)　。(PERIODCATEGORY)
+　

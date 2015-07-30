@@ -1,0 +1,12 @@
+　最(ADV)　真實(Vi)　與(C)　實用(Vi)　的(T)　白領(N)　成長(Vi)　故事(N)　，(COMMACATEGORY)
+　也(ADV)　是(Vt)　目前(N)　?(QUESTIONCATEGORY)　止我(b)　所(ADV)　讀過的最(b)　深刻(Vi)　的(T)　白領(N)　生活(N)　工作(N)　的(T)　總結(N)　。(PERIODCATEGORY)
+　看(Vt)　了(ASP)　不但(C)　受益匪淺(Vi)　，(COMMACATEGORY)
+　而且(C)　覺得(Vt)　過癮(Vi)　、(PAUSECATEGORY)　振奮(Vt)　，(COMMACATEGORY)
+　?(QUESTIONCATEGORY)　中國(N)　有(Vt)　這樣(Vi)　優秀(Vi)　的(T)　打(Vt)　工人(N)　而(C)　自豪(Vi)　。(PERIODCATEGORY)
+　看(Vt)　了(ASP)　確實(ADV)　有(Vt)　：(COLONCATEGORY)　“(FW)　...(ETCCATEGORY)　讓我(b)　回憶(Vt)　最多(Vi)　的(T)　，(COMMACATEGORY)
+　卻(ADV)　不(ADV)　是(Vt)　人生(N)　旅途(N)　裏(N)　這些(DET)　成功(Vi)　的(T)　瞬間(N)　，(COMMACATEGORY)
+　而是(C)　那些(DET)　刻骨銘心(Vi)　的(T)　失敗(Nv)　或(C)　挫折(N)　...(ETCCATEGORY)　”(FW)　它(N)　展示(Vt)　地是(N)　一(DET)　個(M)　真實(Vi)　與(C)　真誠(Vi)　的(T)　人(N)　，(COMMACATEGORY)
+　一(DET)　個(M)　真心(Vi)　與你(N)　分享(Vt)　如何(Vi)　才(ADV)　能(Vt)　成功(Vi)　，(COMMACATEGORY)
+　而(C)　不(ADV)　是(Vt)　一(DET)　個(M)　天才(N)　的(T)　故事(N)　、(PAUSECATEGORY)　打工(Vi)　的(T)　神仙(N)　。(PERIODCATEGORY)
+　強烈(Vi)　推薦(Vt)　！(EXCLANATIONCATEGORY)
+　

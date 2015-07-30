@@ -1,0 +1,13 @@
+　剛買的(N)　這(DET)　款(M)　電腦(N)　，(COMMACATEGORY)
+　在(P)　自提點(b)　打開(Vt)　的(T)　，(COMMACATEGORY)
+　就(ADV)　發現(Vt)　鍵盤(N)　已經(ADV)　壞了(b)　，(COMMACATEGORY)
+　有(Vt)　個(M)　按鍵(N)　都(ADV)　快(Vi)　掉了(N)　，(COMMACATEGORY)
+　自提點(b)　不管(C)　，(COMMACATEGORY)
+　讓(Vt)　去(ADV)　聯繫(Vt)　退換(Vt)　貨(N)　部門(N)　，(COMMACATEGORY)
+　退換(Vt)　貨(N)　部門(N)　說(Vt)　鍵盤(N)　壞了(b)　不管(C)　退換(Vt)　，(COMMACATEGORY)
+　讓(Vt)　去(Vt)　惠普(N)　自己(N)　更換(Vt)　新(Vi)　鍵盤(N)　。(PERIODCATEGORY)
+　在(P)　京東(b)　剛買的(N)　東西(N)　出現(Vi)　問題(N)　就(ADV)　要(ADV)　四處(ADV)　跑去(Vt)　修理(Vt)　，(COMMACATEGORY)
+　他們(N)　把(P)　責任(N)　推的(N)　一乾二淨(Vi)　，(COMMACATEGORY)
+　現在(N)　除非(C)　你(N)　出具(Vt)　惠普(N)　的質檢(N)　報告(N)　，(COMMACATEGORY)
+　他們(N)　纔(ADV)　給(P)　受理(Vt)　。(PERIODCATEGORY)
+　

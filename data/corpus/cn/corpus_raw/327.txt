@@ -1,0 +1,12 @@
+　高(Vi)　品質(N)　杜比(N)　音效(N)　.(PERIODCATEGORY)　採用(Vt)　聯想(N)　全新(Vi)　高(Vi)　觸感(N)　鍵盤(N)　，(COMMACATEGORY)
+　新(Vi)　鍵盤(N)　無論(C)　在(P)　佈局(Vi)　、(PAUSECATEGORY)　鍵帽(N)　形狀(N)　、(PAUSECATEGORY)　鍵程(b)　手感上(b)　全部(DET)　進行(Vt)　了(ASP)　人性化(Vt)　更(ADV)　新(Vi)　，(COMMACATEGORY)
+　不僅(C)　滿足(Vt)　輸入(Nv)　速度(N)　快(Vi)　、(PAUSECATEGORY)　輸入(Nv)　正確率(N)　，(COMMACATEGORY)
+　更(ADV)　能(ADV)　滿足(Vt)　用戶(N)　輸入(Vt)　舒適(Vi)　的(T)　需求(N)　。(PERIODCATEGORY)
+　人性化(Vt)　一鍵(b)　靜音(N)　設計(N)　。(PERIODCATEGORY)
+　關鍵(N)　還是(ADV)　不錯(Vi)　的(T)　散熱(Vi)　，(COMMACATEGORY)
+　做工(Vi)　，(COMMACATEGORY)
+　設計(N)　，(COMMACATEGORY)
+　非常(ADV)　適(Vi)　閤家(N)　庭(N)　娛樂(N)　使用(Vt)　。(PERIODCATEGORY)
+　4099(DET)　搶的(N)　。(PERIODCATEGORY)
+　還(ADV)　算(Vt)　比較(Nv)　的有性價比的(N)　機器(N)　。(PERIODCATEGORY)
+　

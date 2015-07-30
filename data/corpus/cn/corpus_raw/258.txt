@@ -1,0 +1,10 @@
+　我們(N)　是在(b)　2008(DET)　年(M)　春節(N)　入住該(b)　酒店(N)　的(T)　.(PERIODCATEGORY)　就(P)　這(DET)　價格(N)　來(ADV)　說(Vt)　:(COLONCATEGORY)　總體(N)　感覺(N)　不錯(Vi)　.(PERIODCATEGORY)　但(C)　二(DET)　次(M)　無法(ADV)　用門卡(Vt)　開門(Vi)　,(COMMACATEGORY)
+　最後(N)　麻煩(Vt)　服務員(N)　開的(N)　.(PERIODCATEGORY)　他們(N)　的(T)　服務(Nv)　態度(N)　不錯(Vi)　,(COMMACATEGORY)
+　這(DET)　點(M)　值得(Vi)　表揚(Vt)　.(PERIODCATEGORY)　衛生(N)　間(POST)　小了(b)　點(ADV)　.(PERIODCATEGORY)　如果(C)　再次(ADV)　回襄樊(N)　,(COMMACATEGORY)
+　金城(N)　仍是(b)　我們(N)　的首選(N)　((PARENTHESISCATEGORY)　當然(ADV)　如(P)　他們(N)　不(ADV)　漲價(Vi)　的(T)　前提(N)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)　最後(N)　希望(Vt)　他們(N)　可以(ADV)　送(Vt)　雙早(b)　!(EXCLANATIONCATEGORY)　謝謝(Vt)　!(EXCLANATIONCATEGORY)　:(COLONCATEGORY)　)(PARENTHESISCATEGORY)　賓館(N)　反饋(Vt)　2008(DET)　年(M)　2月(N)　15(DET)　日(M)　：(COLONCATEGORY)　您好(Vi)　！(EXCLANATIONCATEGORY)
+　感謝(Vt)　您對(N)　金城(N)　大(Vi)　酒店(N)　的(T)　支持(Nv)　！(EXCLANATIONCATEGORY)
+　您(N)　反映(Vt)　的(T)　問題(N)　客服部已(b)　記錄(Vt)　，(COMMACATEGORY)
+　我們(N)　會(ADV)　在(P)　以後(N)　的(T)　工作(N)　中(POST)　改善(Vt)　，(COMMACATEGORY)
+　謝謝(Vt)　！(EXCLANATIONCATEGORY)
+　祝(Vt)　您(N)　春節(N)　愉快(Vi)　！(EXCLANATIONCATEGORY)
+　

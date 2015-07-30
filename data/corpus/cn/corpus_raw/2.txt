@@ -1,0 +1,7 @@
+　書(N)　今天(N)　朋友(N)　已經(ADV)　收到(Vt)　了(ASP)　。(PERIODCATEGORY)
+　我(N)　沒有(ADV)　看到(Vt)　書的(N)　質地(N)　。(PERIODCATEGORY)
+　但(C)　我(N)　相信(Vt)　它(N)　會(ADV)　和我手(N)　中(POST)　的(T)　這(DET)　本(M)　書(N)　一樣(Vi)　溫馨(Vi)　美好(Vi)　。(PERIODCATEGORY)
+　一樣(Vi)　厚重(Vi)　踏實(Vi)　。(PERIODCATEGORY)
+　對於(P)　整(DET)　個(M)　購書(b)　過程(N)　我很(Vi)　滿意(Vt)　。(PERIODCATEGORY)
+　謝謝(Vt)　噹噹(ADV)　網(N)　謝謝(Vt)　有(Vt)　《(PARENTHESISCATEGORY)　小(Vi)　王子(N)　》(PARENTHESISCATEGORY)　陪伴(Vt)　的(T)　歲月(N)　和(C)　七月(N)　的(T)　別離(Vi)　雖(C)　還(ADV)　會(ADV)　很(ADV)　長久(Vi)　因(C)　手持(Vt)　?(QUESTIONCATEGORY)　同樣(Vi)　的(T)　一(DET)　本(M)　《(PARENTHESISCATEGORY)　小(Vi)　王子(N)　》(PARENTHESISCATEGORY)　內心(N)　可以(ADV)　感到(Vt)　足夠(Vi)　的(T)　溫馨(Nv)　和(C)　美好(Vi)　七月(N)　一切(DET)　安好(Vi)　盛世(N)　太平(Vi)
+　

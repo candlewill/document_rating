@@ -1,0 +1,3 @@
+　每(DET)　天(M)　在(P)　臉書(b)　看到(Vt)　一(DET)　堆(M)　亂七八糟(Vi)　的(T)　轉貼(b)　、(PAUSECATEGORY)　懶人(N)　包(Vt)　看似(Vt)　感性(Vi)　激情(N)　卻是無腦(b)　取暖(Vi)　文都(Vt)　快(Vi)　生病(Vi)　了(ASP)　政府(N)　軟弱(Vi)　藍綠(N)　惡鬥(N)　政黨(N)　利益(N)　擺(Vt)　第一(DET)　國家(N)　利益(N)　放(Vt)　最後(N)　面對(Vt)　某些(DET)　黨(N)　惡意(ADV)　抹黑(Vt)　服貿(N)　可以(ADV)　慫恿(Vt)　、(PAUSECATEGORY)　煽動(Vt)　學生(N)　在(P)　那邊(N)　,(COMMACATEGORY)
+　一下(N)　反(Vt)　服貿(N)　一下(N)　反(Vt)　黑箱(A)　服貿(N)　,(COMMACATEGORY)
+　到底(ADV)　要(ADV)　幹嘛(ADV)　都(ADV)　不(ADV)　知道(Vt)　的(T)　為什麼(ADV)　我們(N)　這些(DET)　看不慣(Vt)　那些(DET)　惡意(ADV)　抹黑(Vt)　、(PAUSECATEGORY)　煽動(Nv)　、(PAUSECATEGORY)　製造(Vt)　恐慌(Vi)　的(T)　人(N)　不(ADV)　出來(Vi)　也搞個(b)　團體(N)　只能(N)　被動(Vi)　的能(N)　解釋(Vt)　一(DET)　個(M)　是(Vt)　一(DET)　個(M)　但(C)　每(DET)　天(M)　臉書(b)　仍(ADV)　抵不過(Vt)　無(Vt)　思考(Nv)　轉貼(b)　幹(T)　真(ADV)　是(Vt)　啊砸(b)

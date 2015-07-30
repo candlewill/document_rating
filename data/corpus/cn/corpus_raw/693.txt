@@ -1,0 +1,9 @@
+　人民日報(N)　海外版(N)　：(COLONCATEGORY)　中國(N)　有(Vt)　能力(N)　為(Vt)　受害(Vi)　公民(N)　討回(Vt)　公道(N)　。(PERIODCATEGORY)
+　此外(C)　人民日報(N)　還(ADV)　建議(Vt)　世界(N)　各國(Vi)　包括(Vt)　中國(N)　重新(ADV)　評估(Vt)　越南(N)　投資(Vt)　價值(N)　.(PERIODCATEGORY)　共產黨(N)　目前(N)　的(T)　做法(N)　：(COLONCATEGORY)　1(DET)　）(PARENTHESISCATEGORY)　在(P)　海上(N)　堅定(Vt)　不移(Vi)　鉆井取油(b)　2(DET)　）(PARENTHESISCATEGORY)　應對(Vi)　海上(N)　可能(N)　的沖突(N)　/(FW)　戰爭(N)　，(COMMACATEGORY)
+　包括(Vt)　2萬(DET)　噸(M)　級(N)　船塢(N)　登陸(Vt)　艦(N)　，(COMMACATEGORY)
+　導彈(N)　護衛艦(N)　，(COMMACATEGORY)
+　反(ADV)　潛(Vi)　巡邏機(N)　，(COMMACATEGORY)
+　飛(Vi)　豹(N)　轟炸機(N)　壓制(Vt)　越南(N)　3(DET)　）(PARENTHESISCATEGORY)　陸(N)　上(POST)　也(ADV)　同時(N)　提升(Vt)　戰備(N)　，(COMMACATEGORY)
+　對(P)　越南(N)　施加(Vt)　壓力(N)　4(DET)　）(PARENTHESISCATEGORY)　爭取(Vt)　不戰而屈人之兵(N)　，(COMMACATEGORY)
+　亦(ADV)　準備(Vt)　如果(C)　開戰(Vi)　則以(b)　絕對(A)　優勢(N)　殲滅(Vt)　對手(N)　。(PERIODCATEGORY)
+　

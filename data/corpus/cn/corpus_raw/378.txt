@@ -1,0 +1,7 @@
+　一(DET)　、(PAUSECATEGORY)　最(ADV)　顯著(Vi)　的(T)　優點(N)　是(Vt)　電池(N)　使用(Vt)　時間(N)　長(Vi)　；(SEMICOLONCATEGORY)　二(DET)　、(PAUSECATEGORY)　配置(Nv)　比較(ADV)　齊全(Vi)　：(COLONCATEGORY)　無(Vt)　?(QUESTIONCATEGORY)　、(PAUSECATEGORY)　藍牙(b)　、(PAUSECATEGORY)　攝像(b)　必備(A)　的都有(N)　；(SEMICOLONCATEGORY)
+　三(DET)　、(PAUSECATEGORY)　做工(Vi)　還(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　烤漆(N)　的也(N)　比較(ADV)　漂亮(Vi)　；(SEMICOLONCATEGORY)　四(DET)　、(PAUSECATEGORY)　小巧(Vi)　便攜(b)　，(COMMACATEGORY)
+　就(ADV)　一(DET)　本(M)　雜誌(N)　大小(N)　，(COMMACATEGORY)
+　一般(A)　書包(N)　就(ADV)　能(ADV)　裝下(Vt)　；(SEMICOLONCATEGORY)　五(DET)　、(PAUSECATEGORY)　品牌(N)　還(ADV)　可以(ADV)　，(COMMACATEGORY)
+　網(N)　上的(N)　資料(N)　相對(Vi)　較全(b)　；(SEMICOLONCATEGORY)　六(DET)　、(PAUSECATEGORY)　一般(A)　情況(N)　下(POST)　硬盤和(N)　風扇(N)　聲音(N)　還(ADV)　不(ADV)　算太大(b)　。(PERIODCATEGORY)
+　

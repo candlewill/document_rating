@@ -1,0 +1,3 @@
+　今天(N)　下午(N)　去(Vt)　朋友(N)　車廠(N)　突然(ADV)　看到(Vt)　一(DET)　台(M)　車(N)　跑來(Vi)　仔細(Vi)　一(ADV)　看(Vt)　這(DET)　不(ADV)　是(Vt)　準備(Vt)　要(Vt)　國產(A)　化的(N)　CAMRY(FW)　嘛(T)　!(EXCLANATIONCATEGORY)　而且(C)　還是(ADV)　HYBIRD(FW)　版(N)　趕快(ADV)　跑去(Vt)　對面(N)　拍(Vt)　幾(DET)　張(M)　照片(N)　至於(P)　車(N)　裡面(N)　的(T)　人(N)　不知(N)　跑去(Vt)　哪了(b)　呵呵(ADV)　...(ETCCATEGORY)　看(Vt)
+　到(P)　有(Vt)　人說(Vi)　原來(A)　是舊款的(N)　CAMRY(FW)　難怪(ADV)　覺得(Vt)　怪怪(Vi)　的(T)　無所謂(Vi)　囉(T)　!(EXCLANATIONCATEGORY)　反正(ADV)　本來(ADV)　就(ADV)　沒(ADV)　再(ADV)　注意(Vt)　TOYOTA(FW)　的車認不(N)　出來(Vi)　是(Vt)　正常(Vi)　的囉(N)　!(EXCLANATIONCATEGORY)　所以(C)　大家(N)　就(ADV)　看看(Vt)　照片(N)　就(ADV)　好了(T)
+　

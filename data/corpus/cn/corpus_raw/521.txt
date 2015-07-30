@@ -1,0 +1,6 @@
+　想(Vt)　吹(Vt)　冷氣(N)　要(Vt)　電費(N)　,(COMMACATEGORY)
+　卻(ADV)　無法(ADV)　忍受(Vt)　核電(N)　的(T)　危險(Nv)　.(PERIODCATEGORY)　或(C)　汙染(N)　想(Vt)　使用(Vt)　汽油(N)　或(C)　天然氣(N)　又(ADV)　無法(ADV)　忍受(Vt)　管線(N)　危險(Vi)　,(COMMACATEGORY)
+　或(C)　排放(Nv)　汙染(N)　想要(Vt)　經濟(N)　繁榮(Vt)　但是(C)　又(ADV)　不(ADV)　爽(Vi)　環境(N)　遭受(Vt)　汙染(N)　利益(N)　我(N)　要(ADV)　但是(C)　利益(N)　帶來(Vt)　的(T)　垃圾(N)　拜託(Vt)　丟(Vt)　別人(N)　家我(N)　不要(ADV)　,(COMMACATEGORY)
+　不(ADV)　就(ADV)　正好(ADV)　符合(Vt)　台灣(N)　部分(DET)　人民(N)　的(T)　心態(N)　嗎(T)　？(QUESTIONCATEGORY)
+　一(DET)　邊(N)　靠么(N)　家鄉(N)　沒(Vt)　工作(N)　機會(N)　一邊(b)　又(C)　靠么(N)　都市化(Vt)　帶來(Vt)　的(T)　環境(N)　破壞(Vt)　乾脆(Vi)　把(P)　所有(DET)　科技(N)　全部(DET)　排出(Vt)　台灣(N)　保證(Vt)　沒有(Vt)　人(N)　為(P)　災害(N)　退回(Vt)　1000(DET)　年(N)　前(POST)　原始(Vi)　農林(A)　漁牧(N)　生活(N)　好了(T)　大家(N)　說(Vt)　好(Vi)　噗(ADV)　好啊(N)　？(QUESTIONCATEGORY)
+　

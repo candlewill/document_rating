@@ -1,0 +1,5 @@
+　我(N)　覺得(Vt)　你們(N)　這些(DET)　再(ADV)　說(Vt)　人家(N)　派(Vt)　工讀生(N)　也很(Vi)　好笑(Vi)　...(ETCCATEGORY)　哪(DET)　一點(DET)　讓你(b)　知道(Vt)　他是(b)　工讀生(N)　?(QUESTIONCATEGORY)　不(ADV)　知道(Vt)　就(ADV)　別(ADV)　在(P)　這(DET)　唬爛了(b)　~(FW)　這跟(b)　那些(DET)　說(Vt)　網路(N)　慢(Vi)　然後(ADV)　說(Vt)　甚麼(DET)　美國(N)　速度慢(b)　歐洲(N)　速度慢(b)　澳洲(N)　速度慢(b)　...(ETCCATEGORY)　沒(ADV)　根據(P)
+　就(ADV)　說(Vt)　，(COMMACATEGORY)
+　結果(ADV)　被住在(Vt)　國外(N)　的說你(N)　真的(ADV)　出過國嗎(b)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　拜託(Vt)　一下(N)　，(COMMACATEGORY)
+　人家(N)　只是(ADV)　比較(ADV)　喜歡(Vt)　T(FW)　牌(N)　...(ETCCATEGORY)　你(N)　也(ADV)　不用(ADV)　這樣子(Vi)　說(Vt)　而且(C)　...(ETCCATEGORY)　如果(C)　要(ADV)　說(Vt)　ESP(FW)　跟(C)　氣囊(N)　...(ETCCATEGORY)　ACCORD(FW)　跟(C)　TEANA(FW)　這(DET)　幾(DET)　台(M)　~(FW)　都是(N)　要(ADV)　最(ADV)　高階(A)　的(T)　車子(N)　才(ADV)　有的(DET)　~(FW)　想問(b)　一下(N)　這(DET)　幾(DET)　台(M)　是否(ADV)　也(ADV)　差(Vi)　不(ADV)　多(Vi)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　重點(N)　是(Vt)　~(FW)　我(N)　也(ADV)　覺得(Vt)　這(DET)　次(M)　重點(N)　在於(Vt)　這(DET)　個(M)　爛(Vi)　CC(FW)　數(DET)　~(FW)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)
+　

@@ -1,0 +1,5 @@
+　明明(ADV)　就(P)　雙親(N)　健在(Vi)　也有(b)　完整(Vi)　的家在(N)　那邊(N)　,(COMMACATEGORY)
+　非(ADV)　說(Vt)　家庭(N)　問題(N)　不(ADV)　美滿(Vi)　,(COMMACATEGORY)
+　怎麼(ADV)　會(ADV)　每(DET)　個(M)　人家(N)　裡(POST)　都(ADV)　是(Vt)　溫暖(Vt)　又(ADV)　美好(Vi)　喔(T)　?(QUESTIONCATEGORY)　就(P)　因為(C)　這樣(Vi)　去(ADV)　崇拜(Vt)　鄭捷這(b)　個中(DET)　二(DET)　的小屁孩(N)　自己(N)　為(Vt)　是(Vt)　能(ADV)　拯救(Vt)　啥全(b)　世界(N)　?(QUESTIONCATEGORY)　崇拜(Vt)　他(N)　學習(Vt)　他只(N)　會(ADV)　毀掉(Vt)　全(DET)　世界(N)　甚至(ADV)　是你(b)　以後(POST)　美好(Vi)　的(T)　人生(N)　啦幹(N)　就算(C)　家庭(N)　問題(N)　再(ADV)
+　嚴重(Vi)　也是(b)　有(Vt)　能(ADV)　可以(ADV)　幫你(b)　.(PERIODCATEGORY)　自己(N)　為(P)　是的(N)　孤僻(Vi)　就算(C)　想死請(b)　自己(N)　去(ADV)　死別(Vi)　拖(Vt)　無辜(Vi)　的(T)　人(N)　下水(Vi)　好嗎(N)　?(QUESTIONCATEGORY)　幹(N)　幹幹(Vt)　!(EXCLANATIONCATEGORY)
+　

@@ -1,0 +1,5 @@
+　誰(N)　友善(Vi)　,(COMMACATEGORY)
+　誰(N)　不(ADV)　友善(Vi)　大家(N)　都(ADV)　看(Vt)　得很(N)　清楚(Vi)　每(DET)　次(M)　講到(Vt)　油電(b)　總是(ADV)　會(ADV)　有很(Vi)　奇怪(Vt)　的(T)　批評(Vt)　priusc(FW)　沒開過(b)　不過(C)　個人(N)　經驗(N)　會(ADV)　覺得(Vt)　油(N)　電車(N)　力量(N)　不夠(N)　,(COMMACATEGORY)
+　都(ADV)　是只(N)　看(Vt)　純(Vi)　引擎(N)　出力(Vi)　所(ADV)　產生(Vt)　的(T)　疑慮(N)　油電的(N)　引擎(N)　和(C)　傳統(N)　有(Vt)　何(DET)　不同(Vi)　,(COMMACATEGORY)
+　已經(ADV)　講到(Vt)　爛了(b)　反正(ADV)　解釋(Vt)　的(T)　再(ADV)　多(ADV)　還是(ADV)　會(ADV)　有人(b)　出來(Vi)　質疑(Vt)　toyota(FW)　怎麼(ADV)　那麼(ADV)　爛(Vi)　,(COMMACATEGORY)
+　1500(DET)　只(ADV)　有(Vt)　少少(Vi)　的(T)　幾(DET)　匹(M)　馬(N)　....(ETCCATEGORY)　親自(ADV)　試開最準(b)　不過(C)　開(Vt)　油電(b)　其實(ADV)　最(ADV)　滿意(Vt)　的是極(N)　安靜(Vi)　的(T)　感受(N)　且節能的(N)　滿足感(N)　反而(C)　完全(ADV)　沒有(Vt)　大(Vi)　腳(N)　踩的(N)　慾望(N)　不要(ADV)　當路(Vi)　隊長(N)　就好(N)

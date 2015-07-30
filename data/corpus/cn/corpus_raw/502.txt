@@ -1,0 +1,7 @@
+　其實(ADV)　這(DET)　次(M)　的(T)　事件(N)　我(N)　覺得(Vt)　應該(ADV)　好好(Vi)　坐下來(Vi)　談談(Vt)　馬(N)　總統(N)　要(ADV)　展現(Vt)　高度(A)　氣度(N)　，(COMMACATEGORY)
+　不然(C)　我(N)　實在(ADV)　受不了(Vt)　大家(N)　都(ADV)　罵馬(N)　總統(N)　娘孬笨(b)　無能(Vi)　這(DET)　次(M)　是好(Vi)　機會(N)　。(PERIODCATEGORY)
+　好好(Vi)　開個(b)　記者會(N)　跟(P)　大家(N)　說服(Vt)　貿的(N)　好處(N)　我(N)　相信(Vt)　好處(N)　是比(Vt)　壞處(N)　多拉(N)　～(FW)　壞處(N)　挺(ADV)　多(Vi)　是(Vt)　淘汰(Vt)　一些(DET)　本來(ADV)　就(ADV)　該(ADV)　被(P)　市場(N)　淘汰(Vt)　的(T)　人(N)　不然(C)　對(P)　國家(N)　一點(DET)　競爭力(N)　都沒(N)　貢獻(N)　但(C)　至少(ADV)　不要(ADV)　落人口實(Vi)　,(COMMACATEGORY)
+　開個(b)　記者會(N)　，(COMMACATEGORY)
+　就算(C)　是(Vt)　逐一(ADV)　表(Vt)　?(QUESTIONCATEGORY)　,(COMMACATEGORY)
+　國民黨(N)　本來(ADV)　就(ADV)　不會(ADV)　輸(Vt)　.(PERIODCATEGORY)
+　

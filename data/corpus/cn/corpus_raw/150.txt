@@ -1,0 +1,8 @@
+　我(N)　看(Vt)　這(DET)　本(M)　書(N)　覺得(Vt)　情節(N)　不錯(Vi)　，(COMMACATEGORY)
+　很(ADV)　好的(N)　寫出(Vt)　了(ASP)　祈然(b)　對(P)　冰依(N)　的愛(N)　，(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　冰依(N)　死去(Vi)　的(T)　那(DET)　一(DET)　刻(M)　，(COMMACATEGORY)
+　我(N)　覺得(Vt)　有點(ADV)　感傷(Vt)　。(PERIODCATEGORY)
+　最好(Vi)　的(T)　地方(N)　就(ADV)　是(Vt)　讓(Vt)　冰朔(N)　回去(Vi)　見到(Vt)　他們(N)　並且(C)　相認(Vi)　，(COMMACATEGORY)
+　讓(Vt)　冰依(N)　不再(ADV)　有(Vt)　遺憾(Nv)　~(FW)　~(FW)　個(M)　人(N)　認(Vt)　?(QUESTIONCATEGORY)　番外篇更是絕啊(N)　~(FW)　~(FW)　最愛(N)　看(Vt)　冰依(N)　跟衛(Vi)　在一起(Vi)　（(PARENTHESISCATEGORY)　雖然(C)　好像(ADV)　有點(ADV)　對不起(Vt)　祈然(b)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　看到(Vt)　他們(N)　都(ADV)　有(Vt)　自己(N)　的(T)　幸福(Vi)　是很(Vi)　好的(N)　~(FW)　~(FW)　不過(C)　作者(N)　怎麼(ADV)　就(ADV)　不(ADV)　讓步(Vi)　殺也(N)　幸福(Vi)　呢(T)　~(FW)　雖然(C)　現在(N)　看來(ADV)　也(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　但是(C)　還是(ADV)　想(Vt)　看看(Vt)　步的(N)　愛情(N)　使(Vt)　~(FW)　~(FW)　*(FW)　_(FW)　*(FW)

@@ -1,0 +1,8 @@
+　哈哈(ADV)　哈哈(ADV)　!(EXCLANATIONCATEGORY)　是呀(b)　被迫(Vt)　愛上(Vt)　讀史啦(N)　.(PERIODCATEGORY)　我從很小的(N)　時候(N)　就(ADV)　非常(ADV)　喜歡(Vt)　讀書(Vi)　獨獨(ADV)　不(ADV)　喜歡(Vt)　歷史(N)　方面(N)　的(T)　書籍(N)　感覺(Vt)　她們(N)　太(ADV)　沉重(Vi)　,(COMMACATEGORY)
+　中國(N)　的(T)　歷史(N)　太讓(b)　我們(N)　這些(DET)　赤子(N)　而(C)　憂心(Vi)　重重(Vi)　了(T)　,(COMMACATEGORY)
+　一直(ADV)　與她的(N)　悲痛(Vi)　惋惜(Vt)　憤慨(Vi)　.....(ETCCATEGORY)　朋友(N)　給(Vt)　我(N)　這(DET)　本(M)　書(N)　推薦(Vt)　我(N)　看看(Vt)　,(COMMACATEGORY)
+　從(P)　內心(N)　我是(b)　拒絕(Vt)　的我(N)　又(ADV)　不(ADV)　研究(Vt)　歷史(N)　不必(ADV)　刻意(ADV)　的(T)　來(ADV)　強迫(Vt)　自己(N)　嘛(T)　.(PERIODCATEGORY)　讀(Vt)　?(QUESTIONCATEGORY)　讀(Vt)　?(QUESTIONCATEGORY)　我(N)　就(ADV)　被(P)　這(DET)　本(M)　書(N)　吸引住(Vt)　了(ASP)　,(COMMACATEGORY)
+　一(DET)　個(M)　晚上(N)　讀完(Vt)　了(ASP)　,(COMMACATEGORY)
+　然後(ADV)　是(Vt)　一看再看(Vi)　,(COMMACATEGORY)
+　不行(Vi)　我(N)　要(ADV)　買來(Vt)　好好(Vi)　讀啦(N)　......(ETCCATEGORY)　謝謝(Vt)　這(DET)　本(M)　書的(N)　作者(N)　讓我(b)　愛上(Vt)　歷史(N)　!(EXCLANATIONCATEGORY)
+　

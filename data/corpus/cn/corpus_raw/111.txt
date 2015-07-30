@@ -1,0 +1,5 @@
+　我(N)　不(ADV)　是開(b)　rav(FW)　4的(N)　,(COMMACATEGORY)
+　但是(C)　提供(Vt)　我(N)　小舅子(N)　的(T)　rav(FW)　4的(N)　抱怨(Vt)　5(DET)　.(PERIODCATEGORY)　椅子(N)　椅座(b)　生鏽(Vi)　----(DASHCATEGORY)　很多(DET)　地方(N)　都(ADV)　生鏽(Vi)　6(DET)　.(PERIODCATEGORY)　很多(DET)　車主(N)　抱怨(Vt)　新車(b)　怠速(N)　抖動(Vt)　嚴重(Vi)　----(DASHCATEGORY)　冷車(N)　時(POST)　更(ADV)　嚴重(Vi)　7(DET)　.(PERIODCATEGORY)　很多(DET)　車主(N)　抱怨(Nv)　冷氣(N)　空調(N)　有(Vt)　很重的(N)　酸臭味(N)
+　---(DASHCATEGORY)　新車(b)　時(POST)　卻(ADV)　時有(Vt)　很(ADV)　嚴重(Vi)　8(DET)　.(PERIODCATEGORY)　大燈(b)　進水(Vi)　，(COMMACATEGORY)
+　應該(ADV)　是(Vt)　個案(N)　----(DASHCATEGORY)　回廠(b)　兩(DET)　次(M)　更換(Vt)　大燈(b)　總成(b)　11(DET)　.(PERIODCATEGORY)　倒車(Nv)　雷達(N)　或(C)　前駐車(b)　雷達(N)　亂(Vi)　叫(Vt)　----(DASHCATEGORY)　回原廠(b)　更換(Vt)　後(POST)　已(ADV)　無亂(b)　叫(Vt)　以上(POST)
+　

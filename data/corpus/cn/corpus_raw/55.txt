@@ -1,0 +1,6 @@
+　作者(N)　的(T)　筆觸(N)　很(ADV)　真實(Vi)　將(P)　一(DET)　個(M)　不忠卻(N)　又(ADV)　深愛(b)　自己(N)　妻子(N)　的(T)　丈夫(N)　形象(N)　毫無(ADV)　遮掩(Vt)　的(T)　展示(Nv)　給(Vt)　讀者(N)　而(C)　什麼(DET)　是(Vt)　真愛(N)　什麼(DET)　是(Vt)　靈魂(N)　的(T)　永遠(ADV)　纏繞(Vt)　相守是(Vt)　看(Vt)　過(ASP)　這(DET)　本(M)　書的(N)　人(N)　不得不(ADV)　思考(Vt)　的(T)　問題(N)　在(P)　這(DET)　本(M)　書(N)　中(POST)　了解(Vt)　了(ASP)　生命(N)　將(ADV)　逝卻(b)　無能(Vi)　?(QUESTIONCATEGORY)　力(N)　所(ADV)　承受(Vt)　的(T)　艱辛(Vi)　對(P)　安樂死(N)　也(ADV)　有(Vt)　些(M)　瞭解(Vt)　最後(N)　章節(N)　的(T)　那(DET)　句(M)　我們(N)　已經(ADV)　不再(ADV)　相信(Vt)　壞(Vt)　運氣(N)　了(T)　，(COMMACATEGORY)
+　壞(Vt)　運氣(N)　不(ADV)　存在(Vi)　，(COMMACATEGORY)
+　運氣(N)　不(ADV)　存在(Vi)　。(PERIODCATEGORY)
+　相信(Vt)　運氣(N)　是對(b)　生命(N)　的(T)　侮辱(Nv)　。(PERIODCATEGORY)
+　多麼(ADV)　堅韌(Vi)　的(T)　人性(N)　之美(N)　。(PERIODCATEGORY)
+　

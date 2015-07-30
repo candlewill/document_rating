@@ -1,0 +1,6 @@
+　不一定(ADV)　，(COMMACATEGORY)
+　看(Vt)　內鐵(b)　((PARENTHESISCATEGORY)　或欲裝(b)　內鐵(b)　處(N)　)(PARENTHESISCATEGORY)　後(POST)　的(T)　車架(N)　結構(N)　，(COMMACATEGORY)
+　沒(ADV)　比(P)　內鐵(b)　強(Vi)　衝擊(N)　就傳過(N)　內鐵(b)　傷(Vt)　車架(N)　，(COMMACATEGORY)
+　反之(ADV)　就由(N)　內鐵(b)　吃下(Vt)　衝擊(N)　這(DET)　就(ADV)　跟(P)　轎旅(Vt)　或(C)　SUV(FW)　前後(POST)　白鐵(N)　硬質(b)　保稈(N)　外掛(b)　別亂裝是(b)　一樣(Vi)　意思(N)　，(COMMACATEGORY)
+　原先(ADV)　好好(Vi)　的塑(N)　質保(Vi)　桿(N)　.(PERIODCATEGORY)　發泡(Nv)　體吃的下的(N)　衝擊(N)　非得(ADV)　直接(Vi)　讓(Vt)　硬質(b)　白鐵(N)　保桿(N)　傳去(b)　給(Vt)　車架(N)　硬吃(N)　傷到(Vt)　車架(N)　這樣(Vi)　裝(Vt)　外掛(b)　就沒(N)　意義(N)　了(T)　，(COMMACATEGORY)
+　所以(C)　一切(DET)　都(ADV)　看(Vt)　原始(Vi)　設計(N)　...(ETCCATEGORY)

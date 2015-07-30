@@ -1,0 +1,12 @@
+　常常(ADV)　覺得(Vt)　聰明(Vi)　和(C)　智慧(N)　相比(Vi)　,(COMMACATEGORY)
+　我(N)　更(ADV)　喜歡(Vt)　智慧(N)　.(PERIODCATEGORY)　擔是(b)　,(COMMACATEGORY)
+　看(Vt)　了(ASP)　拉拉(Vt)　之後(POST)　,(COMMACATEGORY)
+　我(N)　覺得(Vt)　聰明(Vi)　的(T)　女子(N)　更讓(Vt)　人心(N)　生(Vt)　憐惜(Vt)　.(PERIODCATEGORY)　不可(ADV)　否認(Vt)　,(COMMACATEGORY)
+　這(DET)　是(Vt)　一(DET)　本(M)　好書(N)　.(PERIODCATEGORY)　一(DET)　年(M)　前(POST)　一(DET)　個(M)　很好的(N)　朋友(N)　發(Vt)　了我(b)　一(DET)　本(M)　電子檔(N)　的(T)　,(COMMACATEGORY)
+　沒有(ADV)　看下去(Vi)　,(COMMACATEGORY)
+　這(DET)　次(M)　在當(b)　當上(Vt)　買了(b)　之後(POST)　,(COMMACATEGORY)
+　用(P)　了(ASP)　兩(DET)　天(M)　看完(Vt)　.(PERIODCATEGORY)　很(ADV)　吸引人(Vi)　,(COMMACATEGORY)
+　對於(P)　那些(DET)　嚮往(Nv)　外(POST)　企(ADV)　的(T)　人(N)　來(ADV)　說(Vt)　,(COMMACATEGORY)
+　是(Vt)　一(DET)　本(M)　不錯(Vi)　的(T)　指南(N)　.(PERIODCATEGORY)　對於(P)　那些(DET)　聰明(Vi)　的(T)　女子(N)　來(ADV)　說(Vt)　,(COMMACATEGORY)
+　更(ADV)　是(Vt)　一(DET)　個(M)　完美(Vi)　的(T)　人生(N)　嚮導(N)　適合(Vi)　珍藏(Vt)　及(C)　細讀(Vt)　的(T)　一(DET)　本(M)　書(N)　!(EXCLANATIONCATEGORY)　推薦(Nv)
+　

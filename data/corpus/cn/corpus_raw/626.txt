@@ -1,0 +1,11 @@
+　價格(N)　好啊(N)　，(COMMACATEGORY)
+　明(N)　擺(Vt)　?(QUESTIONCATEGORY)　的(N)　。(PERIODCATEGORY)
+　那些(DET)　裝不上(b)　xp(FW)　的(T)　看看(Vt)　我(N)　說(Vt)　的(T)　。(PERIODCATEGORY)
+　到(P)　bios(FW)　修改(Vt)　ahci(FW)　到(P)　ide(FW)　然後(ADV)　找(Vt)　一(DET)　張(M)　安裝(Nv)　版本(N)　的(T)　xp(FW)　，(COMMACATEGORY)
+　進去(Vi)　直接(Vi)　del(FW)　掉(Vt)　所有(DET)　分區(N)　然後(ADV)　重新(ADV)　分區(Vi)　安裝(Vt)　即可(Vi)　。(PERIODCATEGORY)
+　找(Vt)　一(DET)　張(M)　ghost(FW)　的(T)　xp(FW)　，(COMMACATEGORY)
+　進去(Vi)　使用(Vt)　ghost(FW)　的(T)　分區(Nv)　功能(N)　直接(Vi)　分區(N)　安裝(Vt)　即可(Vi)　。(PERIODCATEGORY)
+　如果(C)　你(N)　硬是(ADV)　要(Vt)　ahci(FW)　的(T)　話(N)　，(COMMACATEGORY)
+　去(ADV)　找(Vt)　一(DET)　個(M)　ahci-ide(FW)　的(T)　驅動(Nv)　，(COMMACATEGORY)
+　安裝(Vt)　好後(N)　再(ADV)　安裝(Vt)　這(DET)　個(M)　驅動(Nv)　就(ADV)　可以(ADV)　轉換到(Vt)　ahci(FW)　去(T)　。(PERIODCATEGORY)
+　

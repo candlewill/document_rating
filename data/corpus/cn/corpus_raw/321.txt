@@ -1,0 +1,10 @@
+　京(N)　東(N)　響應(Vt)　速度(N)　很贊(Vi)　，(COMMACATEGORY)
+　第一(DET)　天(M)　下午(N)　下單(Vi)　，(COMMACATEGORY)
+　第二(DET)　天(M)　上午(N)　就(ADV)　通知到(Vt)　貨了(b)　，(COMMACATEGORY)
+　不錯(Vi)　；(SEMICOLONCATEGORY)　本本(DET)　很好(Vi)　，(COMMACATEGORY)
+　就是(C)　在(P)　包裝(N)　的(T)　時候(N)　不太好(Vi)　，(COMMACATEGORY)
+　把(P)　表面(N)　的膜都弄皺了(N)　，(COMMACATEGORY)
+　好多(DET)　灰塵(N)　；(SEMICOLONCATEGORY)　拿回(Vt)　貨(N)　之後(POST)　是(Vt)　同事(N)　幫忙(Vt)　給(Vt)　做了些(b)　測試(Vt)　的(T)　，(COMMACATEGORY)
+　各(DET)　項(M)　測試(N)　結果(N)　顯示(Vt)　本本(DET)　很好(Vi)　，(COMMACATEGORY)
+　對於(P)　我(N)　這(DET)　個(M)　不玩(N)　遊戲(N)　的(T)　人(N)　來(ADV)　說(Vt)　足夠(Vi)　使用(Vt)　了(ASP)　。(PERIODCATEGORY)
+　

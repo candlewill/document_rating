@@ -1,0 +1,4 @@
+　這(DET)　種(M)　程度(N)　的(T)　數學(N)　買油(b)　電車(N)　的(T)　人(N)　不會(ADV)　算嗎(b)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　油電(b)　俱樂部(N)　裡(N)　一(DET)　堆(M)　人(N)　一(DET)　年(M)　跑不(N)　到(P)　一萬(DET)　公里(M)　捏(Vt)　....(ETCCATEGORY)　但(C)　人家(N)　還是(ADV)　買油(b)　電車(N)　耶(T)　....(ETCCATEGORY)　為什麼(ADV)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　您(N)　再(ADV)　算算(Vt)　看(Vt)　好了(T)　....(ETCCATEGORY)　不買它(N)　,(COMMACATEGORY)
+　就(ADV)　祝福(Vt)　它吧越多人買(b)　...(ETCCATEGORY)　量產(Nv)　規模(N)　越大(b)　...(ETCCATEGORY)　產品(N)　就(ADV)　會(ADV)　越來越(ADV)　便宜(Vi)　...(ETCCATEGORY)　越來越(ADV)　大眾化(Vt)　...(ETCCATEGORY)　電池(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　臭酸的(N)　話題(N)　....(ETCCATEGORY)　東想西想(b)　,(COMMACATEGORY)
+　勉強(Vi)　掰出(N)　一些(DET)　東西(N)　來(ADV)　阻礙(Vt)　.(PERIODCATEGORY)　唱衰(b)　會(ADV)　讓人(b)　覺得(Vt)　很(ADV)　好笑(Vi)　耶(T)　...(ETCCATEGORY)
+　

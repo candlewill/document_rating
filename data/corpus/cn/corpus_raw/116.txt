@@ -1,0 +1,5 @@
+　法國(N)　車(N)　本來(ADV)　也(ADV)　有(Vt)　進口(N)　到(Vt)　美國(N)　.(PERIODCATEGORY)　只(ADV)　因為(C)　妥善(Vi)　率差(N)　,(COMMACATEGORY)
+　在(P)　80年代(N)　末(DET)　期(M)　就(ADV)　撤退(Vi)　了(ASP)　.(PERIODCATEGORY)　不是(N)　每(DET)　家(N)　車廠(N)　一(ADV)　開始(Vt)　就在(N)　美國(N)　就有(N)　設廠(Nv)　好嗎(N)　?(QUESTIONCATEGORY)　!(EXCLANATIONCATEGORY)　也(ADV)　不是(N)　每(DET)　個(M)　消費者(N)　注重(Vt)　的是(N)　操控(Nv)　性能(N)　.(PERIODCATEGORY)　不然(C)　怎會(ADV)　滿街(N)　都是(N)　你們(N)　所謂(Vt)　的(T)　垃圾(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　就算(C)　是(Vt)　要(ADV)　操控(Vt)　性能(N)　好的車(N)　,(COMMACATEGORY)
+　法國(N)　車也(N)　並(ADV)　不是(N)　首(M)　選(Vt)　.(PERIODCATEGORY)　我很(Vi)　喜歡(Vt)　老的(N)　206(DET)　/(FW)　306(DET)　/(FW)　505(DET)　...(ETCCATEGORY)　只是(C)　我(N)　比較(ADV)　想(Vt)　開車(Vi)　,(COMMACATEGORY)
+　而(C)　不是(N)　跟(P)　修(Vt)　車廠(N)　的(T)　技師(N)　成為(Vt)　好朋友(N)　.(PERIODCATEGORY)
+　

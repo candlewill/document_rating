@@ -1,0 +1,9 @@
+　酒店(N)　環境(N)　很(ADV)　不錯(Vi)　,(COMMACATEGORY)
+　服務(Nv)　也(ADV)　很好(Vi)　,(COMMACATEGORY)
+　前(DET)　臺(N)　的(T)　接待(Nv)　很(ADV)　親切(Vi)　,(COMMACATEGORY)
+　連(C)　每(DET)　一(DET)　個(M)　遇到(Vt)　的(T)　清潔工(N)　都(ADV)　會(ADV)　主動(Vi)　和你(N)　說(Vt)　"(FW)　你好(Vi)　"(FW)　,(COMMACATEGORY)
+　很好(Vi)　的(T)　感覺(N)　.(PERIODCATEGORY)　我的(N)　房間(N)　在(P)　20樓(N)　的(T)　高級(Nv)　湖景房(N)　,(COMMACATEGORY)
+　景色(N)　也(ADV)　真的(ADV)　不錯(Vi)　.(PERIODCATEGORY)　唯一(A)　的(T)　遺憾(Nv)　是(Vt)　酒店(N)　的(T)　空調(N)　只出風不製冷(N)　.(PERIODCATEGORY)　我(N)　入住的(N)　時間(N)　是(Vt)　4.4(DET)　~(FW)　4.6(DET)　,(COMMACATEGORY)
+　沒(Vt)　空調(N)　真的(ADV)　有點(ADV)　熱(Vt)　!(EXCLANATIONCATEGORY)　補充(Vt)　點(N)　評(Vt)　2008(DET)　年(M)　4月(N)　7(DET)　日(M)　：(COLONCATEGORY)　還(ADV)　有(Vt)　,(COMMACATEGORY)
+　酒店(N)　的(T)　免費(Vi)　接送機(Vi)　服務(Vt)　也是我(b)　選擇(Vt)　入住的(N)　原因(N)　之(T)　一(DET)　!(EXCLANATIONCATEGORY)　省時(Vi)　省心(b)　!(EXCLANATIONCATEGORY)　好(Vi)　!(EXCLANATIONCATEGORY)
+　

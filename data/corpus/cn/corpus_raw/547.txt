@@ -1,0 +1,5 @@
+　近來(ADV)　社會(N)　對(P)　捷運(N)　無差別(b)　殺人(b)　案(N)　同感(N)　震驚(Vt)　憤怒(Vi)　,(COMMACATEGORY)
+　卻(ADV)　對(P)　政府(N)　無視(Vt)　財政(N)　惡劣(Vi)　無差別(b)　發放(Vt)　年金(N)　津貼(N)　優惠(Nv)　利息(N)　莫可奈何(Vi)　.(PERIODCATEGORY)　原因(N)　甚明(N)　捷運(N)　無差別(b)　殺人(b)　是一人(b)　犯案(Vi)　容易(Vi)　解決(Vt)　,(COMMACATEGORY)
+　但是(C)　無差別(b)　發錢(Vt)　雖然(C)　對(P)　財政(N)　有(Vt)　很(ADV)　壞(Vt)　的(T)　影響(N)　卻因(b)　牽涉(Vt)　很多(DET)　人的(N)　利益(N)　完全(ADV)　任(Vt)　其(DET)　惡化(Vi)　社會(N)　福利(N)　有(Vt)　排擠(Nv)　效應(N)　,(COMMACATEGORY)
+　無差別(b)　發錢的(N)　結果(N)　就(ADV)　是(Vt)　失業(Vi)　失能(N)　失控(Vi)　失敗(Vi)　的(T)　人(N)　所(ADV)　能(ADV)　得到(Vt)　的(T)　幫助(N)　更為(ADV)　缺乏(Vt)　最後(N)　終(ADV)　將(ADV)　使(Vt)　無差別(b)　殺人(b)　這樣(Vi)　的(T)　慘劇(N)　以更(Vt)　頻繁(Vi)　的(T)　次數(N)　出現(Vi)　.(PERIODCATEGORY)
+　

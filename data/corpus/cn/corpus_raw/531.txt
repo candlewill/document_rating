@@ -1,0 +1,6 @@
+　一(DET)　個(M)　恢復(Vt)　白臉很久的(N)　朋友(N)　在臉書(b)　發言(Vi)　剛剛(ADV)　有(Vt)　一(DET)　個(M)　朋友(N)　說(Vt)　:(COLONCATEGORY)　他(N)　寧可(Vt)　死(Vi)　於(P)　核災(Vt)　，(COMMACATEGORY)
+　也(ADV)　不(ADV)　願意(Vt)　被(P)　林義雄(N)　威脅(N)　。(PERIODCATEGORY)
+　同意(Vt)　的(T)　朋友(N)　請來(Vt)　留言(N)　報到(Vi)　一下(N)　。(PERIODCATEGORY)
+　林(N)　盃(N)　這樣(Vi)　回(M)　：(COLONCATEGORY)　我(N)　支持(Vt)　停建(b)　核四(N)　但我(N)　更(ADV)　想(Vt)　看到(Vt)　百萬(DET)　人(N)　哀悼(Vt)　林義雄(N)　上(Vt)　總統府(N)　前(DET)　廣場(N)　抗議(Nv)　.(PERIODCATEGORY)　但是(C)　我(N)　好奇(Vi)　的是(N)　怎麼(ADV)　林(N)　聖人(N)　不在(N)　2008(DET)　年(M)　政黨(N)　輪替(Vi)　時(POST)　就(ADV)　開始(Vt)　絕食(Vi)　呀(T)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　怎麼(ADV)　不(ADV)　在阿扁(Vi)　停建(b)　核四(N)　的(T)
+　時候(N)　就(ADV)　開始(Vt)　絕食(Vi)　呀講白(Vi)　一點(ADV)　就(ADV)　是(Vt)　草(N)　往(P)　風大的(N)　地方(N)　擺(Vt)　現在(N)　就(ADV)　出來(Vi)　打(Vt)　馬英九(N)　這(DET)　隻(M)　落水(Vi)　狗呀(b)　?(QUESTIONCATEGORY)
+　

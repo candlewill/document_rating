@@ -1,0 +1,11 @@
+　張(N)　競生(b)　先生(N)　的(T)　愛情觀(N)　開國(Nv)　人之(b)　先河(N)　，(COMMACATEGORY)
+　在(P)　情海(N)　愛河(N)　中(N)　自由(Vi)　的(T)　遨遊(Nv)　真是(ADV)　不(ADV)　亦(ADV)　快(Vi)　哉(T)　！(EXCLANATIONCATEGORY)
+　張(N)　老先生(N)　的(T)　愛情(N)　理念(N)　是(Vt)　建立(Vt)　在(P)　女性(N)　獨立(Vi)　及(C)　兩性(N)　平等(Vi)　的(T)　基礎(N)　之上(POST)　的(T)　，(COMMACATEGORY)
+　張(N)　老先生(N)　生命(N)　中(POST)　的(T)　那些(DET)　獨立(Vi)　自由(N)　、(PAUSECATEGORY)　勇敢(Vi)　追求(Vt)　愛情(N)　的(T)　女性(N)　是(Vt)　多麼(ADV)　可愛(Vi)　啊(T)　！(EXCLANATIONCATEGORY)
+　這(DET)　本(M)　書雖作(b)　於(P)　半(DET)　個(M)　世紀(N)　以前(POST)　，(COMMACATEGORY)
+　但(C)　其中(DET)　的(T)　觀念(N)　在(P)　今天(N)　的(T)　中國(N)　仍然(ADV)　是(Vt)　前衛(Vi)　的(T)　，(COMMACATEGORY)
+　給(P)　人(N)　很多(DET)　思考(Nv)　與(C)　?(QUESTIONCATEGORY)　迪(N)　。(PERIODCATEGORY)
+　書(N)　中(POST)　的(T)　優美(Vi)　語言(N)　如(P)　潺潺(Vi)　流水(N)　般(POST)　娓娓道來(Vt)　，(COMMACATEGORY)
+　給(P)　人以(b)　美的(N)　享受(Vt)　。(PERIODCATEGORY)
+　真是(ADV)　“(FW)　美的(N)　漫談(Vt)　”(FW)　啊(T)　！(EXCLANATIONCATEGORY)
+　

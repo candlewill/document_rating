@@ -1,0 +1,9 @@
+　如果(C)　不(ADV)　常(ADV)　跑(Vi)　高速(Vi)　公路(N)　,(COMMACATEGORY)
+　比方說(P)　小黃(N)　如果(C)　後做不(N)　常(ADV)　帶(Vt)　小孩(N)　,(COMMACATEGORY)
+　或是(C)　只(ADV)　有(Vt)　偶爾(ADV)　載不熟的(N)　朋友(N)　那(DET)　安全(Nv)　配備(N)　低(Vi)　一點(ADV)　無所謂(Vi)　,(COMMACATEGORY)
+　可以(ADV)　省(Vt)　很多(DET)　錢(N)　台灣人(N)　命的(N)　值錢(Vi)　程度(N)　隨著(P)　國力(N)　不振(Vi)　早(ADV)　就(ADV)　成長(Vi)　有限(Vi)　只能說(Vi)　,(COMMACATEGORY)
+　不同(Vi)　產品(N)　有(Vt)　鎖定(Vt)　不同(Vi)　客層(N)　想要(Vt)　強調(Vt)　安全(Vi)　的(T)　,(COMMACATEGORY)
+　自然(ADV)　會(ADV)　去(ADV)　買(Vt)　其他(DET)　車廠(N)　的(T)　或是(C)　進口車(N)　不然(C)　去(ADV)　買(Vt)　Lexus(FW)　啊(T)　....(ETCCATEGORY)　安全(Nv)　氣囊(N)　或是(C)　ESP(FW)　都(ADV)　少不了(Vt)　的(T)　便宜(Vi)　就是(C)　有(Vt)　便宜(Vi)　的(T)　做法(N)　,(COMMACATEGORY)
+　有錢(Vi)　能買(N)　汽車(N)　,(COMMACATEGORY)
+　誰(N)　想要(Vt)　騎(Vt)　機車(N)　去(Vt)　肉包(N)　鐵呢(b)　?(QUESTIONCATEGORY)　Camry(FW)　就(ADV)　是(Vt)　主打(Vt)　省錢(Vi)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)
+　

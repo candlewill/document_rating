@@ -1,0 +1,7 @@
+　我(N)　開(Vt)　什麼(DET)　車不(N)　重要(Vi)　,(COMMACATEGORY)
+　但(C)　重點(N)　是(Vt)　絕對(ADV)　比(P)　國產(A)　的(T)　Camry(FW)　安全(Nv)　((PARENTHESISCATEGORY)　相對(Vi)　比較(Vt)　下(POST)　Camry(FW)　對我(b)　來(ADV)　說(Vt)　不(ADV)　安全(Vi)　)(PARENTHESISCATEGORY)　還有作啥(b)　工作(Vi)　跟(P)　車子(N)　有(Vt)　啥(DET)　關係(N)　?(QUESTIONCATEGORY)　殊不知(Vt)　路邊(b)　伸手(Vi)　乞討(Vt)　的(T)　,(COMMACATEGORY)
+　有(Vt)　可能(ADV)　是開大(b)　賓士(N)　呢(T)　...(ETCCATEGORY)　至於(P)　反駁(Vt)　您的(N)　論點(N)　,(COMMACATEGORY)
+　也(ADV)　是您(b)　提出(Vt)　的(T)　論點(N)　實在(ADV)　過於(ADV)　荒(Vi)　繆路(b)　上(N)　常(ADV)　見到(Vt)　的車(N)　,(COMMACATEGORY)
+　只(ADV)　不過(ADV)　是(Vt)　符合(Vt)　大多數(DET)　人購車的(N)　需求(N)　((PARENTHESISCATEGORY)　省油(b)　,(COMMACATEGORY)
+　妥善(Vi)　率高(Vt)　)(PARENTHESISCATEGORY)　並非(N)　啥(DET)　安全性(N)　非常(ADV)　好(Vi)　的車(N)　款(N)　((PARENTHESISCATEGORY)　尤其(ADV)　是偷過(b)　安全(Nv)　配備(N)　的車(N)　款(N)　)(PARENTHESISCATEGORY)　而(C)　小弟(N)　的(T)　目前(N)　的(T)　所(ADV)　開的爛車(b)　,(COMMACATEGORY)
+　等級(N)　也只比(Vt)　國產(A)　的(T)　Camry(FW)　再高(Vt)　一點(ADV)　而已(T)　不是多(N)　好的(N)　車子(N)　所以(C)　就(ADV)　不(ADV)　拿出來(Vi)　說嘴(Vi)　了(ASP)

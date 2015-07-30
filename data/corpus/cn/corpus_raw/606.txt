@@ -1,0 +1,12 @@
+　【(PARENTHESISCATEGORY)　薦書(b)　】(PARENTHESISCATEGORY)　許多(DET)　人(N)　一生(N)　都在(N)　忙碌(Vi)　尋找(Vt)　自己(N)　的(T)　幸福(Nv)　,(COMMACATEGORY)
+　卻(ADV)　忽略(Vt)　了在(b)　身邊(N)　的(T)　幸福(Nv)　!(EXCLANATIONCATEGORY)　有(Vt)　人想(b)　尋找(Vt)　童年(N)　,(COMMACATEGORY)
+　有(Vt)　人想(b)　遺忘(Vt)　童年(N)　,(COMMACATEGORY)
+　無論(C)　那(DET)　種(M)　情況(N)　,(COMMACATEGORY)
+　你(N)　都(ADV)　可以(ADV)　在(P)　失落(Vi)　園裏(b)　找到(Vt)　那(DET)　種(M)　感覺(N)　,(COMMACATEGORY)
+　在(P)　我(N)　每(DET)　次(M)　難過(Vt)　的(T)　時候(N)　,(COMMACATEGORY)
+　我(N)　都(ADV)　會(ADV)　拿出(Vt)　這(DET)　本(M)　書(N)　來(ADV)　安慰(Vt)　下(POST)　自己(N)　!(EXCLANATIONCATEGORY)　在(P)　裏面(N)　能(ADV)　得到(Vt)　心靈(N)　的(T)　寧靜(Vi)　,(COMMACATEGORY)
+　我(N)　推薦(Vt)　這(DET)　本(M)　書也是(b)　希望(Vt)　所有(DET)　和失(N)　樂園(N)　一樣(Vi)　的(T)　朋友(N)　,(COMMACATEGORY)
+　能(ADV)　尋找(Vt)　開心(Vi)　,(COMMACATEGORY)
+　遺忘(Vt)　痛苦(Vi)　,(COMMACATEGORY)
+　請(Vt)　相信(Vt)　黑暗(Vi)　的(T)　背後(N)　一定(ADV)　會(ADV)　有光(b)　!(EXCLANATIONCATEGORY)
+　

@@ -1,0 +1,7 @@
+　真是(ADV)　很(ADV)　奇怪(Vt)　耶(T)　，(COMMACATEGORY)
+　佔領(Vt)　忠孝東路(N)　，(COMMACATEGORY)
+　核四(N)　還是(ADV)　繼續(Vt)　蓋啊想(b)　當年(N)　地方(N)　反對(Vt)　蓋(Vt)　焚化爐(N)　時(POST)　，(COMMACATEGORY)
+　鄉民(N)　((PARENTHESISCATEGORY)　正統(A)　的(T)　)(PARENTHESISCATEGORY)　都(ADV)　直接(Vi)　擋路(Vi)　不讓(N)　工程車(N)　過(Vt)　所有(DET)　反核(Nv)　人士(N)　直接(Vi)　去(Vt)　核四廠(N)　的(T)　聯外(A)　道路(N)　上(N)　躺平(Vi)　不(ADV)　就(ADV)　達成(Vt)　停建(b)　目的(N)　了(T)　?(QUESTIONCATEGORY)　真(ADV)　是(Vt)　想(Vt)　不(ADV)　通耶(b)　?(QUESTIONCATEGORY)　因為(C)　忠孝(N)　林森(N)　有(Vt)　麥當勞(N)　，(COMMACATEGORY)
+　抗議(Vt)　累了(Vt)　還可以(ADV)　用(P)　甜心(N)　卡(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　還是(C)　怕標哥也有在做(b)　核四(N)　工程(N)　，(COMMACATEGORY)
+　把(P)　抗議(Nv)　人士(N)　做成(Vt)　圍阻體(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)
+　

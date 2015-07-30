@@ -1,0 +1,12 @@
+　本(DET)　書(N)　綜合性(N)　的向我(N)　介紹(Vt)　了(ASP)　馬利(N)　坦的(N)　思想(N)　。(PERIODCATEGORY)
+　其實(ADV)　不僅(C)　是(Vt)　這(DET)　位(M)　新託瑪斯(b)　主義(N)　哲學家(N)　的(T)　思想(N)　，(COMMACATEGORY)
+　而且(C)　是對(b)　整(DET)　個(M)　傳統(N)　和(C)　古典(Vi)　思想(N)　的(T)　繼承(Nv)　與(C)　發展(Nv)　。(PERIODCATEGORY)
+　就(ADV)　憑(P)　這(DET)　一點(DET)　，(COMMACATEGORY)
+　本(DET)　書(N)　值得(Vi)　一讀(b)　，(COMMACATEGORY)
+　而且(C)　要(ADV)　細讀(Vt)　，(COMMACATEGORY)
+　因(C)　?(QUESTIONCATEGORY)　它的(N)　綜合(A)　概括性(N)　很強(Vi)　。(PERIODCATEGORY)
+　所以(C)　，(COMMACATEGORY)
+　依(P)　本人(N)　的(T)　拙見(N)　，(COMMACATEGORY)
+　本(DET)　書(N)　可以(ADV)　作(Vt)　?(QUESTIONCATEGORY)　對(P)　西方(N)　傳統(Vi)　哲學(N)　思想(N)　的(T)　“(FW)　開胃(Nv)　酒(N)　”(FW)　或者(C)　是(Vt)　“(FW)　飯(N)　後(POST)　甜點(N)　”(FW)　來(ADV)　讀更(Vt)　?(QUESTIONCATEGORY)　適宜(Vi)　。(PERIODCATEGORY)
+　祝(Vt)　各(DET)　位(M)　愛(Vt)　智者(N)　能從(N)　閱讀(Vt)　中(POST)　得到(Vt)　真正(A)　的(T)　享受(Nv)　。(PERIODCATEGORY)
+　

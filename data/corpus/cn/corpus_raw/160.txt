@@ -1,0 +1,8 @@
+　如果(C)　是(Vt)　2009(DET)　到(P)　2010(DET)　年(M)　的(T)　用料(N)　有(Vt)　問題(N)　,(COMMACATEGORY)
+　那(DET)　比例(N)　應該(ADV)　會(ADV)　很高(Vi)　.(PERIODCATEGORY)　我的(N)　車是(b)　2010(DET)　年(M)　1月(N)　交車的(N)　.(PERIODCATEGORY)　如果(C)　比例(N)　真的(ADV)　不(ADV)　高(Vi)　,(COMMACATEGORY)
+　那(DET)　比較(ADV)　有(Vt)　可能(ADV)　是(Vt)　材料(N)　品質(N)　出(Vt)　問題(N)　.(PERIODCATEGORY)　原廠(b)　要有(b)　能力(N)　及(C)　意願(N)　來(ADV)　主動(Vi)　研究(Nv)　及(C)　保修(N)　它(N)　,(COMMACATEGORY)
+　車主(N)　遇到(Vt)　這(DET)　個(M)　問題(N)　已經(ADV)　很(ADV)　不(ADV)　舒服(Vi)　了(T)　,(COMMACATEGORY)
+　請(Vt)　原廠(b)　用最大的(N)　熱忱(N)　來(ADV)　處理(Vt)　.(PERIODCATEGORY)　我(N)　能(ADV)　接受(Vt)　品質(N)　無法(ADV)　做到(Vt)　100(DET)　%(M)　,(COMMACATEGORY)
+　但是(C)　有(Vt)　好的(N)　服務(Nv)　對我(b)　來(ADV)　說(Vt)　就(ADV)　能(ADV)　補足(Vt)　到(P)　100(DET)　%(M)　口碑(N)　的(T)　.(PERIODCATEGORY)　一味(ADV)　的要(N)　車主(N)　接受(Vt)　這(DET)　酸味(N)　,(COMMACATEGORY)
+　但(C)　專員(N)　卻(ADV)　一(DET)　步(M)　也(ADV)　不(ADV)　願再(b)　進到(Vt)　我的(N)　RAV(FW)　4內(b)　((PARENTHESISCATEGORY)　他(N)　說(Vt)　風孔(A)　吹出(Vt)　的是(N)　狐臭味(N)　)(PARENTHESISCATEGORY)　.(PERIODCATEGORY)　這(DET)　.(PERIODCATEGORY)　這(DET)　...(ETCCATEGORY)　這(DET)　讓我(b)　覺得(Vt)　我的(N)　家人(N)　真是(ADV)　偉大(Vi)　.(PERIODCATEGORY)
+　

@@ -1,0 +1,4 @@
+　各(DET)　位(M)　現在(N)　那麼(ADV)　氣憤(Vi)　甚至(ADV)　有人傻(b)　到(Vt)　想投柯(b)　文哲(N)　的(T)　,(COMMACATEGORY)
+　請(Vt)　花(Vt)　幾(DET)　分鐘(M)　冷靜下來(Vi)　要是(C)　真的(ADV)　讓(Vt)　綠營(N)　贏了(b)　花果(N)　山(N)　高潮(N)　他們(N)　會(ADV)　怎麼(ADV)　解讀(Vt)　?(QUESTIONCATEGORY)　他們(N)　會(ADV)　認為(Vt)　學運(N)　是(Vt)　成功(Vi)　的(T)　臺北(N)　市長(N)　變色(Vi)　就(ADV)　是(Vt)　反應(N)　民意(N)　以後(POST)　想(Vt)　怎樣(ADV)　就(ADV)　怎樣(Vi)　,(COMMACATEGORY)
+　想(Vt)　包哪(N)　就(ADV)　包哪(N)　各(DET)　種(M)　癱瘓(Vi)　各(DET)　種(M)　破壞(Vt)　反正(ADV)　他們(N)　代表(Vt)　的(T)　＆(FW)　民意(N)　;(SEMICOLONCATEGORY)　如今(N)　看來(ADV)　理直氣壯(Vi)　啊(T)　這(DET)　種(M)　場景(N)　你(N)　看(Vt)　得(Vt)　下去(ASP)　嗎(T)　拜託(Vt)　不要(ADV)　傻了(b)　什麼(DET)　事情(N)　都(ADV)　絕對(ADV)　沒有(ADV)　讓(Vt)　吱吱(ADV)　們(N)　稱心如意(Vi)　更慘的藍營的(N)　朋友(N)　拜託(Vt)　不要(ADV)　失(Vt)　去(ADV)　平常(Vi)　的(T)　冷靜(Vi)　理智(Vi)　了(T)　.(PERIODCATEGORY)
+　

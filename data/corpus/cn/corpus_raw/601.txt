@@ -1,0 +1,11 @@
+　在(P)　他的詩(b)　中(POST)　始終(ADV)　貫穿(Vt)　?(QUESTIONCATEGORY)　愛與美的(N)　主題(N)　，(COMMACATEGORY)
+　在(P)　對(P)　大自然(N)　的(T)　謳歌(Nv)　中(POST)　抒發(Vt)　了對(b)　自由(Vi)　、(PAUSECATEGORY)　理想(N)　、(PAUSECATEGORY)　愛情(N)　與美(N)　得(T)　渴望(N)　，(COMMACATEGORY)
+　在(P)　對(P)　人生(N)　經歷(Vt)　的(T)　描繪(Nv)　中(POST)　無不(ADV)　蘊含(Vt)　?(QUESTIONCATEGORY)　對(P)　人生(N)　真諦(N)　的(T)　探索(Nv)　。(PERIODCATEGORY)
+　他(N)　對(P)　物慾(N)　、(PAUSECATEGORY)　剝削(Nv)　、(PAUSECATEGORY)　壓榨(Nv)　、(PAUSECATEGORY)　暴力(N)　的(T)　社會(N)　極端(Vi)　的(T)　厭惡(Nv)　，(COMMACATEGORY)
+　他(N)　離(Vt)　?(QUESTIONCATEGORY)　索居(Vi)　，(COMMACATEGORY)
+　就(ADV)　是(Vt)　渴望(Vt)　內心(N)　的(T)　精神(N)　自由(Vi)　。(PERIODCATEGORY)
+　他(N)　認(Vt)　?(QUESTIONCATEGORY)　真正(A)　的(T)　自由(N)　意味(Vt)　?(QUESTIONCATEGORY)　人性(N)　的(T)　昇華(Nv)　，(COMMACATEGORY)
+　人(N)　主宰(Vt)　自己(N)　的(T)　命運(N)　。(PERIODCATEGORY)
+　《(PARENTHESISCATEGORY)　先知(N)　》(PARENTHESISCATEGORY)　表現(Vt)　了(ASP)　萬物(N)　統一(Vt)　和(C)　生命(N)　超越(Vt)　這(DET)　一(DET)　主題(N)　思想(N)　，(COMMACATEGORY)
+　他(N)　認(Vt)　?(QUESTIONCATEGORY)　人類(N)　要(ADV)　實現(Vt)　生命(N)　的(T)　永恆(Nv)　就有(N)　超越(Vt)　死亡(Vi)　。(PERIODCATEGORY)
+　

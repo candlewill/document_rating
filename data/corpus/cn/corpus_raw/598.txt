@@ -1,0 +1,11 @@
+　根據(P)　新聞(N)　江揆是(N)　『(PARENTHESISCATEGORY)　被告(N)　』(PARENTHESISCATEGORY)　被(P)　『(PARENTHESISCATEGORY)　法官(N)　』(PARENTHESISCATEGORY)　傳喚(Vt)　到庭(Vi)　但(C)　殺人罪(N)　不是(N)　應該(ADV)　要(ADV)　經過(Vt)　檢察官(N)　調查(Nv)　後(POST)　起訴(Vt)　才(ADV)　到(Vt)　法院(N)　審理(Vt)　所以(C)　江宜樺(N)　已經(ADV)　被(P)　檢察官(N)　起訴(Vt)　了(T)　？(QUESTIONCATEGORY)
+　殺人罪(N)　不是(N)　除了(P)　要有(b)　殺人(b)　意圖(Vt)　，(COMMACATEGORY)
+　還要(ADV)　有(Vt)　相當(Vi)　程度(N)　的(T)　傷害(N)　造成(Vt)　才會以(N)　此(DET)　起訴(Vt)　？(QUESTIONCATEGORY)
+　學運(N)　的(T)　學生(N)　有(Vt)　人(N)　受傷(Vi)　嚴重(Vi)　到(P)　這(DET)　種(M)　程度(N)　？(QUESTIONCATEGORY)
+　告(ADV)　殺人(b)　，(COMMACATEGORY)
+　是(Vt)　不(ADV)　是也(ADV)　得(Vt)　檢察官(N)　認為(Vt)　夠(ADV)　嚴重(Vi)　才會以(N)　殺人罪(N)　傳喚(Vt)　被告(N)　？(QUESTIONCATEGORY)
+　還是(C)　被告(N)　什麼(DET)　刑事(N)　罪就(b)　會(ADV)　被(P)　以該(b)　罪名(N)　成為(Vt)　被告(N)　被(P)　傳喚(Vt)　，(COMMACATEGORY)
+　起訴(Vt)　時才改(b)　？(QUESTIONCATEGORY)
+　所以(C)　本(DET)　案(N)　檢察官(N)　已經(ADV)　以(P)　殺人罪(N)　起訴(Vt)　了(T)　？(QUESTIONCATEGORY)
+　第一(DET)　線(M)　警察(N)　也被(Vt)　起訴(Vt)　了(T)　？(QUESTIONCATEGORY)
+　

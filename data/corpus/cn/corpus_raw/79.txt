@@ -1,0 +1,3 @@
+　車(N)　好開(N)　就好(N)　.(PERIODCATEGORY)　不太(N)　需要(Vt)　去(ADV)　要求(Vt)　多好的(N)　配備(N)　.(PERIODCATEGORY)　天窗(N)　用不(N)　到(Vt)　..(ETCCATEGORY)　DVD(FW)　個人(N)　覺得(Vt)　用不(N)　到(Vt)　.(PERIODCATEGORY)　原廠(b)　導航(Vi)　..(ETCCATEGORY)　算了(Vi)　吧(T)　..(ETCCATEGORY)　小偷(N)　超愛的(N)　.(PERIODCATEGORY)　拆掉(Vt)　線一(b)　剪(Vt)　~(FW)　保證(Vt)　你回(N)　原廠(b)　花數萬裝線(N)　而已(T)　...(ETCCATEGORY)　個人(N)　覺得(Vt)
+　..(ETCCATEGORY)　好用(Vi)　的(T)　音響(N)　主機(N)　.(PERIODCATEGORY)　夠力的(N)　喇叭(N)　外(N)　購(Vt)　導航(Vi)　.(PERIODCATEGORY)　原廠(b)　標配(b)　倒車(Nv)　雷達(N)　自己(N)　貼好(Vt)　點(M)　隔熱(Vi)　紙(N)　.(PERIODCATEGORY)　這樣(Vi)　真的(ADV)　狠夠了(N)　本身(N)　買(Vt)　年份(N)　比較(Vt)　新的(N)　中古(A)　車改(b)　音響(N)　+(FW)　喇叭(N)　.(PERIODCATEGORY)　貼(Vt)　隔熱(Vi)　紙(N)　.(PERIODCATEGORY)　自己(N)　買(Vt)　導航(Nv)　就很(N)　好開(N)　了(T)　..(ETCCATEGORY)
+　

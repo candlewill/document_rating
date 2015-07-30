@@ -1,0 +1,4 @@
+　失望(Vi)　對象(N)　一(DET)　:(COLONCATEGORY)　馬英九(N)　從(P)　國光(N)　石化(N)　到(Vt)　核四(N)　國家(N)　的(T)　重大(Vi)　建設(N)　與(C)　政策(N)　一再(ADV)　轉彎(Vi)　退讓(Vi)　這(DET)　種(M)　空轉(Vi)　要(ADV)　幾(DET)　次(M)　?(QUESTIONCATEGORY)　失望(Nv)　對象(N)　二(DET)　:(COLONCATEGORY)　民進黨(N)　他們(N)　到底(ADV)　知不知道(Vt)　何謂(Vt)　責任(N)　?(QUESTIONCATEGORY)　自己(N)　執政(Vi)　時下(N)　的(T)　重大(Vi)　決定(Vt)　一(DET)　下臺(Vi)　就(ADV)　否定(Vt)
+　?(QUESTIONCATEGORY)　難道(ADV)　消滅(Vt)　國民黨(N)　真的(ADV)　高於(Vt)　一切(DET)　?(QUESTIONCATEGORY)　難道(ADV)　他們(N)　不(ADV)　知道(Vt)　自己(N)　現在(N)　反對(Vt)　的(T)　東西(N)　在(P)　自己(N)　上臺(Vi)　後(POST)　可能(ADV)　無法(ADV)　收拾(Vt)　?(QUESTIONCATEGORY)　失望(Nv)　對象(N)　二(DET)　:(COLONCATEGORY)　臺灣(N)　理盲(N)　!(EXCLANATIONCATEGORY)　爛(Vi)　情(N)　!(EXCLANATIONCATEGORY)　拿(Vt)　無知(Vi)　當(P)　力量(N)　公共(A)　政策(N)　不比(Vt)　數據(N)　不比(Vt)　評估(Nv)　卻比(Vt)　肚皮(N)
+　薄(Vi)　厚(Vi)　餓不餓得死(b)　?(QUESTIONCATEGORY)　這(DET)　種(M)　人還當(b)　英雄(N)　看(Vt)　?(QUESTIONCATEGORY)　我(N)　看(Vt)　以後(N)　臺灣(N)　的(T)　政黨(N)　政治(N)　比得不是(Vt)　票數(N)　是誰(b)　餓不餓得死(b)
+　

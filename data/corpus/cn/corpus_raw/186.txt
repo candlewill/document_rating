@@ -1,0 +1,5 @@
+　呵(T)　..(ETCCATEGORY)　老實說(ADV)　一(DET)　堆(M)　開著(b)　T(FW)　牌的(N)　,(COMMACATEGORY)
+　說(Vt)　要(ADV)　用好(Vi)　輪胎(N)　比較(ADV)　重要(Vi)　,(COMMACATEGORY)
+　結果(ADV)　還是(ADV)　爆爛(b)　輪胎(N)　..(ETCCATEGORY)　不然(C)　就是(C)　一(DET)　台(M)　便宜(Vi)　的車(N)　,(COMMACATEGORY)
+　改的(N)　亂七八糟(Vi)　排氣(Vi)　聲又大(b)　...(ETCCATEGORY)　不(ADV)　重視(Vt)　安全性(N)　的亂(N)　鑽(Vt)　結果(N)　跑起來(ADV)　比(P)　人家(N)　富豪(N)　..(ETCCATEGORY)　S(FW)　60(DET)　沒(Vt)　改的(N)　車還慢我(b)　相信(Vt)　消費者(N)　都是明眼的(N)　只(ADV)　有(Vt)　些(M)　業務(N)　和網軍是(N)　喇叭(N)　嘴的(N)　所以(C)　那些(DET)　傢伙(N)　我(N)　想(Vt)　大概(ADV)　塑化(N)　劑(N)　當水喝(b)　..(ETCCATEGORY)　因為(C)　對(P)　他們(N)　來(ADV)　說(Vt)　..(ETCCATEGORY)　沒差(N)　.....(ETCCATEGORY)　所以(C)　.(PERIODCATEGORY)　塑化劑(N)　喝多了(b)　結果(ADV)　是(Vt)　..(ETCCATEGORY)　相信(Vt)　大家(N)　都(ADV)　知道(Vt)　沒關係(Vi)　沒關係(Vi)　技術(N)　補足(Vt)　一切(DET)
+　

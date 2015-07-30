@@ -1,0 +1,8 @@
+　可能(ADV)　你(N)　剛好(Vi)　沒遇過(b)　那(DET)　段(M)　強風(N)　吧(T)　,(COMMACATEGORY)
+　我(N)　週(Vi)　週(M)　往返(Vt)　新竹(N)　-(DASHCATEGORY)　台南(N)　和美(N)　那(DET)　段(M)　風(N)　真的(ADV)　強(Vi)　,(COMMACATEGORY)
+　但是(C)　要(ADV)　看(Vt)　季節(N)　,(COMMACATEGORY)
+　並(C)　不(ADV)　是(Vt)　每(DET)　天(M)　都是(N)　這(DET)　種(M)　大風(b)　,(COMMACATEGORY)
+　最近(N)　12月(N)　份(M)　風很大(b)　有時(ADV)　還(ADV)　會(ADV)　被(P)　雙面(A)　巴(N)　來(Vi)　巴去(N)　.....(ETCCATEGORY)　FIT(FW)　的(T)　懸吊(N)　與(C)　yaris(FW)　比(P)　差(Vi)　不(ADV)　到(Vt)　哪(DET)　去(ADV)　尤其(ADV)　後懸也是用(b)　廉價(Vi)　的非(N)　獨立(Vi)　式(N)　懸吊(N)　.(PERIODCATEGORY)　你(N)　要(ADV)　說(Vt)　FIT(FW)　超控(Vi)　好嘛(N)　就(ADV)　是(Vt)　跟(P)　yaris(FW)　一樣(Vi)
+　好(Vi)　,(COMMACATEGORY)
+　要(ADV)　說(Vt)　FIT(FW)　超控(Vi)　差嘛(N)　就(ADV)　是(Vt)　跟(P)　yaris(FW)　一樣(Vi)　差(Vi)　..(ETCCATEGORY)　有空(Vi)　你(N)　可以(ADV)　跑去(Vt)　試試(Vt)　..(ETCCATEGORY)　還(ADV)　有(Vt)　..(ETCCATEGORY)　對與晃的(N)　程度(N)　每(ADV)　個人(N)　感受(Vt)　不同(Vi)　,(COMMACATEGORY)
+　你(N)　的(T)　FIT(FW)　給(Vt)　開版的樓主開稿不(N)　好(Vi)　對他(b)　來(Vi)　說是(b)　一樣(Vi)　晃(Vt)　..(ETCCATEGORY)

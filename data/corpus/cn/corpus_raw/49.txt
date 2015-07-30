@@ -1,0 +1,13 @@
+　讀完(Vt)　這(DET)　套(M)　書(N)　，(COMMACATEGORY)
+　作(Vt)　?(QUESTIONCATEGORY)　一(DET)　箇(M)　中國人(N)　，(COMMACATEGORY)
+　我(N)　很(ADV)　痛苦(Vi)　。(PERIODCATEGORY)
+　?(QUESTIONCATEGORY)　什麼(DET)　中國(N)　和(C)　美國(N)　在(P)　差距(N)　那麼(ADV)　大(Vi)　？(QUESTIONCATEGORY)
+　?(QUESTIONCATEGORY)　什麼(DET)　還(ADV)　有(Vt)　那麼多(DET)　的(T)　中國人(N)　在(P)　排斥(Vt)　民主(N)　、(PAUSECATEGORY)　在(Vt)　?(QUESTIONCATEGORY)　腐敗(Vi)　的(T)　中國(N)　官僚(N)　體制(N)　辯護(Vi)　？(QUESTIONCATEGORY)
+　痛苦(Vi)　的(T)　時候(N)　，(COMMACATEGORY)
+　也(ADV)　看到(Vt)　一(DET)　種(M)　希望(N)　，(COMMACATEGORY)
+　民(N)　?(QUESTIONCATEGORY)　也(ADV)　可以(ADV)　真正(A)　的(T)　擁有(Vt)　自由(N)　和(C)　民主(N)　而(C)　不(ADV)　被(P)　奴役(Vt)　。(PERIODCATEGORY)
+　中國人(N)　應當(ADV)　有(Vt)　一(DET)　種(M)　信念(N)　，(COMMACATEGORY)
+　“(FW)　阻擋(Vt)　?(QUESTIONCATEGORY)　星(N)　閃亮(Vi)　的是(N)　一(DET)　片(M)　黑雲(N)　，(COMMACATEGORY)
+　黑雲(N)　不可能(ADV)　永遠(ADV)　阻擋(Vt)　星辰(N)　”(FW)　如果(C)　你(N)　想(Vt)　讀書(Vi)　，(COMMACATEGORY)
+　這(DET)　套(M)　書會是你讀過(b)　之後(POST)　絕不(ADV)　後悔(Vt)　的(T)　一(DET)　套(M)　書(N)　。(PERIODCATEGORY)
+　

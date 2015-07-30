@@ -1,0 +1,6 @@
+　當然(ADV)　..(ETCCATEGORY)　你(N)　可以(ADV)　正名(Vi)　但(C)　也(ADV)　請(Vt)　不要(ADV)　一(DET)　竿子(N)　打翻(Vt)　一(DET)　艘(M)　船(N)　會(ADV)　選(Vt)　TOYOTA(FW)　的(T)　人(N)　並(ADV)　不(ADV)　是(Vt)　無知(Vi)　或是(C)　沒做(b)　功課(N)　只(ADV)　不過(C)　每(DET)　個人(N)　需求(N)　不同(Vi)　罷了(T)　其他(DET)　車廠(N)　有(Vt)　TOYOTA(FW)　所(ADV)　沒有(Vt)　的(T)　優點(N)　有(Vt)　更好的超控(Vt)　,(COMMACATEGORY)
+　底盤(N)　,(COMMACATEGORY)
+　動力(N)　,(COMMACATEGORY)
+　安全(Vi)　但是(C)　TOYOTA(FW)　也是(b)　有(Vt)　他(N)　所有(DET)　而(C)　其他(DET)　廠(N)　比不上(Vt)　的(T)　優點(N)　所以(C)　請(Vt)　不要(ADV)　說選(b)　TOYOTA(FW)　的(T)　人(N)　就是(C)　沒做(b)　功課(N)　誰買(b)　國產(A)　車是像選(b)　衣服(N)　一樣(Vi)　隨便(Vi)　買的(N)　?(QUESTIONCATEGORY)　說白了(b)　只是(C)　各(DET)　取最(b)　適合(Vi)　自己(N)　的車(N)　罷了(T)
+　我(N)　這樣(Vi)　也算(b)　正名(Vi)　嗎(T)　?(QUESTIONCATEGORY)
+　

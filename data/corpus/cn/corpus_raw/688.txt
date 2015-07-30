@@ -1,0 +1,10 @@
+　開箱(Vi)　即(ADV)　發現(Vt)　USB(FW)　口(N)　一(DET)　個(M)　是壞的(N)　，(COMMACATEGORY)
+　觸摸(Vt)　板(N)　左鍵也(N)　是壞的(N)　，(COMMACATEGORY)
+　惠普(N)　的(T)　質量(N)　控制(Vt)　體系(N)　可以(ADV)　用(P)　垃圾(N)　來(ADV)　形容(Vt)　。(PERIODCATEGORY)
+　要求(Vt)　換貨(b)　還(ADV)　要(ADV)　客戶(N)　跑到(Vt)　廠方(N)　維修(Nv)　部出(N)　檢測(Nv)　證明(N)　，(COMMACATEGORY)
+　換貨(b)　過程(N)　中(POST)　返修單(Vt)　留言(N)　多(DET)　日(M)　無人迴應(b)　，(COMMACATEGORY)
+　售後(A)　電話(N)　等待(Vt)　時間(N)　超長(Vi)　，(COMMACATEGORY)
+　服務(Nv)　承諾(N)　10(DET)　天(M)　完成(Vt)　換貨(b)　週期(N)　實際(Vi)　用了(b)　15(DET)　天(M)　，(COMMACATEGORY)
+　換貨(b)　過程(N)　中間(N)　價格(N)　降低(Vt)　400多(DET)　沒有(Vt)　價保(Vi)　（(PARENTHESISCATEGORY)　一(DET)　次(M)　都(ADV)　沒有(ADV)　用到(Vt)　）(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　商品(N)　服務(Nv)　都是(N)　垃圾(N)　等級(N)　的(T)　。(PERIODCATEGORY)
+　

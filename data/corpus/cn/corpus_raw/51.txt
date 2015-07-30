@@ -1,0 +1,12 @@
+　科普(N)　兒童(N)　立體(Vi)　手工(N)　?(QUESTIONCATEGORY)　《(PARENTHESISCATEGORY)　恐龍(N)　家族(N)　》(PARENTHESISCATEGORY)　一書(b)　，(COMMACATEGORY)
+　很(ADV)　適合(Vi)　小朋友(N)　在(P)　課餘(N)　時間(N)　作(Vt)　?(QUESTIONCATEGORY)　挑戰(N)　自己(N)　細心(Vi)　和(C)　耐性(N)　的好(N)　助手(N)　！(EXCLANATIONCATEGORY)
+　小朋友(N)　可以(ADV)　在(P)　裁剪(Vt)　的(T)　過程(N)　中(POST)　，(COMMACATEGORY)
+　鍛鍊到(Vt)　腦的(N)　操控(Nv)　能力(N)　，(COMMACATEGORY)
+　在(P)　粘貼(Vt)　的(T)　過程(N)　，(COMMACATEGORY)
+　訓練(Vt)　自己(N)　的(T)　堅持(Nv)　性(N)　，(COMMACATEGORY)
+　當(P)　恐龍(N)　立體(Vi)　展現(Vt)　時(POST)　，(COMMACATEGORY)
+　除了(P)　知道(Vt)　了(ASP)　有關(Vt)　它們(N)　的(T)　知識(N)　和(C)　名字(N)　外(POST)　，(COMMACATEGORY)
+　最(ADV)　主要(ADV)　是(Vt)　收穫(Vt)　了(ASP)　一(DET)　份(M)　自信(N)　和(C)　成就感(N)　！(EXCLANATIONCATEGORY)
+　自信(N)　是(Vt)　小朋友(N)　邁開(Vt)　成功(Vi)　的(T)　第一(DET)　步(M)　！(EXCLANATIONCATEGORY)
+　是(Vt)　自我(N)　肯定(Vt)　的內(N)　動力(N)　！(EXCLANATIONCATEGORY)
+　

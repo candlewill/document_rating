@@ -1,0 +1,12 @@
+　服務(Vt)　好(Vi)　，(COMMACATEGORY)
+　前(DET)　臺(N)　接待員(N)　挺(ADV)　熱情(Vi)　。(PERIODCATEGORY)
+　環境(N)　相當(ADV)　不錯(Vi)　，(COMMACATEGORY)
+　樓下(N)　就是(C)　公園(N)　。(PERIODCATEGORY)
+　早上(N)　轉了轉(b)　，(COMMACATEGORY)
+　看到(Vt)　一(DET)　?(QUESTIONCATEGORY)　MM(FW)　在做(b)　健美操(N)　，(COMMACATEGORY)
+　意外(N)　收穫(N)　：(COLONCATEGORY)　）(PARENTHESISCATEGORY)　早餐(N)　比(P)　上(DET)　次(M)　好(ADV)　很多(Vi)　，(COMMACATEGORY)
+　新(Vi)　加的(N)　番茄(N)　雞蛋(N)　卷很(N)　好吃(Vi)　。(PERIODCATEGORY)
+　晚上(N)　上網(Nv)　網(N)　?(QUESTIONCATEGORY)　太(N)　短(Vi)　，(COMMACATEGORY)
+　打(Vt)　了(ASP)　服務(Nv)　電話(N)　不(ADV)　到(Vt)　兩(DET)　分鐘(M)　一(DET)　位(M)　帥哥(N)　拿了(N)　一(DET)　條(M)　超長的(N)　。(PERIODCATEGORY)
+　心(N)　中(POST)　竊喜(Vi)　：(COLONCATEGORY)　；(SEMICOLONCATEGORY)　）(PARENTHESISCATEGORY)　一(DET)　個(M)　字(N)　“(FW)　爽(Vi)　”(FW)　下(DET)　次(M)　還(ADV)　會(ADV)　住(Vt)　！(EXCLANATIONCATEGORY)
+　

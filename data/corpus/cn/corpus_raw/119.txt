@@ -1,0 +1,4 @@
+　強大(Vi)　?(QUESTIONCATEGORY)　路上(b)　能見度(N)　越(ADV)　高就(Vi)　越(ADV)　強大(Vi)　?(QUESTIONCATEGORY)　怎麼(ADV)　不(ADV)　說(Vt)　金字塔(N)　底層(N)　的(T)　數量(N)　比(P)　上(DET)　層(M)　多(POST)　就(ADV)　等於(Vt)　比較(ADV)　強大(Vi)　?(QUESTIONCATEGORY)　現在(N)　又(ADV)　不(ADV)　是打(N)　人海戰術(N)　!(EXCLANATIONCATEGORY)　車子(N)　這(DET)　東西(N)　的(T)　意義(N)　和(C)　重要性(N)　因人而異(Vi)　!(EXCLANATIONCATEGORY)　有(Vt)　人把他當(b)　代(N)　?(QUESTIONCATEGORY)　工具(N)　...(ETCCATEGORY)　有(Vt)
+　人把他當(b)　生財(Nv)　工具(N)　...(ETCCATEGORY)　有(Vt)　人把他當(b)　發洩(Nv)　工具(N)　...(ETCCATEGORY)　當然(ADV)　也(ADV)　有(Vt)　人把他當(b)　心愛(A)　玩具(N)　...(ETCCATEGORY)　個(M)　人(N)　認為(Vt)　前(DET)　兩(DET)　項(M)　應該(ADV)　比較(ADV)　接近(Vi)　多數(DET)　Toyoya(FW)　車主(N)　的(T)　需求(N)　...(ETCCATEGORY)　我(N)　不(ADV)　把車(N)　單純(Vi)　當成(Vt)　代(N)　?(QUESTIONCATEGORY)　工具(N)　.(PERIODCATEGORY)
+　..(ETCCATEGORY)　也(ADV)　不(ADV)　喜歡(Vt)　Toyota(FW)　的(T)　設計(N)　和(C)　調性(N)　...(ETCCATEGORY)　所以(C)　我(N)　並(ADV)　不(ADV)　覺得(Vt)　Toyota(FW)　很(ADV)　強大(Vi)　!(EXCLANATIONCATEGORY)
+　

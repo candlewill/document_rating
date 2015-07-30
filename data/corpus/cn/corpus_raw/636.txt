@@ -1,0 +1,7 @@
+　請(Vt)　恕(Vt)　小弟(N)　無知(Vi)　問(Vt)　一(DET)　個(M)　疑惑(Nv)　已久的(N)　問題(N)　...(ETCCATEGORY)　既然(C)　GTR(FW)　那麼(ADV)　厲害(Vi)　,(COMMACATEGORY)
+　為何(ADV)　中里(N)　毅會(b)　輕易(ADV)　的被(N)　帝王隊(N)　的(T)　板凳(N)　球員(N)　清次(N)　打敗(Vt)　?(QUESTIONCATEGORY)　((PARENTHESISCATEGORY)　京一才是(b)　帝王隊(N)　的(T)　王牌(N)　,(COMMACATEGORY)
+　都(ADV)　不用(ADV)　他(N)　出場(Vi)　了(ASP)　)(PARENTHESISCATEGORY)　我(N)　看(Vt)　不(ADV)　出(Vt)　中里(N)　毅是(b)　因為(C)　技不如人(Vi)　才輸了(N)　那(DET)　場(M)　,(COMMACATEGORY)
+　看起來(ADV)　像是(b)　車子(N)　性能(N)　遠(ADV)　不如(Vt)　對手(N)　...(ETCCATEGORY)　意思(N)　是(Vt)　EVO(FW)　4比(Vt)　GTRR(FW)　32(DET)　強(Vi)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　就算(C)　質疑(Vt)　中里(N)　的(T)　技術(N)　,(COMMACATEGORY)
+　神(N)　之腳(N)　在(P)　下坡(N)　也(ADV)　徹底(Vi)　輸給(Vt)　了啟介(b)　,(COMMACATEGORY)
+　神(N)　之腳(N)　的(T)　技術(N)　沒人(b)　質疑(Vt)　吧(T)　?(QUESTIONCATEGORY)　意思(N)　是(Vt)　GTRR(FW)　34(DET)　也(ADV)　不如(Vt)　FD3S(FW)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　為什麼(ADV)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)
+　

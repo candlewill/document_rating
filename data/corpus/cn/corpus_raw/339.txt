@@ -1,0 +1,13 @@
+　對於(P)　含(Vt)　XP(FW)　的(T)　10(DET)　寸(M)　升級(Vi)　了(ASP)　CPU(FW)　並且(C)　續航(N)　能力(N)　強的(N)　品牌(N)　小(Vi)　本(M)　，(COMMACATEGORY)
+　價格(N)　目前(N)　還(ADV)　可以(ADV)　。(PERIODCATEGORY)
+　該(DET)　機器(N)　無論(C)　是(Vt)　電源(N)　還是(C)　機器(N)　本身(N)　，(COMMACATEGORY)
+　認證(Nv)　都很(N)　全面(ADV)　，(COMMACATEGORY)
+　品牌(N)　的(T)　實力(N)　。(PERIODCATEGORY)
+　細節(N)　方面(N)　也很(Vi)　下功夫(Vi)　，(COMMACATEGORY)
+　無論(C)　是(Vt)　功能(N)　還是(C)　外觀(N)　，(COMMACATEGORY)
+　該(DET)　有的(DET)　設計(N)　基本(A)　都有(N)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　電源(N)　?(QUESTIONCATEGORY)　和適(N)　配器(N)　都有(N)　尼龍(N)　捆紮帶(N)　。(PERIODCATEGORY)
+　所以(C)　使用(Vt)　起來(ASP)　方便(Vi)　又(ADV)　放心(Vt)　，(COMMACATEGORY)
+　作(Vt)　?(QUESTIONCATEGORY)　娛樂(N)　上網(Nv)　本(N)　，(COMMACATEGORY)
+　能夠(ADV)　滿足(Vt)　基本(A)　需求(N)　。(PERIODCATEGORY)
+　

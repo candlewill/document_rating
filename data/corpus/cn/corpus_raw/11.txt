@@ -1,0 +1,13 @@
+　正(ADV)　如書的(N)　名稱(N)　，(COMMACATEGORY)
+　三毛(N)　的(T)　這(DET)　本(M)　早期(N)　作品(N)　不同於(Vt)　後期(N)　成熟(Vi)　後(POST)　那(DET)　個(M)　樂觀(Vi)　堅強(Vi)　的(T)　三毛(N)　，(COMMACATEGORY)
+　而是(C)　記錄(Vt)　了當(b)　三毛(N)　還(ADV)　是(Vt)　二(DET)　毛(M)　時的(N)　經歷(Nv)　，(COMMACATEGORY)
+　心境(N)　，(COMMACATEGORY)
+　是(Vt)　她(N)　年少(Vi)　時(POST)　那(DET)　個(M)　愛(Vt)　做夢(Vi)　，(COMMACATEGORY)
+　有(Vt)　些(M)　神經質(Vi)　，(COMMACATEGORY)
+　傷感(Vi)　的(T)　雨季(N)　的(T)　縮影(N)　。(PERIODCATEGORY)
+　也許(ADV)　成就(Vt)　並(ADV)　不(ADV)　是很高(Vt)　，(COMMACATEGORY)
+　然而(C)　喜歡(Vt)　三毛(N)　的(T)　朋友(N)　卻(ADV)　可(ADV)　從中(ADV)　窺見(Vt)　那(DET)　個(M)　讓(Vt)　他們(N)　?(QUESTIONCATEGORY)　迷的(N)　女子(N)　是(Vt)　怎樣(ADV)　成長(Vi)　起來(ASP)　的(T)　。(PERIODCATEGORY)
+　而(C)　正(ADV)　處於(Vt)　那(DET)　個(M)　生命(N)　階段(N)　的(T)　讀者(N)　也許(ADV)　會(ADV)　產生(Vt)　共鳴(N)　，(COMMACATEGORY)
+　發現(Vt)　原來(ADV)　他們(N)　在(P)　這(DET)　個(M)　時候(N)　的(T)　想法(N)　並(ADV)　不(ADV)　是(Vt)　孤獨(Vi)　，(COMMACATEGORY)
+　沒有(Vt)　人(N)　明白(Vt)　的(T)　。(PERIODCATEGORY)
+　

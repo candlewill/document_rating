@@ -1,0 +1,7 @@
+　話(N)　說(Vt)　TINKPAD(FW)　已經(ADV)　成(Vi)　?(QUESTIONCATEGORY)　國貨(N)　好幾(DET)　年(M)　了(T)　，(COMMACATEGORY)
+　但是(C)　黑迷們(N)　始終(ADV)　認定(Vt)　人家(N)　是(Vt)　IBM(FW)　的(T)　東西(N)　這(DET)　一點(DET)　倒是(ADV)　可以(ADV)　確定(Vt)　，(COMMACATEGORY)
+　技術(N)　上(POST)　，(COMMACATEGORY)
+　無論(C)　硬件(N)　軟件(N)　,(COMMACATEGORY)
+　小黑(Vi)　始終(ADV)　是(Vt)　業界(N)　的(T)　翹楚(N)　輕便(Vi)　確實(Vi)　讓我(b)　如釋重負(Vi)　以前(POST)　都(ADV)　是用的最牛的(N)　T(FW)　系列(N)　，(COMMACATEGORY)
+　就是(C)　有(Vt)　些(M)　笨重(Vi)　最(ADV)　可喜(Vi)　得是(N)　，(COMMACATEGORY)
+　小黑(Vi)　的(T)　屏幕(N)　效果(N)　終於(ADV)　有點(ADV)　起色(N)　了(ASP)　娛樂(N)　功能(N)　也(ADV)　強化(Vt)　了(ASP)　不少(DET)

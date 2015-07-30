@@ -1,0 +1,8 @@
+　toyota(FW)　目前(N)　新(Vi)　車都是(b)　跟(P)　進口車(N)　都是(N)　使用(Vt)　可變(b)　容積(N)　式的(N)　壓縮機(N)　.(PERIODCATEGORY)　壓縮機(N)　使用(Vt)　電子(N)　可變(b)　開關(N)　控制(Vt)　,(COMMACATEGORY)
+　想當然(ADV)　....(ETCCATEGORY)　冷氣(N)　妥善(Vi)　率(N)　一定(ADV)　會(ADV)　比(P)　以前(N)　傳統(N)　只(ADV)　利用(Vt)　離合器(N)　控制(Vt)　的(T)　還要(ADV)　差(Vi)　!(EXCLANATIONCATEGORY)　因為(C)　每(DET)　個人(N)　上車(Vi)　冷氣(N)　要(ADV)　馬上(ADV)　冷(Vi)　,(COMMACATEGORY)
+　又(ADV)　要(ADV)　省油(b)　.(PERIODCATEGORY)　這(DET)　種(M)　冷氣(N)　系統(N)　剛好(ADV)　符合(Vt)　使用(Nv)　者(N)　.(PERIODCATEGORY)　光是(b)　那(DET)　隻(M)　開關(N)　就(ADV)　不(ADV)　太(ADV)　便宜(Vi)　了(T)　,(COMMACATEGORY)
+　一(DET)　個(M)　壓縮機(N)　破萬是(b)　正常(Vi)　的(T)　!(EXCLANATIONCATEGORY)　不用(ADV)　擔心(Vt)　買到(Vt)　車王(b)　,(COMMACATEGORY)
+　還(ADV)　有(Vt)　人(N)　wish(FW)　買(Vt)　一(DET)　年(M)　就壞的(N)　,(COMMACATEGORY)
+　不過(C)　那(DET)　是(Vt)　小黃(N)　,(COMMACATEGORY)
+　跑(Vi)　了(ASP)　27萬(DET)　哪(N)　可能(ADV)　不會(ADV)　壞(Vt)　!(EXCLANATIONCATEGORY)
+　

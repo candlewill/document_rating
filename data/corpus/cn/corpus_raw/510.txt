@@ -1,0 +1,9 @@
+　很(ADV)　明顯(Vi)　的(T)　國民黨(N)　是(Vt)　打算(Vt)　採取(Vt)　消耗戰(N)　的(T)　策略(N)　了要逼(N)　那些(DET)　學生(N)　日久(b)　筋疲力竭(Vi)　之後(POST)　,(COMMACATEGORY)
+　自動(Vi)　撤離(Vt)　但我(N)　不(ADV)　懂的是(N)　這(DET)　僵局(N)　,(COMMACATEGORY)
+　難道(ADV)　沒人(b)　提出(Vt)　公投讓(N)　贊成(Vt)　和(C)　反對(Nv)　服貿(N)　陣營(N)　,(COMMACATEGORY)
+　雙方(N)　正面(ADV)　對決(Vi)　為了(P)　台灣(N)　好(Vi)　,(COMMACATEGORY)
+　輸(Vt)　的(T)　人(N)　就(ADV)　可以(ADV)　閉嘴(Vi)　別(ADV)　再(ADV)　抗爭(Vi)　了(ASP)　至於(P)　我(N)　雖然(C)　沒法(ADV)　北上(Vi)　到(Vt)　立法院(N)　支持(Vt)　學生(N)　但我(N)　還是(ADV)　對(P)　學生(N)　的(T)　熱情(N)　,(COMMACATEGORY)
+　抱持(Vt)　肯定(Vt)　的(T)　態度(N)　因為(C)　一(DET)　個(M)　法案(N)　,(COMMACATEGORY)
+　30(DET)　秒(M)　就從(N)　委員會(N)　送出(Vt)　,(COMMACATEGORY)
+　這(DET)　匪夷所思(Vi)　審(Vt)　法案(N)　的(T)　態度(N)　絕對(ADV)　是(Vt)　不足取(Vi)　和(C)　差勁(Vi)　之急(Vt)　.(PERIODCATEGORY)
+　

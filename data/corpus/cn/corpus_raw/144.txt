@@ -1,0 +1,8 @@
+　這(DET)　篇(M)　文章(N)　跟(P)　福特(N)　有(Vt)　關係(N)　嗎(T)　？(QUESTIONCATEGORY)
+　孤鴻(N)　海(N)　上(POST)　來(ADV)　你(N)　真的(ADV)　很(ADV)　會(ADV)　硬(Vi)　凹捏各國(N)　強制(ADV)　安裝(Vt)　的(T)　安全(Nv)　配備(N)　，(COMMACATEGORY)
+　如同(P)　安全帶(N)　一般(POST)　只有(C)　台灣(N)　政商(N)　牛步(Vi)　，(COMMACATEGORY)
+　還是(ADV)　說你(b)　跟(P)　他們(N)　有(Vt)　一(DET)　腿(N)　？(QUESTIONCATEGORY)
+　擁護(Vt)　T(FW)　牌(N)　到(P)　這(DET)　種(M)　程度(N)　，(COMMACATEGORY)
+　也(ADV)　真(Vi)　有你的(N)　畢竟(ADV)　花錢(Vi)　買(Vt)　Toyota(FW)　的是(N)　別人(N)　，(COMMACATEGORY)
+　也(ADV)　不(ADV)　是你對吧(Vt)　？(QUESTIONCATEGORY)
+　別人(N)　家的(N)　小孩(N)　死(Vi)　不完(N)　如果(C)　因為(C)　你(N)　一(DET)　句(M)　話讓(b)　其他(DET)　消費者(N)　對(P)　安全性(N)　有(Vt)　了(ASP)　錯誤(Vi)　的(T)　決定(N)　甚至(ADV)　間接(ADV)　導致(Vt)　未來(N)　事故(N)　的(T)　發生(Vt)　那(DET)　業報(N)　是(Vt)　一輩子(N)　都(ADV)　還(ADV)　不(ADV)　完的(N)

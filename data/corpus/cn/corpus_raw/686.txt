@@ -1,0 +1,7 @@
+　個人(N)　認為(Vt)　會(ADV)　買(Vt)　toyota(FW)　的(T)　客戶(N)　大都(ADV)　不會(ADV)　做買車(b)　前(POST)　的(T)　安全(Nv)　比較(Nv)　,(COMMACATEGORY)
+　有(Vt)　可能(ADV)　是(Vt)　老一輩(N)　口(N)　耳(N)　相傳(Vt)　或厝邊(b)　朋友(N)　的(T)　意見(N)　.(PERIODCATEGORY)　但(C)　品質(N)　,(COMMACATEGORY)
+　品牌(N)　或(C)　省油的(N)　優勢(N)　是(Vt)　不(ADV)　是(Vt)　真的(ADV)　一直(ADV)　維持(Vt)　,(COMMACATEGORY)
+　2.5(DET)　的(T)　銷量(N)　很(ADV)　快(Vi)　就(ADV)　能(ADV)　反映出來(Vt)　.(PERIODCATEGORY)　如果(C)　因為(C)　2.5(DET)　的(T)　稅金(N)　還(ADV)　有(Vt)　一些(DET)　優勢(N)　不存(N)　,(COMMACATEGORY)
+　再(ADV)　加上(Vt)　很多(DET)　安全(Nv)　配備(N)　被(P)　削減(Vt)　而(C)　導致(Vt)　銷量(N)　驟減(b)　.(PERIODCATEGORY)　台灣(N)　豐田(N)　最後(N)　不得已(Vi)　只好(ADV)　加上(Vt)　4(DET)　SRS+ESPor6SRS+ESP(FW)　,(COMMACATEGORY)
+　那麼(ADV)　毫無(Vt)　誠意(N)　的改款(N)　未嘗(ADV)　不(ADV)　是(Vt)　件(M)　好事(N)　.(PERIODCATEGORY)
+　

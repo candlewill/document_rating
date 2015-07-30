@@ -1,0 +1,5 @@
+　國外(N)　之前(POST)　就(ADV)　作過(b)　測試(Vt)　了找(b)　一(DET)　堆(M)　自認為(Vt)　反應(N)　一流(Vi)　、(PAUSECATEGORY)　技術(N)　不錯(Vi)　的(T)　一般(A)　駕駛人(N)　來(ADV)　開(Vt)　結果(N)　ESPOFF(FW)　的(T)　情況(N)　就(ADV)　是(Vt)　打滑(N)　失控(Vi)　.....(ETCCATEGORY)　ESPON(FW)　則好(Vi)　很多(DET)　我(N)　發現(Vt)　01(DET)　版上(b)　神人(N)　很多(Vi)　，(COMMACATEGORY)
+　老是(ADV)　嗆(Vi)　別人(N)　不會(ADV)　開車(Vi)　自己(N)　最(ADV)　會(ADV)　開我在想(b)　這(DET)　究竟(ADV)　是(Vt)　自我(N)　感覺(Vt)　良好(Vi)　或是(C)　自我(N)　安慰(Vt)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　搞不好(ADV)　技術(N)　還比(Vt)　上述(N)　國外(N)　的(T)　受測(Nv)　者(N)　來(POST)　的差(N)　，(COMMACATEGORY)
+　01(DET)　上講的(N)　跟(P)　神(N)　一樣(Vi)　，(COMMACATEGORY)
+　碰到(Vt)　了(ASP)　還是(ADV)　滑(Vi)　滑滑(Vi)　....(ETCCATEGORY)　科科(DET)　。(PERIODCATEGORY)
+　

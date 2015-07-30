@@ -1,0 +1,9 @@
+　建議(Vt)　攜(Vt)　程(N)　不要(ADV)　和(P)　這(DET)　家(M)　酒店(N)　合作(Vi)　,(COMMACATEGORY)
+　名(N)　曰(Vt)　三星(N)　,(COMMACATEGORY)
+　要(ADV)　我(N)　看(Vt)　準星(N)　級都(Vt)　勉強(Vi)　!(EXCLANATIONCATEGORY)　首先(ADV)　不(ADV)　在(P)　市區(N)　裏面(N)　((PARENTHESISCATEGORY)　去涵江區打車(b)　還(ADV)　要(ADV)　10(DET)　塊(M)　錢(N)　,(COMMACATEGORY)
+　當然(ADV)　你(N)　能(ADV)　打到(Vt)　的(T)　話(N)　)(PARENTHESISCATEGORY)　在(P)　一(DET)　條(M)　前(POST)　不(ADV)　?(QUESTIONCATEGORY)　村(N)　後(POST)　不(ADV)　?(QUESTIONCATEGORY)　店的(N)　公路(N)　旁(N)　,(COMMACATEGORY)
+　交通(N)　極其(ADV)　不便(Vi)　;(SEMICOLONCATEGORY)　其次(C)　一(ADV)　進入(Vt)　酒店(N)　就(ADV)　一(DET)　股(M)　黴味(b)　,(COMMACATEGORY)
+　地毯(N)　上(POST)　到處(ADV)　都(ADV)　是(Vt)　污漬(Vi)　,(COMMACATEGORY)
+　很(ADV)　像(Vt)　地圖(N)　.(PERIODCATEGORY)　最(ADV)　不能(ADV)　容忍(Vt)　的是(N)　有(Vt)　很多(DET)　小(Vi)　蟲子(N)　,(COMMACATEGORY)
+　到處(ADV)　亂爬(b)　.(PERIODCATEGORY)　我(N)　正好(ADV)　趕上(Vt)　颱風(N)　沒有(Vt)　辦法(N)　只能在(b)　那(ADV)　住(Vt)　要不(C)　我(N)　不(ADV)　敢(Vt)　保證(Vt)　還(ADV)　會(ADV)　住(Vt)　那裏(N)　.(PERIODCATEGORY)
+　

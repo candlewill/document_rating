@@ -1,0 +1,11 @@
+　首先(ADV)　附贈(Vt)　軟件(N)　（(PARENTHESISCATEGORY)　Office(FW)　2007(DET)　、(PAUSECATEGORY)　McAfee(FW)　）(PARENTHESISCATEGORY)　是在(b)　第一(DET)　次(M)　?(QUESTIONCATEGORY)　動(N)　時(POST)　決定(Vt)　是否(ADV)　安裝(Vt)　。(PERIODCATEGORY)
+　不(ADV)　像(P)　很多(DET)　品牌(N)　的(T)　筆記本(N)　，(COMMACATEGORY)
+　一(ADV)　上(N)　來(T)　一股腦兒(ADV)　給(Vt)　你(N)　裝上(Vt)　。(PERIODCATEGORY)
+　而且(C)　實際(Vi)　使用(Vt)　後(POST)　發現(Vt)　它的(N)　很多(DET)　自帶的(N)　實用(Vi)　軟件(N)　非常(ADV)　出色(Vi)　，(COMMACATEGORY)
+　非常(ADV)　人性化(Vt)　！(EXCLANATIONCATEGORY)
+　回家(Vi)　仔細(Vi)　使用(Vt)　後(POST)　發現(Vt)　鍵盤(N)　手感(b)　果然(ADV)　如(P)　大家(N)　所(ADV)　說(Vt)　非常(ADV)　出色(Vi)　。(PERIODCATEGORY)
+　另外(ADV)　第一(DET)　次(M)　使用(Vt)　小紅(Vi)　點就(b)　愛上(Vt)　它了(b)　--(DASHCATEGORY)　感覺(N)　比(P)　觸摸(Vt)　板(N)　好多(DET)　了(T)　，(COMMACATEGORY)
+　難怪(ADV)　它(N)　會(ADV)　成(Vi)　?(QUESTIONCATEGORY)　ThinkPad(FW)　基因(N)　之(T)　一(DET)　機器(N)　雖然(C)　有點(ADV)　重(Vi)　，(COMMACATEGORY)
+　但是(C)　感覺(Vt)　很(ADV)　紮實(Vi)　，(COMMACATEGORY)
+　比(P)　某些(DET)　“(FW)　娛樂(Vt)　本(DET)　”(FW)　紮實(Vi)　很多(DET)　。(PERIODCATEGORY)
+　

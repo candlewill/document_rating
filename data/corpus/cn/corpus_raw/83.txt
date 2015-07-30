@@ -1,0 +1,7 @@
+　的確(ADV)　...(ETCCATEGORY)　內文(N)　最後(N)　一(DET)　句(M)　身為(Vt)　同級(N)　車(N)　銷售(Nv)　龍頭(N)　的(T)　CAMRY(FW)　車系(N)　，(COMMACATEGORY)
+　在(P)　推出(Vt)　新一代(A)　車型(N)　後(POST)　，(COMMACATEGORY)
+　再度(ADV)　以(P)　十足(Vi)　地(T)　配備(N)　與(C)　安全(Nv)　防護(Nv)　，(COMMACATEGORY)
+　延續(Vt)　著(ASP)　車系(N)　廣受(Vt)　歡迎(Vt)　的(T)　最佳(A)　地位(N)　。(PERIODCATEGORY)
+　擺明(Vt)　仗著(P)　牛頭牌(N)　光環(N)　仗著(P)　銷售量(N)　高(Vi)　這樣(Vi)　對的起你的(N)　支持(Vt)　著(ASP)　=(FW)　=(FW)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　vios(FW)　拿出來(Vi)　賣(Vt)　就算(Vi)　了(ASP)　至少(ADV)　是低(Vi)　價位(N)　camry(FW)　這(DET)　種(M)　牛頭牌(N)　高(Vi)　價位(N)　房車(N)　還(ADV)　這樣(Vi)　搞(Vt)　該偷的(N)　偷不(N)　該偷的(N)　也偷(b)　光光(Vi)　((PARENTHESISCATEGORY)　哪些(DET)
+　是(Vt)　該偷的(N)　XD(FW)　?(QUESTIONCATEGORY)　還可以(Vi)　賣的(N)　那麼(ADV)　心安(Vi)　YO!!ALLNEWCAMRY(FW)　新款(A)　的喔(N)　!(EXCLANATIONCATEGORY)　讓(Vt)　人家(N)　感覺(Vt)　新的(N)　一定(ADV)　比較(ADV)　好(Vi)　如此(Vi)　行銷(N)　法手(N)　實在(ADV)　讓人(b)　不齒(Vt)
+　

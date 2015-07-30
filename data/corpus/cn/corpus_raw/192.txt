@@ -1,0 +1,4 @@
+　在(P)　01(DET)　不能(ADV)　說(Vt)　toyota(FW)　的好(N)　不然(C)　就是(C)　不(ADV)　懂車(N)　那些(DET)　老愛說(Vi)　toyota(FW)　不好的(N)　人(N)　到底(ADV)　又(ADV)　開過(b)　哪些(DET)　車(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　我(N)　也(ADV)　從沒買過(b)　toyota(FW)　的車(N)　不是(N)　toyota(FW)　不好(Vi)　純粹(ADV)　是(Vt)　預算(N)　剛好(Vi)　不在(N)
+　那(DET)　個(M)　階層(N)　＆(FW)　lt(FW)　;(SEMICOLONCATEGORY)　除了(P)　老婆(N)　曾在(b)　加拿大(N)　買了(b)　一(DET)　台(M)　yaris＆gt(FW)　;(SEMICOLONCATEGORY)　但我(N)　從不(ADV)　認為(Vt)　別人(N)　買(Vt)　toyota(FW)　就(ADV)　是(Vt)　不(ADV)　懂車(N)　或(C)　啥(DET)　的(T)　青菜(N)　蘿波各(b)　有(Vt)　所好(N)　如果(C)　你(N)　的車(N)　被(P)　說成(Vt)　是(Vt)　垃圾(N)　/(FW)　會(ADV)　撞(Vt)　死人(N)　的車(N)　.(PERIODCATEGORY)
+　..(ETCCATEGORY)　你(N)　會(ADV)　很(ADV)　開心(Vi)　嗎(T)　?(QUESTIONCATEGORY)　換個(b)　角度(N)　看(Vt)　有(Vt)　些(M)　冷門(Vi)　車的(N)　車主(N)　自(P)　以為(Vt)　很(ADV)　有(Vt)　品味(N)　很(ADV)　懂車(N)　那些(DET)　人(N)　的車(N)　在(P)　別人(N)　眼(N)　裡(POST)　可能(ADV)　比(P)　toyota(FW)　更像(Vt)　垃圾(N)
+　

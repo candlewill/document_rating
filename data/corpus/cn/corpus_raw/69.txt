@@ -1,0 +1,13 @@
+　書(N)　已經(ADV)　看(Vt)　了(ASP)　大半(DET)　，(COMMACATEGORY)
+　就(ADV)　忍不住(Vt)　要(ADV)　來(ADV)　寫寫(Vt)　心得(N)　。(PERIODCATEGORY)
+　王(N)　老師(N)　真(ADV)　得(ADV)　是很(Vi)　細心(Vi)　，(COMMACATEGORY)
+　很(ADV)　善於(Vt)　動腦去(b)　思考(Vt)　，(COMMACATEGORY)
+　這(DET)　纔(ADV)　是(Vt)　真正(A)　的好(N)　老師(N)　，(COMMACATEGORY)
+　只是(ADV)　這樣(Vi)　的(T)　老師(N)　太少(Vi)　了(T)　，(COMMACATEGORY)
+　如果(C)　在我(b)　上學(Vi)　的(T)　時候(N)　能(ADV)　遇到(Vt)　王(N)　老師(N)　，(COMMACATEGORY)
+　我(N)　相信(Vt)　我的(N)　將來(N)　一定(ADV)　不(ADV)　是(Vt)　現在(N)　這(DET)　個(M)　樣子(N)　，(COMMACATEGORY)
+　那些(DET)　愚蠢(Vi)　的(T)　老師(N)　不知(N)　耽誤(Vt)　了(ASP)　多少(DET)　代(N)　、(PAUSECATEGORY)　多少(DET)　人(N)　。(PERIODCATEGORY)
+　希望(Vt)　更多(DET)　的(T)　老師(N)　看看(Vt)　王(N)　老師(N)　的書(N)　，(COMMACATEGORY)
+　仔細(Vi)　的想(N)　一下(N)　應該(ADV)　如何(ADV)　教(Vt)　孩子(N)　學習(Vt)　而(C)　不(ADV)　是灌鴨式的(N)　教授(N)　知識(N)　，(COMMACATEGORY)
+　讓(Vt)　孩子(N)　真正(A)　的(T)　愛上(Vt)　學習(Nv)　！(EXCLANATIONCATEGORY)
+　

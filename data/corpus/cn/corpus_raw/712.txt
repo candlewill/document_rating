@@ -1,0 +1,6 @@
+　看到(Vt)　有(Vt)　人說(Vi)　搶救(Vt)　台灣(N)　農業(N)　,(COMMACATEGORY)
+　關懷(Vt)　農夫(N)　拒絕(Vt)　自經區(b)　.(PERIODCATEGORY)　真的(ADV)　讓人(b)　笑掉大牙(Vi)　無知(Vi)　還(ADV)　大聲(Vi)　說給(Vt)　人聽(b)　台灣(N)　農業(N)　在(P)　WTO(FW)　後(POST)　就(ADV)　死了(b)　真的(ADV)　是全趴(b)　.(PERIODCATEGORY)　你(N)　今天(N)　再(ADV)　來(ADV)　說(Vt)　自經區(b)　讓(Vt)　農業(N)　死(Vi)　，(COMMACATEGORY)
+　根本(ADV)　搞不(N)　清楚(Vi)　狀況(N)　...(ETCCATEGORY)　阿就(b)　已經(ADV)　死了(b)　你(N)　還(ADV)　說(Vt)　會(ADV)　死不是(b)　笑死(Vt)　人嗎(b)　?(QUESTIONCATEGORY)　拜託(Vt)　反對(Vt)　的(T)　理由(N)　再(ADV)　去(ADV)　找(Vt)　一(DET)　個(M)　吧找個(Vt)　讓人(b)　恥笑(Vt)　的(T)　理由(N)　...(ETCCATEGORY)　更(ADV)　可恥(Vi)　的是(N)　自己(N)　享受(Vt)　著(ASP)　進口(Vt)　農產品(N)　的(T)　低價(N)　與好(N)　品質(N)　再(ADV)　來(ADV)　說農(b)
+　夫(N)　可憐(Vt)　,(COMMACATEGORY)
+　看不起(Vt)　這(DET)　種(M)　人(N)　.(PERIODCATEGORY)
+　

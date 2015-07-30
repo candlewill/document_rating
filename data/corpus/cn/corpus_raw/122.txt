@@ -1,0 +1,11 @@
+　請(Vt)　注意(Vt)　是(Vt)　定期(ADV)　運轉(Vt)　而(C)　非(Vt)　每(DET)　日(M)　運轉(Vt)　，(COMMACATEGORY)
+　其實(ADV)　只要(C)　下雨天(N)　就(ADV)　必須(ADV)　開(Vt)　冷氣(N)　來(ADV)　除(P)　玻璃(N)　起霧(Vi)　就(ADV)　可以(ADV)　了(T)　，(COMMACATEGORY)
+　或是(C)　每(DET)　週(M)　開(Vt)　一(DET)　次(M)　冷氣(N)　，(COMMACATEGORY)
+　冷(Vi)　天開(b)　冷氣(N)　一樣(Vi)　會(ADV)　增加(Vt)　油耗(A)　，(COMMACATEGORY)
+　而且(C)　是脫(b)　褲子(N)　放屁(Vi)　多此一舉(Vi)　，(COMMACATEGORY)
+　先(ADV)　把(P)　空氣(N)　經過(Vt)　冷氣(N)　風箱(N)　把(P)　空氣(N)　變冷(N)　，(COMMACATEGORY)
+　再(ADV)　經過(Vt)　暖氣(N)　風箱(N)　把冷(N)　空氣(N)　加熱(Vi)　，(COMMACATEGORY)
+　吹(Vt)　出來(Vi)　是(Vt)　暖氣(N)　，(COMMACATEGORY)
+　所以(C)　除了(P)　因(C)　下雨(Vi)　需(Vt)　第一(DET)　段(M)　把(P)　空氣(N)　變冷(N)　加(Vt)　除濕(Vi)　外(POST)　，(COMMACATEGORY)
+　其他(DET)　時候(N)　無須(ADV)　用(P)　壓縮機(N)　去做(b)　空氣(N)　變冷的(N)　動作(N)　。(PERIODCATEGORY)
+　

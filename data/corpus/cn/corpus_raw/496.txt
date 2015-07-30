@@ -1,0 +1,6 @@
+　我(N)　有(Vt)　可靠(Vi)　消息(N)　,(COMMACATEGORY)
+　學(Vt)　匪鬧得(N)　太過(ADV)　火(Vi)　有的(DET)　民眾(N)　已經(ADV)　無法(ADV)　忍受(Vt)　,(COMMACATEGORY)
+　趁著(P)　連續(A)　假日(N)　南下(Vi)　要(ADV)　好好(Vi)　對待(Vt)　學匪(N)　頭子(N)　的(T)　老娘(N)　.(PERIODCATEGORY)　我(N)　建議(Vt)　警方(N)　要(ADV)　注意(Vt)　點就(b)　算學(N)　匪在(N)　怎麼(ADV)　無理(Vi)　攻擊(Vt)　學匪(N)　的(T)　老娘(N)　也(ADV)　是(Vt)　無辜(Vi)　的(T)　.(PERIODCATEGORY)　請(Vt)　小心(Vt)　也(ADV)　呼籲(Vt)　學匪(N)　在玩(b)　別人(N)　羞辱(Vt)　別人(N)　的(T)　時候(N)　小心(Vt)　別(ADV)　波及(Vt)　自己(N)　的家(N)
+　人(N)　.(PERIODCATEGORY)　不是(N)　只有(C)　你們(N)　會(ADV)　無視於(Vt)　法治(N)　民主(N)　,(COMMACATEGORY)
+　而是(C)　你們(N)　用(P)　壓迫(Vt)　別人(N)　的(T)　方式(N)　讓人(b)　就範(Vi)　.(PERIODCATEGORY)　這(DET)　種(M)　方式(N)　當(P)　你們(N)　攻擊(Vt)　的另一方(N)　已經(ADV)　忍無可忍(Vi)　的(T)　時候(N)　我(N)　擔心(Vt)　你們(N)　會(ADV)　死無(b)　葬身(Vt)　之地(N)　.(PERIODCATEGORY)
+　

@@ -1,0 +1,7 @@
+　大哥(N)　～(FW)　～(FW)　有空(Vi)　直接(Vi)　開過去(Vi)　吧(T)　.....(ETCCATEGORY)　明顯(Vi)　就(ADV)　是(Vt)　在(P)　拖時間(Vi)　～(FW)　你(N)　確定(Vt)　你的(N)　維修(Vt)　更換(Vt)　沒(Vt)　時間(N)　限制(N)　？(QUESTIONCATEGORY)
+　直接(Vi)　殺到(Vt)　他們(N)　營業所(N)　比較(ADV)　快(Vi)　～(FW)　最好(ADV)　還是(ADV)　在他(b)　說(Vt)　高雄(N)　交車(b)　時(POST)　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)
+　被(P)　抓包(N)　一定(ADV)　很(ADV)　好玩(Vi)　～(FW)　～(FW)　記得(Vt)　要從(b)　打電話(Vi)　開始(Vt)　錄影(Vi)　存證(Vi)　～(FW)　說不定(ADV)　～(FW)　～(FW)　又(ADV)　會(ADV)　誕生(Vi)　一(DET)　個(M)　出去(Vi)　哥(N)　：(COLONCATEGORY)　我(N)　又(ADV)　沒(ADV)　叫(Vt)　你(N)　來(Vi)　，(COMMACATEGORY)
+　出去(Vi)　！(EXCLANATIONCATEGORY)
+　現在(N)　！(EXCLANATIONCATEGORY)
+　不過(C)　這(DET)　次(M)　因該是(b)　叫(Vt)　行車(Nv)　記錄器(N)　跟(P)　你(N)　道歉(Vi)　～(FW)　～(FW)

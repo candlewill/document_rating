@@ -1,0 +1,8 @@
+　其實(ADV)　看(Vt)　的(T)　影片(N)　之後(POST)　，(COMMACATEGORY)
+　相信(Vt)　樓主(b)　只是(ADV)　想(Vt)　反應(Vt)　一下(N)　原廠(b)　處理(Vt)　的(T)　態度(N)　及(C)　消費者(N)　的(T)　無奈(Nv)　。(PERIODCATEGORY)
+　或許(ADV)　今天(N)　當事者(N)　並(ADV)　不(ADV)　是(Vt)　你我(N)　，(COMMACATEGORY)
+　我們(N)　無法(ADV)　體會(Vt)　樓主(b)　當時(N)　在(P)　高速(Vi)　公路(N)　上的(N)　心情(N)　。(PERIODCATEGORY)
+　但(C)　換個(b)　角度(N)　去(ADV)　思考(Vt)　一下(N)　，(COMMACATEGORY)
+　今天(N)　樓主(b)　發現(Vt)　了(ASP)　這(DET)　問題(N)　.(PERIODCATEGORY)　為何(ADV)　我們(N)　不(ADV)　打開(Vt)　引擎蓋(N)　檢查(Vt)　一下(N)　自己(N)　的(T)　車子(N)　?(QUESTIONCATEGORY)　PS(FW)　相信(Vt)　沒有(Vt)　任何(DET)　一(DET)　家(M)　車廠(N)　敢(Vt)　保證(Vt)　自家(N)　的(T)　車子(N)　出廠(Nv)　都沒(N)　問題(N)　。(PERIODCATEGORY)
+　但是(C)　.......(ETCCATEGORY)　售後(A)　服務(Nv)　及(C)　態度(N)　?(QUESTIONCATEGORY)　怎樣(ADV)　做(Vt)　才是(N)　盡善盡美(Vi)　.(PERIODCATEGORY)　相信(Vt)　這(DET)　才是(N)　車廠(N)　需要(Vt)　思考(Vt)　的(T)　方向(N)　。(PERIODCATEGORY)
+　

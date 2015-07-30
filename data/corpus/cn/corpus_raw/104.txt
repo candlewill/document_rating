@@ -1,0 +1,9 @@
+　這(DET)　位(M)　大大(Vi)　，(COMMACATEGORY)
+　我(N)　想(Vt)　你(N)　誤會(Vt)　我的(N)　意思(N)　了(T)　，(COMMACATEGORY)
+　我(N)　原文(N)　的(T)　意思(N)　是把(N)　護衛(Vt)　隊(N)　會(ADV)　拿來(Vt)　反駁(Vt)　樓主的(N)　理由(N)　都(ADV)　列出來(Vi)　，(COMMACATEGORY)
+　我(N)　裡面(N)　寫的(N)　每(DET)　個(M)　理由(N)　都是我在(N)　這(DET)　個(M)　版(N)　看到(Vt)　人家(N)　每每(ADV)　拿出(Vt)　安全性(N)　來(ADV)　質疑(Vt)　時(POST)　他們(N)　提出(Vt)　的(T)　理由(N)　，(COMMACATEGORY)
+　你(N)　不妨(ADV)　多(ADV)　在(P)　這(DET)　個(M)　優質(A)　的版(N)　多多(Vi)　閒晃(N)　，(COMMACATEGORY)
+　到(P)　目前(N)　為止(POST)　我(N)　看到(Vt)　說某(Vt)　F(FW)　牌(N)　妥善(Vi)　率很差(N)　、(PAUSECATEGORY)　常常(ADV)　維修(Vt)　的(T)　大多(DET)　是(Vt)　聽(Vt)　朋友(N)　說(Vt)　、(PAUSECATEGORY)　家人(N)　說(Vt)　、(PAUSECATEGORY)　長輩(N)　說的(N)　!(EXCLANATIONCATEGORY)　希望(Vt)　可以(ADV)　換點新(b)　花樣(N)　，(COMMACATEGORY)
+　例如(P)　聽二奶說(Vi)　、(PAUSECATEGORY)　聽(Vt)　細姨(N)　說(Vt)　，(COMMACATEGORY)
+　我(N)　想(Vt)　會(ADV)　比較(ADV)　新鮮(Vi)　!(EXCLANATIONCATEGORY)
+　

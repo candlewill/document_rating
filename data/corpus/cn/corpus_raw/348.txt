@@ -1,0 +1,7 @@
+　優點(N)　就(ADV)　是(Vt)　便宜(Vt)　這(DET)　款(M)　機器(N)　不帶(N)　操作(Vt)　系統(N)　是(Vt)　在(ADV)　是(Vt)　麻煩(Vt)　，(COMMACATEGORY)
+　還好(ADV)　自己(N)　懂點(N)　電腦(N)　知識(N)　要是(C)　個(M)　不(ADV)　懂(Vt)　電腦(N)　的(T)　這(DET)　個(M)　非(ADV)　要被(Vt)　氣死(Vt)　?(QUESTIONCATEGORY)　止(Vt)　，(COMMACATEGORY)
+　首先(ADV)　好像(ADV)　這(DET)　個(M)　機器(N)　使用(Vt)　的(T)　南橋(b)　芯片(b)　，(COMMACATEGORY)
+　還(ADV)　有(Vt)　什麼(DET)　sata(FW)　接口(ADV)　鎖(Vt)　什麼(DET)　來(T)　?(QUESTIONCATEGORY)　一般(A)　盜版(N)　盤(N)　放進去(Vi)　壓根(ADV)　不能(ADV)　直接(Vi)　安裝(Vt)　每(DET)　次(M)　選擇(N)　安裝(Vt)　都是報錯(N)　，(COMMACATEGORY)
+　只(ADV)　能(ADV)　下載(Vt)　支持(Nv)　南橋的(N)　版本(N)　裝(Vt)　，(COMMACATEGORY)
+　可是(C)　本人(N)　比較(ADV)　喜歡(Vt)　WINPE(FW)　所以(C)　還是(ADV)　用我的(N)　pe(FW)　來(ADV)　裝(Vt)　但是(C)　進入(Vt)　居然(ADV)　認不(N)　到(P)　C(FW)　盤(M)　超級(A)　鬱悶(Vi)　，(COMMACATEGORY)
+　後來(N)　發現(Vt)　這(DET)　個(M)　要(ADV)　另外(ADV)　一(DET)　個(M)　集成(Nv)　版的(N)　pe(FW)　才(ADV)　能(ADV)　顯示出(Vt)　c(FW)　盤(N)　馬上(ADV)　下載(Vt)　安(N)

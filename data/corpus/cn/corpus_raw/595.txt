@@ -1,0 +1,10 @@
+　因(C)　?(QUESTIONCATEGORY)　是(Vt)　已經(ADV)　瞭解(Vt)　過各(b)　方面(N)　的(T)　性能(N)　、(PAUSECATEGORY)　外觀(N)　才(ADV)　決定(Vt)　買(Vt)　這(DET)　一(DET)　部(M)　的(T)　，(COMMACATEGORY)
+　所以(C)　目前(N)　?(QUESTIONCATEGORY)　止沒(b)　發現(Vt)　什麼(DET)　出乎意料(Vi)　的(T)　問題(N)　。(PERIODCATEGORY)
+　小巧(Vi)　便攜是我(b)　選擇(Vt)　的最大(N)　因素(N)　，(COMMACATEGORY)
+　其次(C)　品牌(N)　機(N)　還是(ADV)　令人(b)　比較(ADV)　放心(Vt)　的(T)　，(COMMACATEGORY)
+　一(DET)　邊拆(N)　包裝(N)　一邊(b)　就(ADV)　能(ADV)　感受到(Vt)　。(PERIODCATEGORY)
+　3(DET)　G(FW)　上網(Nv)　速度(N)　比我(Vt)　原先(A)　臺式機(N)　+(FW)　ADSL2M(FW)　的(T)　速度(N)　要快(Vt)　，(COMMACATEGORY)
+　昨天(N)　拭了(b)　兩(DET)　個(M)　多(POST)　小時(N)　，(COMMACATEGORY)
+　沒(ADV)　發現(Vt)　斷(Vt)　?(QUESTIONCATEGORY)　的(N)　問題(N)　。(PERIODCATEGORY)
+　鍵盤(N)　挺(ADV)　舒適(Vi)　（(PARENTHESISCATEGORY)　可能(ADV)　本人(N)　的手也(N)　不(ADV)　大(Vi)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　

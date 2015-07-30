@@ -1,0 +1,8 @@
+　「(PARENTHESISCATEGORY)　高雄(N)　發生(Vt)　大(Vi)　災害(N)　你們(N)　還(ADV)　在幹(b)　政治(N)　？(QUESTIONCATEGORY)
+　這(DET)　個(M)　板(N)　沒救了(b)　」(PARENTHESISCATEGORY)　最(ADV)　喜歡(Vt)　講(Vt)　這(DET)　句(M)　話(N)　的是(N)　誰(N)　？(QUESTIONCATEGORY)
+　不(ADV)　就是(C)　那些(DET)　八卦(N)　板(N)　的(T)　長駐(Vt)　3.0(DET)　綠吱(N)　嗎(T)　？(QUESTIONCATEGORY)
+　這(DET)　個(M)　板(N)　不(ADV)　就(ADV)　是(Vt)　幹(Vt)　政治(N)　而(C)　設立(Vt)　的嗎(N)　？(QUESTIONCATEGORY)
+　為什麼(ADV)　不(ADV)　能幹(Vi)　政治(N)　？(QUESTIONCATEGORY)
+　多(DET)　的是(N)　在(P)　國家(N)　有(Vt)　重大(Vi)　災難(N)　時(POST)　在非(N)　政治(N)　板面(N)　((PARENTHESISCATEGORY)　ex(FW)　:(COLONCATEGORY)　八卦(N)　板(N)　)(PARENTHESISCATEGORY)　幹(Vt)　政治(N)　的(T)　綠吱(N)　自己(N)　在(ADV)　不能(ADV)　講(Vt)　政治(N)　的(T)　板面(N)　，(COMMACATEGORY)
+　批評(Vt)　時政(N)　批得很爽卻(N)　來(ADV)　大聲(Vi)　指責(Vt)　這(DET)　個(M)　「(PARENTHESISCATEGORY)　因幹(b)　政治(N)　而(C)　設立(Vt)　的(T)　板(N)　」(PARENTHESISCATEGORY)　在(P)　國家(N)　有(Vt)　重大(Vi)　災難(N)　時(POST)　不准(ADV)　批評(Vt)　政治(N)　人物(N)　否則(C)　就(ADV)　是(Vt)　沒(Vt)　人性(N)　我(N)　不(ADV)　知道(Vt)　這(DET)　算(Vt)　什麼(DET)　嚴以(b)　待人(Vi)　寬以(b)　律己(Vi)　的(T)　標準(N)　？(QUESTIONCATEGORY)
+　

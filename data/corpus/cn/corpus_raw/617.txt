@@ -1,0 +1,13 @@
+　看到(Vt)　有(Vt)　人(N)　評論(Vt)　這(DET)　本(M)　書(N)　恐怖(Vi)　，(COMMACATEGORY)
+　覺得(Vt)　言重(Vi)　了(ASP)　，(COMMACATEGORY)
+　其實(ADV)　這(DET)　只是(ADV)　訓練(Vt)　人(N)　正面(N)　思維(N)　的(T)　一(DET)　種(M)　方法(N)　，(COMMACATEGORY)
+　有(Vt)　人(N)　評論(N)　在(P)　公司(N)　受到(Vt)　不(ADV)　公正(Vi)　對待(Vt)　也(ADV)　能(ADV)　不(ADV)　抱怨(Vt)　？(QUESTIONCATEGORY)
+　試想(Vt)　，(COMMACATEGORY)
+　如果(C)　你的(N)　思維(N)　夠(ADV)　積極(Vi)　，(COMMACATEGORY)
+　對(P)　人對正的(N)　想法(N)　都(ADV)　足夠(Vi)　正面(N)　，(COMMACATEGORY)
+　你的(N)　思想(N)　就(ADV)　會(ADV)　對(P)　別人(N)　產生(Vt)　一定(A)　的(T)　影響(N)　，(COMMACATEGORY)
+　任何(DET)　人都(Vt)　需要(Vt)　別人(N)　用(P)　正確(Vi)　的(T)　態度(N)　對待(Vt)　自已(N)　，(COMMACATEGORY)
+　包括(Vt)　你的(N)　上司(N)　，(COMMACATEGORY)
+　老闆(N)　，(COMMACATEGORY)
+　他們(N)　也(ADV)　是人(b)　。(PERIODCATEGORY)
+　

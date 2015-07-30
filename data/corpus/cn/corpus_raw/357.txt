@@ -1,0 +1,5 @@
+　老爸(N)　叫(Vt)　我(N)　回報(Vt)　一下(N)　之前(POST)　狀況(N)　也是(b)　冷氣(N)　剛(ADV)　開會(Vi)　有(Vt)　酸臭味(N)　我爸說(Vi)　只要(C)　開(Vt)　送風(Vi)　就(ADV)　會(ADV)　有(Vt)　，(COMMACATEGORY)
+　冷氣(N)　吹(Vt)　幾(DET)　分鐘(M)　後(POST)　＋(FW)　開窗才(N)　會(ADV)　淡掉(N)　最近(N)　幾(DET)　天(M)　告知(Vt)　老爸(N)　網路(N)　上(POST)　也(ADV)　有(Vt)　一樣(Vi)　狀況(N)　他(N)　就(ADV)　打電話(Vi)　給(P)　當初(N)　的(T)　業務(N)　請他(b)　處理(Nv)　業務(N)　請(Vt)　我們(N)　去原廠裝負(b)　離子(N)　空氣(N)　濾清(N)　器(N)　（(PARENTHESISCATEGORY)　有點(ADV)　不(ADV)　確定(Vt)　名字(N)　）(PARENTHESISCATEGORY)　800(DET)　元(M)　神奇(Vi)　的是(N)　弄(Vt)　了(ASP)　一(DET)　小時(M)　之後(POST)　，(COMMACATEGORY)
+　真的(ADV)　沒有(Vt)　味道(N)　了(T)　！(EXCLANATIONCATEGORY)
+　！(EXCLANATIONCATEGORY)
+　早(ADV)　知道(Vt)　一(ADV)　開始(Vt)　就(ADV)　應該(ADV)　要(ADV)　裝了害我媽(b)　忍受(Vt)　那(DET)　個(M)　味道(N)　好久(N)

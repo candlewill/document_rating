@@ -1,0 +1,10 @@
+　總的來說(ADV)　，(COMMACATEGORY)
+　這(DET)　本(M)　書(N)　還是(ADV)　不錯(Vi)　的(T)　質量(N)　也(ADV)　可以(ADV)　內容(N)　很(ADV)　精彩(Vi)　可以(ADV)　開闊(Vt)　大家(N)　的(T)　視野(N)　送貨(Vi)　的(T)　速度(N)　也很快(Vt)　?(QUESTIONCATEGORY)　只需(b)　3(DET)　天(M)　！(EXCLANATIONCATEGORY)
+　不足(Vi)　之處(b)　：(COLONCATEGORY)　沒有(Vt)　對(P)　部分(DET)　比較(Nv)　難的(N)　單詞(N)　做出(Vt)　註釋(N)　（(PARENTHESISCATEGORY)　有(Vt)　些(M)　詞(N)　一般(A)　的(T)　字典(N)　是(Vt)　查(Vt)　不(ADV)　到(Vt)　的(T)　）(PARENTHESISCATEGORY)　。(PERIODCATEGORY)
+　有(Vt)　個別(A)　的拼寫(N)　錯誤(N)　雖然(C)　這(DET)　本(M)　書美中(b)　有(Vt)　不足(Vi)　。(PERIODCATEGORY)
+　但是(C)　，(COMMACATEGORY)
+　本人(N)　認(Vt)　?(QUESTIONCATEGORY)　這(DET)　本(M)　書(N)　值得(Vi)　讀(Vt)　！(EXCLANATIONCATEGORY)
+　由於(C)　本人(N)　也(ADV)　是(Vt)　剛(ADV)　讀(Vt)　這(DET)　本(M)　書(N)　，(COMMACATEGORY)
+　暫時(ADV)　不能(ADV)　對(P)　這(DET)　本(M)　書的(N)　全部(DET)　情況(N)　做到(Vt)　完全(ADV)　把握(Vt)　。(PERIODCATEGORY)
+　本人(N)　以後(N)　在(P)　閱讀(Vt)　這(DET)　本(M)　書的(N)　過程(N)　中(POST)　會(ADV)　就(P)　其(DET)　的(T)　優點(N)　和(C)　不足(Vi)　及時(ADV)　與(P)　大家(N)　交流(Vi)　！(EXCLANATIONCATEGORY)
+　

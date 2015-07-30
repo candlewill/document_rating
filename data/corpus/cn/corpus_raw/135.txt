@@ -1,0 +1,5 @@
+　你(N)　以為(Vt)　歐洲(N)　車是(b)　戰車(N)　喔(T)　假如(C)　超過(Vt)　64(DET)　KM/H(FW)　,(COMMACATEGORY)
+　早(ADV)　就(ADV)　超過(Vt)　NCAP(FW)　測試(N)　標準(N)　了(T)　不過(C)　還(ADV)　沒(Vt)　64(DET)　KM/H(FW)　就(ADV)　可以(ADV)　連(C)　駕駛座(N)　都(ADV)　爛掉(Vi)　那(DET)　就(ADV)　非常(ADV)　糟糕(Vi)　之前(POST)　不(ADV)　是(Vt)　好像(ADV)　有(Vt)　vios(FW)　跟(P)　現代(N)　約(ADV)　10(DET)　年(M)　的(T)　elantra(FW)　?(QUESTIONCATEGORY)　正面(N)　對撞(Nv)　結果(N)　現代(Vi)　車(N)　引擎蓋(N)　只凹(N)
+　一半(DET)　,(COMMACATEGORY)
+　駕駛(N)　幾乎(ADV)　沒(ADV)　受傷(Vi)　vios(FW)　好像(ADV)　連(C)　駕駛艙(N)　都(ADV)　完全(ADV)　潰縮(Vt)　駕駛(Vt)　就夾死在(N)　裡面(N)　你(N)　看看(Vt)　你(N)　看看(Vt)　假如(C)　低於(Vt)　標準(N)　的(T)　安全性(N)　,(COMMACATEGORY)
+　還可以(ADV)　販售(Vt)　有(Vt)　可能(ADV)　就是(C)　一(DET)　個(M)　車廠(N)　是否(ADV)　尊重(Vt)　生命(N)　的(T)　表現(N)

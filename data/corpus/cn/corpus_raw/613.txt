@@ -1,0 +1,12 @@
+　酒店(N)　太(ADV)　偏(ADV)　已(ADV)　在(P)　郊外(N)　，(COMMACATEGORY)
+　出來(Vi)　打車不太(N)　方便(Vi)　，(COMMACATEGORY)
+　住宿(Nv)　客人(N)　太少(Vi)　，(COMMACATEGORY)
+　感覺(N)　上(N)　冷冷清清(Vi)　的(T)　，(COMMACATEGORY)
+　可是(C)　預定(Vt)　的(T)　時候(N)　還(ADV)　需要(Vt)　提供(Vt)　信用卡(N)　擔保(Vt)　，(COMMACATEGORY)
+　說(Vt)　是(Vt)　房間(N)　緊張(Vi)　，(COMMACATEGORY)
+　其實(ADV)　可能(Vi)　是怕(N)　客人(N)　跑掉(Vi)　吧(T)　。(PERIODCATEGORY)
+　服務(Nv)　、(PAUSECATEGORY)　設施(N)　都太(N)　一般(POST)　。(PERIODCATEGORY)
+　補充(Vt)　點(N)　評(Vt)　2007(DET)　年(M)　11月(N)　13(DET)　日(M)　：(COLONCATEGORY)　不過(C)　貴陽(N)　整(DET)　個(M)　就是(C)　一(DET)　個(M)　髒亂(Vi)　差的(N)　典型(Vi)　，(COMMACATEGORY)
+　東東(N)　還貴得(N)　嚇死(Vt)　人(N)　，(COMMACATEGORY)
+　去(Vt)　貴陽(N)　的話就(N)　不要(ADV)　抱(Vt)　什麼(DET)　美好(Vi)　的(T)　願望(N)　了(T)　！(EXCLANATIONCATEGORY)
+　

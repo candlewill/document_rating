@@ -1,0 +1,5 @@
+　真的(ADV)　很(ADV)　簡單(Vi)　馬英九(N)　這(DET)　輩子(N)　做過(b)　四(DET)　件(M)　最(ADV)　惡毒(Vi)　的事情(N)　,(COMMACATEGORY)
+　第一(DET)　件(M)　惡毒(Vi)　的事情(N)　選贏(b)　陳水扁(N)　，(COMMACATEGORY)
+　重點(N)　是(Vt)　讓(Vt)　他(N)　沒(ADV)　連任(Vt)　太(ADV)　惡毒(Vi)　了(T)　.(PERIODCATEGORY)　第二(DET)　件(M)　惡毒(Vi)　的事情(N)　選贏(b)　李應元(N)　其實(ADV)　大家(N)　都(ADV)　知道(Vt)　李應元(N)　是當(b)　砲灰(N)　但是(C)　馬英九(N)　87萬(DET)　票(M)　大贏(b)　李應元(N)　48萬多(DET)　票(M)　一點(DET)　面子(N)　都(ADV)　不(ADV)　給(Vt)　太(ADV)　惡毒(Vi)　了(T)　.(PERIODCATEGORY)　第三(DET)　件(M)　惡毒(Vi)　的事情(N)　總(ADV)
+　統(Vt)　選贏(b)　謝長廷(N)　.(PERIODCATEGORY)　第四(DET)　件(M)　惡毒(Vi)　的事情(N)　總統(N)　選贏(b)　蔡(N)　英文(N)　.(PERIODCATEGORY)　這麼(ADV)　惡毒(Vi)　的(T)　人(N)　一點(DET)　機會(N)　不(ADV)　給(Vt)　民進黨(N)　你(N)　叫(Vt)　民進黨(N)　怎麼(ADV)　能(ADV)　不(ADV)　恨(Vt)　他(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)
+　

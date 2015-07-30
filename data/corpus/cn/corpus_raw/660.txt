@@ -1,0 +1,4 @@
+　你(N)　就(ADV)　像是(b)　禿頭(Nv)　男(N)　,(COMMACATEGORY)
+　罵(Vt)　頭髮(N)　多人的(N)　髮型(N)　很醜(Vi)　一樣(Vi)　自己(N)　的車(N)　明明(ADV)　就(ADV)　是(Vt)　不(ADV)　到(Vt)　十萬(DET)　的(T)　破爛(Vi)　喜美(N)　不僅(C)　沒(Vt)　VSC(FW)　也沒6(b)　氣囊(N)　甚至(ADV)　連(C)　BAS.EBD(FW)　甚至(ADV)　又(ADV)　是(Vt)　十多(DET)　年(N)　前(POST)　喜美(N)　的爛(N)　車體(N)　沒(Vt)　頭髮(N)　的(T)　人(N)　卻罵有(b)　頭髮(N)　的(T)　人(N)　髮型(N)　很醜(Vi)　真是(ADV)　好笑(Vi)　!(EXCLANATIONCATEGORY)　勸你(b)　開過(b)　三(DET)　台(M)　以上(POST)　的車(N)　每(DET)　一(DET)　台(M)　都開(N)　過半(Vi)　年(M)　以上(POST)　再(ADV)　來(ADV)　發表(Vt)　高論(N)　學生(N)　不要(ADV)　整(DET)　天(M)　打線上(N)　遊戲(N)　,(COMMACATEGORY)
+　又(ADV)　跑來(Vi)　汽車(N)　版裝(b)　專家(N)　,(COMMACATEGORY)
+　會(ADV)　被人(Vt)　看破(Vt)　手腳(N)　的(T)

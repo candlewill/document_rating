@@ -1,0 +1,7 @@
+　花果(N)　山的(N)　猴子(N)　們(N)　有(Vt)　個(M)　特點(N)　,(COMMACATEGORY)
+　就是(C)　有(Vt)　被(P)　害(Vt)　妄想(Nv)　症(N)　為什麼(ADV)　呢(T)　幻想著(N)　核四(N)　會(ADV)　爆炸(Vi)　幻想著(N)　會(ADV)　有(Vt)　火山(N)　爆發(Vt)　,(COMMACATEGORY)
+　幻想(Nv)　著阿共(N)　會(ADV)　打(Vt)　,(COMMACATEGORY)
+　幻想著(N)　國民黨(N)　蓋台(b)　,(COMMACATEGORY)
+　幻想著(N)　會(ADV)　走山(b)　.(PERIODCATEGORY)　於是(C)　開始(Vt)　杞人憂天(Vi)　走上(Vt)　街頭(N)　開始(Vt)　抗爭(Vi)　以為(Vt)　這樣(Vi)　就(ADV)　能(ADV)　掩飾(Vt)　心裡的(N)　不安(Vi)　.(PERIODCATEGORY)　如果(C)　這樣(Vi)　吱吱(ADV)　應該(ADV)　學習(Vt)　安潔麗娜裘(N)　莉(N)　母猴在還沒得(N)　乳癌(N)　之前(POST)　把(P)　自己(N)　的(T)　乳房(N)　割掉(Vt)　公猴就(N)　割掉(Vt)　自己(N)　的小(N)
+　雞(N)　雞(N)　反正(ADV)　這些(DET)　都(ADV)　是(Vt)　都(ADV)　有(Vt)　風險(N)　最(ADV)　簡單(Vi)　的(T)　就是(C)　去(ADV)　死一死(b)　反正(ADV)　走在路(b)　上(N)　搞不好(ADV)　都(ADV)　會(ADV)　被車撞(Vt)　死活(N)　這麼(ADV)　痛苦(Vi)　幹嘛(Vi)　呢(T)　?(QUESTIONCATEGORY)
+　

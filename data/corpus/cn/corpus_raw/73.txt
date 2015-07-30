@@ -1,0 +1,4 @@
+　疼(Vt)　老婆(N)　是(Vt)　一(DET)　件(M)　好事(N)　!(EXCLANATIONCATEGORY)　很好(Vi)　....(ETCCATEGORY)　像我(b)　也(ADV)　是(Vt)　剛(ADV)　結婚(Vi)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　雖然(C)　家裡(N)　有(Vt)　車子(N)　雖然(C)　上班(Vi)　公里(M)　數(N)　差不多(ADV)　要(ADV)　13(DET)　k(FW)　不過(C)　能(ADV)　盡量(ADV)　不(ADV)　開車(Vi)　還是(ADV)　不(ADV)　開車(Vi)　!(EXCLANATIONCATEGORY)　說真的(ADV)　開車(Vi)　油錢好貴唷(b)　....(ETCCATEGORY)　除非(C)　天氣(N)　真的(ADV)　很(ADV)
+　糟糕(Vi)　才(ADV)　會(ADV)　想要(Vt)　開車(Vi)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　兩(DET)　個人(N)　的(T)　收入(N)　差不多(Vi)　不(ADV)　到(Vt)　六萬(DET)　不過(C)　....(ETCCATEGORY)　沒(Vt)　認真(Vi)　算過不(N)　知道(Vt)　有沒有(ADV)　結餘(Vt)　....(ETCCATEGORY)　騎(Vt)　機車(N)　跟(P)　開車(Vi)　的(T)　開銷(N)　真的(ADV)　有差(N)　....(ETCCATEGORY)　多存(N)　一點(DET)　真的(ADV)　需要(Vt)　的(T)　時候(N)　在買吧(Vt)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　說(Vt)
+　是(Vt)　這樣子(Vi)　說(Vt)　!(EXCLANATIONCATEGORY)　我(N)　自已(N)　也(ADV)　想買台(b)　車子(N)　給(Vt)　老婆(N)　開(Vt)　....(ETCCATEGORY)
+　

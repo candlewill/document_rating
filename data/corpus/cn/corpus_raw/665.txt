@@ -1,0 +1,5 @@
+　定(Vt)　單(ADV)　5216523(DET)　與(C)　6月(N)　3(DET)　號(M)　要求(Vt)　處理(Vt)　補發(Nv)　贈品(N)　.(PERIODCATEGORY)　現在(N)　已經(ADV)　20(DET)　號(M)　了(T)　,(COMMACATEGORY)
+　仍然(ADV)　未(ADV)　補發(Vt)　.(PERIODCATEGORY)　這(DET)　服務(Nv)　也(ADV)　"(FW)　太(ADV)　到(Vt)　位(M)　"(FW)　了吧(Vt)　,(COMMACATEGORY)
+　買(Vt)　了(ASP)　東西(N)　就(ADV)　甩手(Vi)　不(ADV)　管(Vt)　了(T)　?(QUESTIONCATEGORY)　難道(ADV)　這(DET)　就是(C)　京東一慣的(N)　"(FW)　作風(N)　"(FW)　?(QUESTIONCATEGORY)　現在(N)　都(ADV)　出了大禮包了(b)　.(PERIODCATEGORY)　要求(Vt)　給(Vt)　一(DET)　個(M)　滿意(Vt)　的(T)　結果(N)　.(PERIODCATEGORY)　不要(ADV)　一(DET)　拖再拖(b)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　((PARENTHESISCATEGORY)　而且(C)　我們(N)　拿到(Vt)　手就(b)　發現(Vt)　鍵盤(N)　問題(N)　,(COMMACATEGORY)
+　已經(ADV)　拿去(Vt)　修了(b)　.(PERIODCATEGORY)　纔買(N)　幾(DET)　天(M)　啊(T)　?(QUESTIONCATEGORY)　)(PARENTHESISCATEGORY)　這些(DET)　結果(N)　都讓人都(Vt)　鬱悶(Vi)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)
+　

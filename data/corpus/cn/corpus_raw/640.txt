@@ -1,0 +1,7 @@
+　核四(N)　好不容易(ADV)　從(P)　整(DET)　天(M)　嚷著(b)　喊(Vt)　愛(Vt)　台灣(N)　的(T)　吱巴(N)　黨停建的(N)　損傷(Nv)　下(POST)　慢慢(Vi)　復元(Vi)　,(COMMACATEGORY)
+　現在(N)　馬英九(N)　的(T)　膝蓋(N)　還(ADV)　真是(ADV)　他媽的(T)　軟(Vi)　一(DET)　堆(M)　不(ADV)　了解(Vt)　核能(N)　風險(N)　的(T)　民眾(N)　哀一哀就(N)　真的(ADV)　停建(b)　了幹(b)　這下子(N)　賠(Vt)　承攬(Nv)　商(N)　，(COMMACATEGORY)
+　以及(C)　中斷(Vt)　合約(N)　的(T)　賠償金(N)　誰(N)　來(ADV)　付(Vt)　?(QUESTIONCATEGORY)　幹你(b)　媽(N)　的(T)　又是我(b)　五月(N)　繳稅(Vi)　的(T)　時候(N)　要付(N)　核四(N)　蓋好(Vt)　，(COMMACATEGORY)
+　慢慢(Vi)　試(Vt)　運轉(Vt)　，(COMMACATEGORY)
+　這樣(Vi)　不好嗎(N)　?(QUESTIONCATEGORY)　幹你(b)　媽(N)　的(T)　馬英九(N)　的(T)　膝蓋(N)　還(ADV)　真(ADV)　他媽的(T)　軟(Vi)　碰到(Vt)　吱巴(N)　暴民(N)　就(ADV)　要(ADV)　下跪(Vi)　,(COMMACATEGORY)
+　幹幹(Vt)　你娘操(b)　吱巴(N)　.(PERIODCATEGORY)
+　

@@ -1,0 +1,8 @@
+　椅套(N)　應該(ADV)　是(Vt)　白色(N)　的吧(N)　椅子(N)　應該(ADV)　是(Vt)　黑色(N)　皮椅吧先把(N)　椅套(N)　弄髒(Vt)　((PARENTHESISCATEGORY)　飲料(N)　.(PERIODCATEGORY)　檳榔(N)　.(PERIODCATEGORY)　煙灰(N)　...(ETCCATEGORY)　等等(POST)　)(PARENTHESISCATEGORY)　你(N)　母親(N)　就(ADV)　一定(ADV)　會(ADV)　要求(Vt)　將(P)　椅套(N)　拿去(Vt)　送(Vt)　洗在洗的(N)　期間(N)　,(COMMACATEGORY)
+　可以(ADV)　跟(P)　母親(N)　說(Vt)　:(COLONCATEGORY)　沒(Vt)　椅套(N)　也蠻(N)　整體性(N)　,(COMMACATEGORY)
+　也(ADV)　不(ADV)　錯看(Vt)　然後(ADV)　再(ADV)　將(P)　椅套(N)　故意(Vt)　洗壞(b)　,(COMMACATEGORY)
+　或(C)　洗(Vt)　到(P)　縮水(Vi)　,(COMMACATEGORY)
+　再(ADV)　跟(P)　母親(N)　大人(N)　說(Vt)　:(COLONCATEGORY)　椅套(N)　洗壞(b)　了(ASP)　那(DET)　也(ADV)　就(ADV)　別(ADV)　裝了也(N)　可以(ADV)　說(Vt)　:(COLONCATEGORY)　椅套(N)　是蕾斯的(N)　,(COMMACATEGORY)
+　比較(ADV)　容易(Vi)　藏污納垢(Vi)　,(COMMACATEGORY)
+　對(P)　過敏(Vi)　的(T)　體質(N)　比較(ADV)　不(ADV)　好(Vi)　所以(C)　不(ADV)　裝對車室的(N)　空氣(N)　比較(ADV)　好(Vi)　,(COMMACATEGORY)
+　而且(C)　也(ADV)　比較(ADV)　好(Vi)　清理(Vt)　((PARENTHESISCATEGORY)　皮革(N)　油(N)　)(PARENTHESISCATEGORY)　看起來(ADV)　整潔(Vi)　又(ADV)　清爽(Vi)

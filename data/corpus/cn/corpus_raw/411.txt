@@ -1,0 +1,12 @@
+　父母(N)　對(P)　孩子(N)　富有(Vt)　感情(N)　色彩(N)　的(T)　評價(N)　性(N)　語言(N)　,(COMMACATEGORY)
+　在(P)　孩子(N)　的(T)　一生(N)　中(POST)　往往(ADV)　成(Vi)　?(QUESTIONCATEGORY)　判斷(N)　對錯(N)　的(T)　原始(Vi)　依據(N)　.(PERIODCATEGORY)　雖然(C)　孩子(N)　在(P)　成長(Vi)　中(POST)　還(ADV)　會(ADV)　被(P)　外在(N)　的(T)　環境(N)　有所(Vt)　修改(Nv)　,(COMMACATEGORY)
+　但(C)　這(DET)　種(M)　修改(Vt)　決不(ADV)　會(ADV)　觸及(Vt)　他兒(b)　時(POST)　的(T)　核心(N)　觀點(N)　.(PERIODCATEGORY)　所以(C)　,(COMMACATEGORY)
+　從(P)　某(DET)　種(M)　程度(N)　上(POST)　說(Vt)　,(COMMACATEGORY)
+　父母(N)　說話(Vi)　的(T)　態度(N)　、(PAUSECATEGORY)　內容(N)　和(C)　品質(N)　，(COMMACATEGORY)
+　將(ADV)　成(Vi)　?(QUESTIONCATEGORY)　孩子(N)　一生(N)　的(T)　自我(Vi)　意象(N)　和(C)　思維(N)　定式(N)　，(COMMACATEGORY)
+　是(Vt)　樂觀(Vi)　、(PAUSECATEGORY)　自信(N)　、(PAUSECATEGORY)　富有(Vi)　想想(Vt)　和(C)　氣概(N)　，(COMMACATEGORY)
+　還是(ADV)　消極(Vi)　、(PAUSECATEGORY)　自卑(Vi)　或(C)　得過且過(Vi)　、(PAUSECATEGORY)　自暴自棄(Vi)　。(PERIODCATEGORY)
+　可見(ADV)　，(COMMACATEGORY)
+　父母(N)　對(P)　孩子(N)　的(T)　態度(N)　和(C)　話語(N)　，(COMMACATEGORY)
+　對(P)　孩子(N)　的(T)　影響(N)　有(Vt)　多大(N)　！(EXCLANATIONCATEGORY)
+　

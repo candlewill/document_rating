@@ -1,0 +1,10 @@
+　其實(ADV)　就樓主(N)　描述(N)　及(C)　照片(N)　看起來(ADV)　,(COMMACATEGORY)
+　也(ADV)　不能(ADV)　全怪是神車(b)　不好(Vi)　!(EXCLANATIONCATEGORY)　彎道(N)　中(N)　時速(N)　70(DET)　已經(ADV)　不(ADV)　慢(Vi)　!(EXCLANATIONCATEGORY)　再(ADV)　加上(Vt)　是爆(b)　後輪(N)　，(COMMACATEGORY)
+　肯定(Vt)　會(ADV)　有甩尾的(N)　現象(N)　!(EXCLANATIONCATEGORY)　再(ADV)　加上(Vt)　路面(N)　品質(N)　不好的(N)　時候(N)　，(COMMACATEGORY)
+　翻車(Vi)　應是(b)　不(ADV)　意外(Vt)　,(COMMACATEGORY)
+　每(DET)　個人(N)　對(P)　車子(N)　的(T)　敏感度(N)　不一(Vi)　,(COMMACATEGORY)
+　反應(N)　度(N)　也(ADV)　不一(Vi)　!(EXCLANATIONCATEGORY)　照(P)　當時(N)　情況(N)　能(ADV)　救回來(Vt)　的(T)　!(EXCLANATIONCATEGORY)　應該(ADV)　是(Vt)　經驗(N)　老到(Vi)　,(COMMACATEGORY)
+　有(Vt)　不錯(Vi)　反應(N)　能力(N)　的(T)　人(N)　!(EXCLANATIONCATEGORY)　.....(ETCCATEGORY)　總之(ADV)　人(N)　安全(Nv)　就好(N)　，(COMMACATEGORY)
+　車(N)　再買就有(b)　!(EXCLANATIONCATEGORY)　去(Vt)　收個驚(b)　，(COMMACATEGORY)
+　改(Vt)　改運(Vi)　好了(T)　!(EXCLANATIONCATEGORY)
+　

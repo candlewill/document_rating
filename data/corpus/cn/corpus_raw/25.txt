@@ -1,0 +1,13 @@
+　其實(ADV)　我(N)　也(ADV)　認(Vt)　?(QUESTIONCATEGORY)　小厲(b)　同學(N)　應該(ADV)　是(Vt)　知道(Vt)　寫意(Vi)　的(T)　報復(Nv)　的(T)　，(COMMACATEGORY)
+　至少(ADV)　是(Vt)　有所(Vt)　察覺(Vt)　的(T)　，(COMMACATEGORY)
+　但是(C)　他(N)　可能(ADV)　自認(Vt)　?(QUESTIONCATEGORY)　虧欠(Vt)　寫意(Vi)　良多(Vi)　，(COMMACATEGORY)
+　同時(N)　?(QUESTIONCATEGORY)　了(ASP)　給(Vt)　彼此(N)　的(T)　恩怨(N)　過往(Vi)　一(DET)　個(M)　兩清的(N)　機會(N)　，(COMMACATEGORY)
+　估計(Vt)　也(ADV)　是(Vt)　?(QUESTIONCATEGORY)　了尋(b)　一(DET)　個(M)　重新(ADV)　開始(Vi)　的(T)　未來(N)　，(COMMACATEGORY)
+　所以(C)　他(N)　選擇(Vt)　放任(Vt)　寫意(Vi)　。(PERIODCATEGORY)
+　但是(C)　當(P)　真相(N)　來臨(Vi)　，(COMMACATEGORY)
+　我(N)　想(Vt)　心不痛是(b)　不(ADV)　可能(Vi)　的(T)　。(PERIODCATEGORY)
+　而且(C)　我(N)　一直(ADV)　認(Vt)　?(QUESTIONCATEGORY)　阿衍的斷腿(b)　，(COMMACATEGORY)
+　他(N)　的(T)　疼痛(N)　都是在(N)　折磨(Vt)　自己(N)　，(COMMACATEGORY)
+　把(P)　心裏的(N)　傷痛(N)　轉移到(Vt)　身體(N)　的(T)　疼痛(N)　上來(Vi)　，(COMMACATEGORY)
+　至少(ADV)　這樣(Vi)　會(ADV)　讓他對(b)　寫意(Vi)　少一點(DET)　負罪(Vi)　感(N)　。(PERIODCATEGORY)
+　

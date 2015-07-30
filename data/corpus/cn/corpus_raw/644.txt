@@ -1,0 +1,8 @@
+　阿(N)　加莎(N)　之外(POST)　的(T)　另(DET)　一(DET)　位(M)　犯罪(Nv)　推理(N)　小說(N)　的(T)　大師級(N)　女(N)　作家(N)　！(EXCLANATIONCATEGORY)
+　女(N)　作家(N)　和男(N)　作家(N)　的(T)　區別(N)　，(COMMACATEGORY)
+　在於(Vt)　擅長(Vt)　在(P)　邏輯(N)　嚴密(Vi)　和(C)　氣氛(N)　緊張(Vi)　的(T)　犯罪(Nv)　推理(N)　之外(POST)　，(COMMACATEGORY)
+　對(P)　人性(N)　的(T)　軟弱(Nv)　、(PAUSECATEGORY)　複雜(Vi)　和(C)　彼此(N)　之間(POST)　可(ADV)　堪(Vt)　或(C)　不堪(Vt)　的關(N)　繫有(Vt)　?(QUESTIONCATEGORY)　細膩(Vi)　的(T)　觀察(Nv)　和(C)　豐富(Vt)　的(T)　細節(N)　表現(N)　。(PERIODCATEGORY)
+　小說(N)　更(ADV)　對(P)　女性(N)　在(P)　“(FW)　法醫(N)　”(FW)　這(DET)　一(DET)　“(FW)　男性(N)　”(FW)　職業(N)　之(T)　種種(DET)　身心(N)　壓力(N)　、(PAUSECATEGORY)　人際(N)　壓力(N)　、(PAUSECATEGORY)　規則(N)　壓力(N)　的(T)　包圍(Nv)　下(POST)　，(COMMACATEGORY)
+　如何(ADV)　堅定(Vt)　地(T)　維護(Nv)　正義(N)　、(PAUSECATEGORY)　呵護(Nv)　親情(N)　和(C)　愛情(N)　，(COMMACATEGORY)
+　進行(Vt)　了(ASP)　細緻(Vi)　入微(Vi)　地(T)　表現(N)　。(PERIODCATEGORY)
+　

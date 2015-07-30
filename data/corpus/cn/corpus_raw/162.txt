@@ -1,0 +1,5 @@
+　那(DET)　請問(Vt)　你(N)　為什麼(ADV)　我(N)　朋友(N)　開車(Vi)　場的(N)　~(FW)　也(ADV)　都(ADV)　是在開(b)　T(FW)　牌(N)　...(ETCCATEGORY)　真的(ADV)　好(ADV)　怪異(Vi)　=(FW)　=(FW)　他(N)　不(ADV)　懂車(N)　~(FW)　卻(ADV)　可以(ADV)　開(Vt)　車行(N)　~(FW)　呵呵(ADV)　~(FW)　雖然(C)　你(N)　說(Vt)　的是(N)　很多(DET)　T(FW)　牌(N)　車主(N)　，(COMMACATEGORY)
+　但是(C)　我(N)　想(Vt)　理性(N)　的(T)　跟(P)　你(N)　說(Vt)　...(ETCCATEGORY)　如果(C)　要(ADV)　喊(Vt)　安全性(N)　，(COMMACATEGORY)
+　跟(P)　穩定度(N)　...(ETCCATEGORY)　好多(DET)　銷售(Vt)　前(DET)　幾(DET)　名(M)　的(T)　車子(N)　，(COMMACATEGORY)
+　穩定度(N)　跟(P)　操控(Vt)　度(M)　跟(P)　安全(Vi)　度(M)　都(ADV)　特(ADV)　爛(Vi)　~(FW)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　我(N)　問(Vt)　一下(N)　~(FW)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　如果(C)　今天(N)　你(N)　沒有(Vt)　甚麼(DET)　錢(N)　~(FW)　你(N)　會(ADV)　買啥(b)　?(QUESTIONCATEGORY)　不買(N)　?(QUESTIONCATEGORY)　還是(ADV)　賺(Vt)　多(Vi)　一點(ADV)　等待(Vt)　好車(N)　?(QUESTIONCATEGORY)
+　

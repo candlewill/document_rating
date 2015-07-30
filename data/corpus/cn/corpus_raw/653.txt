@@ -1,0 +1,10 @@
+　很(ADV)　不錯(Vi)　的(T)　一(DET)　家(M)　酒店(N)　,(COMMACATEGORY)
+　在(P)　當地(N)　來(ADV)　說是(b)　最好(Vi)　的了(N)　.(PERIODCATEGORY)　客房(N)　設施(N)　在(P)　此(DET)　價位(N)　相當(ADV)　到(Vt)　位(M)　,(COMMACATEGORY)
+　早餐(N)　口味(N)　及(C)　品種(N)　也(ADV)　很好(Vi)　,(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　酒店(N)　的(T)　氛圍(N)　絕對(ADV)　是(Vt)　優於(Vt)　臨海(N)　其它(DET)　酒店(N)　,(COMMACATEGORY)
+　感覺(N)　很好(Vi)　.(PERIODCATEGORY)　補充(Vt)　點(N)　評(Vt)　2008(DET)　年(M)　7月(N)　9(DET)　日(M)　：(COLONCATEGORY)　很(ADV)　不錯(Vi)　的(T)　一(DET)　家(M)　酒店(N)　,(COMMACATEGORY)
+　在(P)　當地(N)　來(ADV)　說是(b)　最好(Vi)　的了(N)　.(PERIODCATEGORY)　客房(N)　設施(N)　在(P)　此(DET)　價位(N)　相當(ADV)　到(Vt)　位(M)　,(COMMACATEGORY)
+　早餐(N)　口味(N)　及(C)　品種(N)　也(ADV)　很好(Vi)　,(COMMACATEGORY)
+　尤其(ADV)　是(Vt)　酒店(N)　的(T)　氛圍(N)　絕對(ADV)　是(Vt)　優於(Vt)　臨海(N)　其它(DET)　酒店(N)　,(COMMACATEGORY)
+　感覺(N)　很好(Vi)　.(PERIODCATEGORY)
+　

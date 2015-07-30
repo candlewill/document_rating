@@ -1,0 +1,11 @@
+　媽(N)　的(T)　最近(N)　每(DET)　天(M)　打開(Vt)　臉書(b)　就(ADV)　是(Vt)　一(DET)　堆(M)　反(Vt)　政府(N)　、(PAUSECATEGORY)　反(Vt)　服貿(N)　的文(N)　。(PERIODCATEGORY)
+　還(ADV)　有(Vt)　政治(N)　立場(N)　鮮明(Vi)　的(T)　同學(N)　理直氣壯(Vi)　的說(N)　以前(POST)　跟(P)　他很好的(N)　國小(N)　老師(N)　因為(C)　一直(ADV)　發(Vt)　深藍(N)　的文(N)　讓他(b)　看(Vt)　的很(N)　不(ADV)　爽(Vi)　所以(C)　刪了他(b)　好友(N)　。(PERIODCATEGORY)
+　真是(ADV)　好笑(Vi)　，(COMMACATEGORY)
+　這(DET)　種(M)　人(N)　口口聲聲(ADV)　說(Vt)　民主(N)　但是(C)　卻(ADV)　無法(ADV)　容忍(Vt)　跟(P)　自己(N)　想法(N)　相反(Vi)　的(T)　聲音(N)　八卦(N)　版也是(b)　，(COMMACATEGORY)
+　只要(C)　發(Vt)　一(DET)　篇(M)　支持(Nv)　服貿(N)　或是(C)　批評(Vt)　這(DET)　次(M)　學運(N)　的文(N)　，(COMMACATEGORY)
+　就(ADV)　會(ADV)　被(P)　貼上(Vt)　黨工(N)　或是(C)　抹黑(Vt)　的(T)　標籤(N)　，(COMMACATEGORY)
+　反之(ADV)　在(P)　那邊(N)　酸(Vi)　政府(N)　的(T)　人(N)　就酸(N)　的很(N)　開心(Vi)　。(PERIODCATEGORY)
+　搞(Vt)　得(T)　支持(Nv)　服貿(N)　得(T)　聲音(N)　好像(ADV)　完全(ADV)　被(P)　抹殺(Vt)　掉(Vi)　。(PERIODCATEGORY)
+　真是(ADV)　民主(Vi)　，(COMMACATEGORY)
+　真(ADV)　是(Vt)　寶島(N)　台灣(N)　！(EXCLANATIONCATEGORY)
+　

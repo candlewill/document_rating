@@ -1,0 +1,5 @@
+　首先(ADV)　謝謝(Vt)　大家(N)　的(T)　回覆(Nv)　,(COMMACATEGORY)
+　讓(Vt)　我多了(b)　一(DET)　項(M)　的(T)　知識(N)　起初(ADV)　我(N)　也(ADV)　想回(N)　toyota(FW)　廠(N)　更換(Vt)　,(COMMACATEGORY)
+　不過(C)　報價(N)　真的(ADV)　太貴了(b)　.(PERIODCATEGORY)　前後煞(N)　車盤(N)　與(C)　前後煞(N)　車皮(N)　要價(Vt)　13186(DET)　元(M)　.(PERIODCATEGORY)　只好(ADV)　到(Vt)　外面(N)　詢問(Vt)　.(PERIODCATEGORY)　或許(ADV)　外面(N)　的不是(N)　正(ADV)　廠(N)　零件(N)　.(PERIODCATEGORY)　但他(N)　也(ADV)　強調(Vt)　比照(P)　原廠的(N)　規格(N)　.(PERIODCATEGORY)　並且(C)　看到(Vt)　許多(DET)　toyota(FW)　車主(N)　在(P)　那邊(N)
+　維修(Vt)　保養(Vt)　他們(N)　的愛車(N)　.(PERIODCATEGORY)　經(P)　詢問(Vt)　那些(DET)　車主(N)　們(N)　.(PERIODCATEGORY)　他們(N)　都(ADV)　說(Vt)　已經(ADV)　在(P)　那邊(N)　很久了(Vi)　.(PERIODCATEGORY)　也(ADV)　不(ADV)　曾(ADV)　出現(Vi)　問題(N)　.(PERIODCATEGORY)　再(ADV)　加上(Vt)　價錢(N)　差了(N)　30(DET)　%(M)　.(PERIODCATEGORY)　所以(C)　就(ADV)　接受(Vt)　技師(N)　的(T)　建議(N)　了(T)　.(PERIODCATEGORY)　總之(ADV)　.....(ETCCATEGORY)　再次(ADV)　謝謝(Vt)　大家(N)
+　

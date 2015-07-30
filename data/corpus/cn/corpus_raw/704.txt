@@ -1,0 +1,13 @@
+　教育(N)　兩(DET)　個(M)　字(N)　看似(Vt)　簡單(Vi)　，(COMMACATEGORY)
+　簡單(Vi)　到(P)　日常(A)　的(T)　威權(N)　教育(N)　。(PERIODCATEGORY)
+　於是(C)　孩子(N)　成了(Vi)　父母(N)　願望(N)　及(C)　個人(N)　喜歡(Vt)　的(T)　成長(Nv)　載體(N)　。(PERIODCATEGORY)
+　很多(DET)　時候(N)　作(Vt)　父母(N)　的並(N)　不會(ADV)　想想(Vt)　孩子(N)　是否(ADV)　願意(Vt)　？(QUESTIONCATEGORY)
+　於是(C)　孩子(N)　只能(N)　被動(Vi)　享受(Vt)　灌輸(Vt)　。(PERIODCATEGORY)
+　數千(DET)　年(M)　來(POST)　，(COMMACATEGORY)
+　我們(N)　對(P)　這樣的(N)　觀念(N)　面對(Vt)　如常(Vi)　。(PERIODCATEGORY)
+　這樣的(N)　教育(N)　方式(N)　已經(ADV)　值得(Vi)　我們(N)　反思(Vt)　。(PERIODCATEGORY)
+　推薦(Vt)　這樣的(N)　一(DET)　本(M)　書(N)　給(Vt)　所有(DET)　的(T)　家長(N)　和(C)　即將(ADV)　成(Vi)　?(QUESTIONCATEGORY)　家長(N)　的(T)　人(N)　。(PERIODCATEGORY)
+　當然(ADV)　此書並(N)　非(ADV)　是僅(b)　敘述(Vt)　上面(N)　的(T)　話題(N)　。(PERIODCATEGORY)
+　讓(Vt)　我們(N)　學(Vt)　?(QUESTIONCATEGORY)　並(C)　嘗試(Vt)　?(QUESTIONCATEGORY)　孩子(N)　有(Vt)　更(ADV)　良好(Vi)　的(T)　未來(N)　，(COMMACATEGORY)
+　來(ADV)　愛(Vt)　孩子(N)　！(EXCLANATIONCATEGORY)
+　

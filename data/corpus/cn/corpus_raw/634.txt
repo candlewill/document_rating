@@ -1,0 +1,6 @@
+　哈(ADV)　哈哈(ADV)　這跟(b)　這(DET)　主題(N)　有關(Vt)　嗎(T)　?(QUESTIONCATEGORY)　好吧講(N)　其中(DET)　一(DET)　個(M)　理由(N)　我認為(b)　一(DET)　台(M)　1.6(DET)　噸(M)　的(T)　車子(N)　油耗(A)　只(ADV)　有(Vt)　14(DET)　KM/L(FW)　,(COMMACATEGORY)
+　車價(N)　約(ADV)　100萬(DET)　我認為(b)　不(ADV)　夠(Vi)　省(N)　我認為(b)　一(DET)　台(M)　2(DET)　噸(M)　的休旅車(N)　油耗(A)　只(ADV)　有(Vt)　12(DET)　-(DASHCATEGORY)　14(DET)　KM/L(FW)　,(COMMACATEGORY)
+　車價(N)　約(ADV)　100萬(DET)　我認為(b)　還可以(ADV)　更(ADV)　好(Vi)　於是(C)　換了(b)　一(DET)　台(M)　1.5(DET)　噸(M)　的小車花了(N)　只有(ADV)　很(ADV)　便宜(Vi)　的(T)　,(COMMACATEGORY)
+　跟(P)　1.8(DET)　特試車(b)　差不多(Vi)　價格(N)　((PARENTHESISCATEGORY)　72萬(DET)　)(PARENTHESISCATEGORY)　換來(Vt)　一(DET)　台(M)　14(DET)　-(DASHCATEGORY)　18(DET)　KM/L(FW)　的(T)　油耗(A)　不然(C)　我(N)　養不起(Vt)　阿(N)　,(COMMACATEGORY)
+　我(N)　不(ADV)　是(Vt)　那(DET)　種(M)　開(Vt)　1.5(DET)　噸(M)　油耗(A)　只(ADV)　有(Vt)　10(DET)　KM/L(FW)　的(T)　有錢人(N)　阿(N)　難道(ADV)　要(ADV)　我(N)　去(ADV)　開(Vt)　那(DET)　台(M)　假(Vi)　18(DET)　KM/L(FW)　然後(ADV)　只(ADV)　有(Vt)　1.8(DET)　L(FW)　車子(N)　輕又沒力(N)　加速(ADV)　慢(Vi)　....(ETCCATEGORY)　的(T)　車子(N)　嗎(T)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)
+　

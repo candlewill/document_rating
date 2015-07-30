@@ -1,0 +1,5 @@
+　優點(N)　：(COLONCATEGORY)　1(DET)　、(PAUSECATEGORY)　地理(N)　位置(N)　鬧中取靜(Vi)　2(DET)　、(PAUSECATEGORY)　如果(C)　在(P)　五(DET)　角(M)　場(N)　附近(N)　辦事(Vi)　，(COMMACATEGORY)
+　交通(N)　還算(b)　方便(Vi)　缺點(N)　：(COLONCATEGORY)　1(DET)　、(PAUSECATEGORY)　房間(N)　內(N)　有(Vt)　濃重(Vi)　的(T)　煙味(N)　2(DET)　、(PAUSECATEGORY)　空調(N)　滴水(N)　剛好(ADV)　在(P)　樓下(N)　的(T)　玻璃(N)　鋼瓦(b)　上(POST)　，(COMMACATEGORY)
+　晚上(N)　比較(ADV)　吵(Vi)　3(DET)　、(PAUSECATEGORY)　洗澡水(N)　“(FW)　小水(b)　無力(Vi)　”(FW)　，(COMMACATEGORY)
+　感覺(N)　更像是(Vt)　“(FW)　跑(Vi)　、(PAUSECATEGORY)　冒(Vt)　、(PAUSECATEGORY)　滴(Vt)　、(PAUSECATEGORY)　漏(Vi)　”(FW)　的(T)　水龍頭(N)　3(DET)　、(PAUSECATEGORY)　早餐(N)　比較(ADV)　差(Vi)　((PARENTHESISCATEGORY)　既(C)　沒有(Vt)　"(FW)　吃飽(Vi)　"(FW)　的(T)　實實惠惠(Vi)　，(COMMACATEGORY)
+　也(ADV)　沒有(Vt)　"(FW)　吃好(Vt)　"(FW)　的(T)　豐富(Vt)　多彩(Vi)　)(PARENTHESISCATEGORY)　4(DET)　、(PAUSECATEGORY)　毛巾(N)　泛黃(Vi)　5(DET)　、(PAUSECATEGORY)　枕頭(N)　很(ADV)　尷尬(Vi)　((PARENTHESISCATEGORY)　兩(DET)　個(M)　偏高(Vt)　、(PAUSECATEGORY)　一(DET)　個(M)　偏低(Vi)　)(PARENTHESISCATEGORY)

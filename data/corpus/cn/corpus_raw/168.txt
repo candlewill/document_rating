@@ -1,0 +1,4 @@
+　ya(FW)　碰到(Vt)　同好(N)　了也(N)　.(PERIODCATEGORY)　00(DET)　美規的(N)　2.2(DET)　camry(FW)　真的(ADV)　好(Vi)　到(P)　沒(ADV)　話(N)　說(Vt)　除了(P)　.(PERIODCATEGORY)　有(Vt)　些(M)　小(Vi)　毛病(N)　之完(b)　因為(C)　小弟(N)　之前(POST)　在驗(b)　車場(N)　打工(Vi)　過(ASP)　大部份(DET)　的(T)　2.2(DET)　的車(N)　EGR＆lt(FW)　;(SEMICOLONCATEGORY)　廢氣(N)　在尋環(Vi)　＆(FW)　gt(FW)　;(SEMICOLONCATEGORY)　引擎(N)　燈(N)
+　會(ADV)　亮這(N)　都(ADV)　很(ADV)　容易(Vi)　壞也(N)　糟糕(Vi)　!(EXCLANATIONCATEGORY)　原場(b)　報價(Vi)　2(DET)　棵(M)　小(Vi)　飛碟(N)　要(ADV)　10(DET)　張(M)　小朋友(N)　XD(FW)　反正(ADV)　技師(N)　建議(N)　還是(ADV)　不要(ADV)　換好(Vt)　了(ASP)　其他(DET)　應該(ADV)　沒(Vt)　什麼(DET)　大(Vi)　問題(N)　了(T)　請問(Vt)　小弟(N)　最近(N)　想(Vt)　自己(N)　更換(Vt)　發電機(N)　皮帶(N)　請問(Vt)　好換嗎(N)　?(QUESTIONCATEGORY)　要對正時(b)
+　嗎(T)　?(QUESTIONCATEGORY)　皮帶(N)　規格(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)
+　

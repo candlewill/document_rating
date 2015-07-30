@@ -1,0 +1,13 @@
+　這(DET)　本(M)　書(N)　非常(ADV)　棒(Vi)　，(COMMACATEGORY)
+　無論(C)　從(P)　故事(N)　構思(Vt)　，(COMMACATEGORY)
+　還是(ADV)　從(P)　表現(N)　手法(N)　都(ADV)　無不(ADV)　顯示出(Vt)　作者(N)　非凡(Vi)　的(T)　文學(N)　功底(N)　，(COMMACATEGORY)
+　兩(DET)　個(M)　悽美的(N)　愛情(N)　故事(N)　被(P)　演繹(Vt)　得(T)　淋漓盡致(Vi)　！(EXCLANATIONCATEGORY)
+　最初(N)　看(Vt)　是因(b)　?(QUESTIONCATEGORY)　想(Vt)　瞭解(Vt)　回族(b)　人民(N)　的(T)　生活(N)　，(COMMACATEGORY)
+　看(Vt)　?(QUESTIONCATEGORY)　看(Vt)　?(QUESTIONCATEGORY)　卻被(Vt)　情節(N)　所(ADV)　吸引(Vt)　，(COMMACATEGORY)
+　平生(N)　第一(DET)　次(M)　對(P)　一(DET)　本(M)　書(N)　有(Vt)　種(M)　“(FW)　情不自禁(Vi)　”(FW)　想(Vt)　看下去(Vi)　的(T)　強烈(Vi)　願望(N)　，(COMMACATEGORY)
+　事實(N)　上(POST)　，(COMMACATEGORY)
+　我(N)　確實(ADV)　也(ADV)　常常(ADV)　?(QUESTIONCATEGORY)　這(DET)　本(M)　書而(N)　不知不覺(ADV)　熬到(Vt)　臨晨(N)　一兩(DET)　天(M)　.....(ETCCATEGORY)　雖然(C)　有時候(ADV)　第二(DET)　天(M)　會困(N)　，(COMMACATEGORY)
+　但(C)　心裏(b)　覺得(Vt)　很(ADV)　踏實(Vi)　，(COMMACATEGORY)
+　很(ADV)　欣慰(Vt)　！(EXCLANATIONCATEGORY)
+　強烈(Vi)　建議(Vt)　大家(N)　讀讀(b)　這(DET)　本(M)　書(N)　！(EXCLANATIONCATEGORY)
+　

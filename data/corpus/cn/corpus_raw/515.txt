@@ -1,0 +1,10 @@
+　先(ADV)　是(Vt)　破壞(Vt)　立法院(N)　再(ADV)　破壞(Vt)　行政院(N)　，(COMMACATEGORY)
+　然後(ADV)　喊(Vt)　革命(Vi)　，(COMMACATEGORY)
+　暴動(N)　被(P)　鎮壓(Vt)　就喊(N)　警察(N)　打人(N)　反對(Nv)　暴力(N)　；(SEMICOLONCATEGORY)　啊(T)　自己(N)　用(P)　暴力(N)　時(POST)　就(ADV)　覺得(Vt)　自己(N)　很對很(Vi)　理性(N)　，(COMMACATEGORY)
+　被(P)　公權力(N)　鎮壓(Vt)　就說(N)　政府(N)　是(Vt)　野蠻人(N)　，(COMMACATEGORY)
+　真是(ADV)　快(ADV)　笑死(Vt)　人了(b)　LOL(FW)　，(COMMACATEGORY)
+　有(Vt)　哪(DET)　個(M)　國家(N)　的(T)　革命家(N)　還(ADV)　會(ADV)　不要臉(Vi)　得喊(N)　警察(N)　打人的(N)　？(QUESTIONCATEGORY)
+　沒有(ADV)　當場(ADV)　槍斃(Vt)　內亂罪(N)　現行犯(N)　已經(ADV)　是(Vt)　非常(ADV)　仁慈(Vi)　了(T)　，(COMMACATEGORY)
+　有(Vt)　看(Vt)　過(ASP)　悲慘(Vi)　世界(N)　((PARENTHESISCATEGORY)　2012(DET)　版(N)　)(PARENTHESISCATEGORY)　的(T)　應該(ADV)　都(ADV)　知道(Vt)　，(COMMACATEGORY)
+　革命(Vi)　失敗(Vi)　的(T)　下場(N)　可是(C)　當場(ADV)　就(ADV)　槍決(Vt)　的(T)　。(PERIODCATEGORY)
+　

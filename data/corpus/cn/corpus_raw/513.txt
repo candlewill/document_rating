@@ -1,0 +1,9 @@
+　我(N)　一直(ADV)　很(ADV)　想(Vt)　找(Vt)　機會(N)　和反馬的(N)　網友(N)　好好(Vi)　的(T)　聊聊(Vt)　馬英九(N)　完成(Vt)　很多(DET)　前任(A)　與前(N)　前任(A)　都(ADV)　辦不到(Vi)　的事(N)　，(COMMACATEGORY)
+　單(ADV)　是(Vt)　一(DET)　個(M)　台日(b)　漁業(N)　協定(N)　，(COMMACATEGORY)
+　李登輝(N)　、(PAUSECATEGORY)　陳水扁(N)　都搞(N)　不定(Vi)　，(COMMACATEGORY)
+　他們(N)　整(DET)　天(M)　認為(Vt)　台日(b)　友好(Vi)　，(COMMACATEGORY)
+　但是(C)　日本(N)　就是(C)　不(ADV)　跟(P)　他們(N)　友好(Vi)　。(PERIODCATEGORY)
+　偏偏(ADV)　就是(C)　馬英九(N)　這(DET)　個(M)　被(P)　認為(Vt)　親(N)　中(N)　反日的(N)　，(COMMACATEGORY)
+　日本(N)　願意(Vt)　和他(N)　解決(Vt)　台日(b)　漁權(N)　問題(N)　。(PERIODCATEGORY)
+　你(N)　要(ADV)　說(Vt)　馬英九(N)　很爛嗎(Vi)　?(QUESTIONCATEGORY)　馬英九(N)　爛(Vi)　到(P)　可以(ADV)　簽定(Vt)　台日(b)　漁業(N)　協定(N)　?(QUESTIONCATEGORY)　還是(ADV)　簽定(Vt)　台日(b)　漁業(N)　協定(N)　是害(Vi)　台灣(N)　的(T)　罪狀(N)　?(QUESTIONCATEGORY)　為什麼(ADV)　如此(ADV)　反馬(Vi)　恨馬(N)　?(QUESTIONCATEGORY)　能否(ADV)　說個(b)　具體(Vi)　原因(N)　?(QUESTIONCATEGORY)
+　

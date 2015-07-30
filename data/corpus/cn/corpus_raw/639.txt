@@ -1,0 +1,11 @@
+　10月(N)　25(DET)　日(M)　入住(b)　單人(A)　大(Vi)　?(QUESTIONCATEGORY)　間(N)　一(DET)　晚(M)　,(COMMACATEGORY)
+　感覺(N)　較差(N)　:(COLONCATEGORY)　1(DET)　.(PERIODCATEGORY)　晚上(N)　22(DET)　:(COLONCATEGORY)　30(DET)　左右(POST)　入住(b)　,(COMMACATEGORY)
+　前(DET)　臺(N)　接待(Vt)　很(ADV)　冷淡(Vi)　,(COMMACATEGORY)
+　無(Vt)　笑容(N)　,(COMMACATEGORY)
+　感覺(N)　不(ADV)　親切(Vi)　;(SEMICOLONCATEGORY)　2(DET)　.(PERIODCATEGORY)　最(ADV)　可怕(Vi)　的是沖澡(N)　3(DET)　分鐘(M)　後(POST)　淋浴(Vi)　龍頭(N)　停水(b)　,(COMMACATEGORY)
+　2(DET)　分鐘(M)　以後(POST)　浴缸(N)　龍頭(N)　也(ADV)　完全(ADV)　停水(b)　.(PERIODCATEGORY)　沒辦法(Vi)　浴室(N)　內(N)　打電話(Vi)　給(Vt)　大堂(N)　,(COMMACATEGORY)
+　說(Vt)　派人(N)　上來(Vi)　看(Vt)　一下(N)　,(COMMACATEGORY)
+　這時(N)　發現(Vt)　房間(N)　內未配(b)　浴袍(N)　.(PERIODCATEGORY)　後(DET)　大堂(N)　副理(N)　上來(Vi)　,(COMMACATEGORY)
+　告訴(Vt)　也(ADV)　有(Vt)　其它(DET)　房間(N)　有(Vt)　類似(Vt)　情況(N)　,(COMMACATEGORY)
+　因(C)　最近(N)　酒店(N)　附近(N)　管理(Nv)　維修(Nv)　.(PERIODCATEGORY)　只是(ADV)　建議(Vt)　給(P)　換(Vt)　房間(N)
+　

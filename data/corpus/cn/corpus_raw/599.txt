@@ -1,0 +1,4 @@
+　有錢(Vi)　歸(Vt)　有錢(Vi)　...(ETCCATEGORY)　可是(C)　我(N)　實在(ADV)　不(ADV)　懂(Vt)　有錢(Vi)　然後(ADV)　拿(Vt)　Camry(FW)　來(ADV)　這樣(Vi)　玩有(b)　什麼(DET)　意義(N)　?(QUESTIONCATEGORY)　=(FW)　=(FW)　有錢(Vi)　為什麼(ADV)　要(ADV)　買(Vt)　Camry(FW)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　平常(N)　熱血(N)　的我(N)　看到(Vt)　跑車(N)　玩(Vt)　drift(FW)　或(C)　powerslide(FW)　偶爾(ADV)
+　也(ADV)　會(ADV)　覺得(Vt)　挖(Vt)　~(FW)　好酷(N)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　..(ETCCATEGORY)　我(N)　也(ADV)　要(ADV)　努力(Vi)　賺錢(Vi)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　可是(C)　這(DET)　次(M)　看完(Vt)　影片(N)　我(N)　個人(N)　只(ADV)　覺得(Vt)　.......(ETCCATEGORY)　.(PERIODCATEGORY)　為什麼(ADV)　要(ADV)　這樣(Vi)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　有(P)　更多(DET)　的(T)　車子(N)　更(ADV)　好玩(Vi)　為什麼(ADV)　都(ADV)　是(Vt)　這(DET)　種(M)　中大型(N)　經濟(N)　房車(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　((PARENTHESISCATEGORY)　好歹(ADV)　也(ADV)
+　買(Vt)　後驅的(N)　Lexus(FW)　啊(T)　)(PARENTHESISCATEGORY)　或者(C)　這些(DET)　...(ETCCATEGORY)　真的(ADV)　是(Vt)　有錢人(N)　嗎(T)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)
+　

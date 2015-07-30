@@ -1,0 +1,13 @@
+　外觀(N)　漂亮(Vi)　,(COMMACATEGORY)
+　白色(N)　鍵盤(N)　搶眼(Vi)　,(COMMACATEGORY)
+　功能鍵(N)　設置(Vt)　合理(Vi)　;(SEMICOLONCATEGORY)　鍵盤(N)　材質(N)　好(Vi)　,(COMMACATEGORY)
+　觸感(N)　紮實(Vi)　;(SEMICOLONCATEGORY)　觸摸(Vt)　板(N)　做了凸點(b)　處理(Nv)　,(COMMACATEGORY)
+　手(N)　感也(N)　不錯(Vi)　,(COMMACATEGORY)
+　同時(N)　具備(Vt)　簡便(Vi)　的(T)　觸摸(Nv)　縮放(N)　功能(N)　,(COMMACATEGORY)
+　比較(ADV)　實用(Vi)　;(SEMICOLONCATEGORY)　P(FW)　7450(DET)　是酷睿2(b)　目前(N)　最好(ADV)　的低功耗(N)　處理器(N)　,(COMMACATEGORY)
+　512(DET)　MB(FW)　顯卡(Vt)　玩(Vt)　遊戲(N)　很好很(Vi)　強大(Vi)　,(COMMACATEGORY)
+　同時(N)　顯卡(Vt)　在(P)　這(DET)　個(M)　檔次(N)　也(ADV)　是(Vt)　比較(ADV)　高端的了(Vt)　;(SEMICOLONCATEGORY)　試用(Vt)　了(ASP)　一下(N)　,(COMMACATEGORY)
+　在(P)　日常(A)　使用(Vt)　的(T)　條件(N)　下(POST)　,(COMMACATEGORY)
+　電池(N)　充滿(Vt)　電在(b)　平衡(Vt)　設定(Nv)　時(POST)　可(ADV)　用(P)　4(DET)　小時(N)　;(SEMICOLONCATEGORY)　加上(C)　電池(N)　也(ADV)　不(ADV)　重(Vi)　,(COMMACATEGORY)
+　兼顧(Vt)　了(ASP)　性能(N)　和(C)　重量(N)　.(PERIODCATEGORY)
+　

@@ -1,0 +1,11 @@
+　這(DET)　本(M)　書(N)　帶給(Vt)　人(N)　許多(DET)　思考(Nv)　，(COMMACATEGORY)
+　即使(C)　不(ADV)　是(Vt)　自己(N)　或(C)　身邊(N)　的(T)　親人(N)　正(ADV)　面臨(Vt)　死亡(Vi)　，(COMMACATEGORY)
+　依然(ADV)　是(Vt)　本(DET)　值得(Vi)　一(ADV)　看(Vt)　的好書(N)　。(PERIODCATEGORY)
+　雖然(C)　本(DET)　書(N)　是(Vt)　以(P)　基督教(N)　信仰(N)　?(QUESTIONCATEGORY)　基礎(N)　，(COMMACATEGORY)
+　書(N)　中(POST)　還是(ADV)　有(Vt)　許多(DET)　地方(N)　也(ADV)　能(ADV)　幫助(Vt)　沒有(Vt)　宗教(N)　信仰(N)　的(T)　人(N)　。(PERIODCATEGORY)
+　比如說(P)　他(N)　提到(Vt)　一(DET)　個人(N)　面臨(Vt)　死亡(Vi)　的(T)　時候(N)　，(COMMACATEGORY)
+　最(ADV)　希望(Vt)　得到(Vt)　的是(N)　更(ADV)　多(Vi)　的(T)　愛(N)　，(COMMACATEGORY)
+　這(DET)　提醒(Vt)　了我(b)　也許(ADV)　我們(N)　不能(ADV)　?(QUESTIONCATEGORY)　年邁(Vi)　的(T)　祖父母(N)　減輕(Vt)　對(P)　死亡(Vi)　的(T)　恐懼(Nv)　，(COMMACATEGORY)
+　但是(C)　我們(N)　可以(ADV)　更多(Vi)　的(T)　關愛(Vt)　他們(N)　，(COMMACATEGORY)
+　讓(Vt)　他們(N)　在世(Vi)　的(T)　每(DET)　一(DET)　天(M)　都(ADV)　不至於(ADV)　感到(Vt)　孤獨(Vi)　。(PERIODCATEGORY)
+　

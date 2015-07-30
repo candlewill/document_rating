@@ -1,0 +1,3 @@
+　民主(N)　是(Vt)　這樣(Vi)　濫用(Vt)　的(T)　?(QUESTIONCATEGORY)　民主(N)　反對(Vt)　就(ADV)　要(ADV)　用(P)　民主(N)　來(ADV)　反對(Vt)　怎麼(ADV)　會(ADV)　用(P)　暴力(N)　來(ADV)　反對(Vt)　這樣(Vi)　跟你(Vi)　反對(Vt)　的(T)　人(N)　有(Vt)　什麼(DET)　差別(N)　?(QUESTIONCATEGORY)　暴力(N)　退回(Vt)　法案(N)　?(QUESTIONCATEGORY)　暴力(N)　修憲(Vi)　?(QUESTIONCATEGORY)　什麼(DET)　都(ADV)　暴力(N)　就(ADV)　好了(T)　啊談(b)　什麼(DET)　民主(N)　你(N)　問(Vt)　過我嗎(b)　?(QUESTIONCATEGORY)　我(N)　同意(Vt)　你(N)
+　破(Vt)　窗(N)　進去(Vi)　嗎(T)　?(QUESTIONCATEGORY)　裡面(N)　多少(DET)　國家(N)　機密(N)　?(QUESTIONCATEGORY)　給(P)　你們(N)　這些(DET)　學生(N)　踐踏(Vt)　?(QUESTIONCATEGORY)　我(N)　同意(Vt)　你(N)　浪費(Vt)　我們(N)　的(T)　社會(N)　資源(N)　嗎(T)　?(QUESTIONCATEGORY)　要不要(ADV)　五院(b)　佔領(Vt)　直指(Vt)　總統府(N)　?(QUESTIONCATEGORY)　中共(N)　打來(Vt)　你們(N)　要不要(ADV)　去(Vt)　躺在(N)　海岸線(N)　?(QUESTIONCATEGORY)
+　

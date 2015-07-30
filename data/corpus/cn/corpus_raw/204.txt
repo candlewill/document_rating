@@ -1,0 +1,8 @@
+　早餐(N)　豐富(Vt)　.(PERIODCATEGORY)　服務(Nv)　人員(N)　態度(N)　不錯(Vi)　.(PERIODCATEGORY)　但是(C)　入住時(b)　發現(Vt)　衛生(N)　間(M)　有(Vt)　積水(Vi)　,(COMMACATEGORY)
+　housekeeping(FW)　來(ADV)　檢查(Vt)　未(ADV)　有(Vt)　結果(N)　以(P)　?(QUESTIONCATEGORY)　是(Vt)　我們(N)　的(T)　小孩子(N)　搞的(N)　,(COMMACATEGORY)
+　心情(N)　落差(N)　.(PERIODCATEGORY)　擦乾(Vt)　後(POST)　半(DET)　小時(N)　內又有(b)　積水(Vi)　,(COMMACATEGORY)
+　他們(N)　只能(N)　叫(Vt)　維修(Vt)　人員(N)　,(COMMACATEGORY)
+　原來(ADV)　是(Vt)　水斗(N)　的(T)　一(DET)　個(M)　接頭(N)　壞了(b)　.(PERIODCATEGORY)　口頭(N)　對不起(Vt)　.(PERIODCATEGORY)　checkin＆checkout(FW)　比較(ADV)　快(Vi)　.(PERIODCATEGORY)　Italian(FW)　餐館(N)　味道(N)　不錯(Vi)　,(COMMACATEGORY)
+　服務(Vt)　很好(Vi)　.(PERIODCATEGORY)　價格(N)　跟(P)　上海(N)　差不多(Vi)　.(PERIODCATEGORY)　4樓(N)　海景(N)　不夠(N)　好(Vi)　,(COMMACATEGORY)
+　應該(ADV)　往(P)　上(N)　層(N)　更(ADV)　佳(Vi)　.(PERIODCATEGORY)　去(Vt)　海港(N)　城和(N)　廣東道(N)　不夠(N)　方便(Vi)
+　

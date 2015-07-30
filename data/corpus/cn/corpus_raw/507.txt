@@ -1,0 +1,12 @@
+　我(N)　已經(ADV)　崩潰(Vi)　了(T)　。(PERIODCATEGORY)
+　既然(C)　核四(N)　不堪(Vt)　用(Vt)　，(COMMACATEGORY)
+　我(N)　在(P)　此(DET)　提議(N)　，(COMMACATEGORY)
+　要不要(ADV)　把建出(N)　核四(N)　這麼(ADV)　爛(Vi)　建築物(N)　的(T)　工程師(N)　及(C)　相關(Vi)　包商(N)　送上(Vt)　斷頭台(N)　？(QUESTIONCATEGORY)
+　國民黨(N)　實在(ADV)　讓我太(b)　失望(Vi)　了(T)　。(PERIODCATEGORY)
+　基於(P)　對(P)　科學(N)　的(T)　信仰(N)　，(COMMACATEGORY)
+　我(N)　決定(Vt)　以後(N)　在(P)　中國(N)　共產黨(N)　及(C)　人民(N)　行動(N)　黨(N)　之中(POST)　擇一(b)　支持(Nv)　。(PERIODCATEGORY)
+　政黨(N)　就(ADV)　是(Vt)　理念(N)　的(T)　結合(Nv)　，(COMMACATEGORY)
+　華人(N)　世界(N)　既然(C)　只(ADV)　剩下(Vt)　這(DET)　兩(DET)　個(M)　政黨(N)　還(ADV)　相信(Vt)　理智(Vi)　及(C)　科學(N)　，(COMMACATEGORY)
+　與(P)　我(N)　理念(N)　相符(Vi)　，(COMMACATEGORY)
+　那麼(ADV)　我(N)　只好(ADV)　支持(Vt)　他們(N)　了(T)　。(PERIODCATEGORY)
+　

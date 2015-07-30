@@ -1,0 +1,5 @@
+　不會(ADV)　吧(T)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　!(EXCLANATIONCATEGORY)　我(N)　也(ADV)　是讀(b)　清華(N)　高中(N)　耶(T)　!(EXCLANATIONCATEGORY)　更(ADV)　巧的是我(b)　也(ADV)　是(Vt)　高榮線(Vt)　我(N)　都(ADV)　是坐(b)　這(DET)　台(M)　好幾百萬(DET)　的車(N)　上下課(Vi)　喔哈(b)　哈哈(ADV)　車子(N)　很新(Vi)　,(COMMACATEGORY)
+　司機(N)　態度(N)　很好喔(Vi)　!(EXCLANATIONCATEGORY)　((PARENTHESISCATEGORY)　是妳(b)　爸爸(N)　喔(T)　)(PARENTHESISCATEGORY)　重點(N)　是(Vt)　坐起來(Vi)　好(ADV)　舒服(Vi)　喔(T)　...(ETCCATEGORY)　每(DET)　次要(A)　上課(Vi)　一(ADV)　上車(Vi)　挑好(Vi)　自己(N)　想要(Vt)　的(T)　位子(N)　,(COMMACATEGORY)
+　舒服(Vi)　的(T)　坐著(b)　.(PERIODCATEGORY)　坐著(b)　坐著(b)　就(ADV)　睡著(Vi)　了(T)　.(PERIODCATEGORY)　放學(Vi)　也(ADV)　一樣(Vi)　不過(C)　下雨(Vi)　的(T)　時候(N)　比較(ADV)　不好意思(Vi)　,(COMMACATEGORY)
+　因為(C)　都(ADV)　會(ADV)　把車是用的(N)　溼溼(Vi)　的在(N)　這裡(N)　我(N)　代表(Vt)　各(DET)　位(M)　清華(N)　高中(N)　高榮線的(N)　同學(N)　說聲(b)　抱歉(Vt)　因為(C)　我(N)　也(ADV)　很愛車喔(Vi)　!(EXCLANATIONCATEGORY)
+　

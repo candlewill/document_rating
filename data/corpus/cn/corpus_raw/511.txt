@@ -1,0 +1,3 @@
+　要(ADV)　抗爭(Vi)　不(ADV)　就是(C)　大聲(Vi)　說拎杯(Vi)　反對(Vt)　你(N)　這(DET)　個(M)　無能(Vi)　立委(N)　快點(ADV)　出來(Vi)　面對(Vt)　結果(N)　找人割(b)　闌尾(N)　怕被抓(b)　還要(ADV)　宣稱(Vt)　自己(N)　是(Vt)　路過(Vt)　絕對(ADV)　沒集遊(b)　這(DET)　回(M)　事(N)　到底(ADV)　哪國的(N)　抗爭(N)　這麼(ADV)　孬(b)　?(QUESTIONCATEGORY)　還(ADV)　要(ADV)　扯(Vt)　背景(N)　不同(Vi)　的(T)　人(N)　傅斯年(N)　甘地(N)　來(ADV)　救(Vt)
+　援(Vt)　傅斯年(N)　是(Vt)　反對(Vt)　警察(N)　進(Vt)　學校(N)　抓人(b)　現在(N)　有(Vt)　警察(N)　進(Vt)　台大(N)　抓人(b)　了嗎(b)　?(QUESTIONCATEGORY)　甘地(N)　願意(Vt)　為了(P)　抗爭(N)　入監(b)　服刑(Vi)　這(DET)　才(ADV)　叫(Vt)　公民(N)　不(ADV)　服從(Vt)　你們(N)　哪(DET)　一(DET)　個(M)　甘願(Vt)　服刑(Vi)　?(QUESTIONCATEGORY)　這樣(Vi)　亂扯(Vt)　你媽(b)　知道(Vt)　不會(ADV)　很(ADV)　難過(Vt)　嗎(T)　?(QUESTIONCATEGORY)
+　

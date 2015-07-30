@@ -1,0 +1,8 @@
+　突然(ADV)　想到(Vt)　當年(N)　林義雄(N)　的(T)　二(DET)　個(M)　堅持(Vt)　，(COMMACATEGORY)
+　一(DET)　個(M)　是(Vt)　立委(N)　減半(Vi)　，(COMMACATEGORY)
+　一(DET)　個(M)　是反(Vt)　核四(N)　立委(N)　減半(Vi)　這(DET)　件(M)　事從(N)　現在(N)　的事(N)　後(POST)　諸葛(N)　來(ADV)　看(Vt)　，(COMMACATEGORY)
+　是(Vt)　錯誤(Vi)　的(T)　，(COMMACATEGORY)
+　大錯特錯(Vi)　沒有(Vt)　任何(DET)　法理(N)　根據(P)　就說(N)　減半(Vi)　就(ADV)　減半(Vi)　我(N)　還(ADV)　記得(Vt)　當年(N)　聖教(N)　主義(N)　雄(A)　說過(b)　立委(N)　減半(Vi)　至少(ADV)　可以(ADV)　讓(Vt)　全民(N)　少養(b)　一半(DET)　垃圾(N)　可是(C)　現在(N)　情形(N)　是(Vt)　垃圾(N)　減半(Vi)　了(T)　，(COMMACATEGORY)
+　人民(N)　還是(ADV)　選出(Vt)　垃圾(N)　喔(T)　～(FW)　不(ADV)　，(COMMACATEGORY)
+　是(Vt)　垃圾(N)　中(POST)　的(T)　霸主(N)　我(N)　想(Vt)　知道(Vt)　後來(N)　聖(Vi)　教主(N)　有(Vt)　對(P)　此(DET)　表示(Vt)　後悔(Vt)　還是(ADV)　承認(Vt)　自己(N)　錯了嗎(b)　?(QUESTIONCATEGORY)
+　

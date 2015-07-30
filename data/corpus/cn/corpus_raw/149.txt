@@ -1,0 +1,3 @@
+　安全(Vi)　配備(N)　很(ADV)　重要(Vi)　但(C)　駕駛(Vt)　方式(N)　,(COMMACATEGORY)
+　行為(N)　也(ADV)　同樣(ADV)　重要(Vi)　影片(N)　中(POST)　那(DET)　位(M)　車主(N)　完全(ADV)　沒(ADV)　注意(Vt)　前方(N)　路況(N)　幾乎(ADV)　快(ADV)　撞到(Vt)　了(ASP)　才(ADV)　踩(Vt)　煞車(N)　切(Vt)　到(P)　右線(b)　還好(Vi)　當時(N)　右線(b)　沒有(Vt)　車(N)　不然(C)　被他(Vt)　撞到(Vt)　還(ADV)　真(ADV)　衰(Vi)　安全(Nv)　配備(N)　是(Vt)　輔助(Vt)　不要(ADV)　以為(Vt)　防彈(Vi)　車多(N)　安全(Vi)　它只能讓你(b)　躲過(Vt)　前(POST)　波(N)　攻擊(Vt)　你(N)　還(ADV)　得(ADV)　想(Vt)　辦法(N)　駛離(Vt)　現場(N)　否則(C)　一樣(Vi)　掛點懂嗎(b)　?(QUESTIONCATEGORY)　!(EXCLANATIONCATEGORY)　難道(ADV)　有了(b)　ESP(FW)　就(ADV)　可以(ADV)　像(P)　那(DET)　位(M)　車主(N)　一樣(Vi)　不用(ADV)　注意(Vt)　前方(N)　路況(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)
+　

@@ -1,0 +1,5 @@
+　我(N)　有(Vt)　一(DET)　台(M)　2002(DET)　年(M)　的(T)　3000(DET)　CCCamry(FW)　.(PERIODCATEGORY)　最近(N)　想要(Vt)　換新(Vt)　車(N)　,(COMMACATEGORY)
+　看(Vt)　了(ASP)　一下(N)　U-CAR(FW)　新的(N)　2012(DET)　規格(N)　才(ADV)　發現(Vt)　新車(b)　沒有(Vt)　比舊車好(Vt)　.(PERIODCATEGORY)　引擎(N)　CC(FW)　數就(b)　不(ADV)　看(Vt)　了(ASP)　,(COMMACATEGORY)
+　但是(C)　車子(N)　的(T)　價值(N)　在(P)　安全(Vi)　.(PERIODCATEGORY)　九(DET)　年(M)　來(ADV)　完全(ADV)　沒有(Vt)　進步(Vi)　.(PERIODCATEGORY)　2207(DET)　和泰(N)　車(N)　2008(DET)　/(FW)　2009(DET)　/(FW)　2010(DET)　股東(N)　配股(Nv)　達2(b)　,(COMMACATEGORY)
+　4,　6(DET)　塊(M)　.(PERIODCATEGORY)　但是(C)　這(DET)　家(M)　公司(N)　走不出(N)　台灣(N)　.(PERIODCATEGORY)　靠(P)　政府(N)　保護(Nv)　與(C)　善良(Vi)　勤奮(Vi)　的(T)　中產(A)　百姓(N)　來(ADV)　賺錢(Vi)　.(PERIODCATEGORY)　現在(N)　連(ADV)　貢獻(Vt)　他(N)　股東(N)　報酬(N)　的(T)　車主(N)　安全(Nv)　都(ADV)　視為(Vt)　無物(b)　.(PERIODCATEGORY)　情何以堪(Vi)　?(QUESTIONCATEGORY)　難怪(ADV)　VW(FW)　的(T)　車子(N)　在(P)　台灣(N)　越賣越好(Vi)　...(ETCCATEGORY)
+　

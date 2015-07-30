@@ -1,0 +1,4 @@
+　不(ADV)　懂(Vt)　為什麼(ADV)　這(DET)　種(M)　安全(Nv)　配備(N)　的車(N)　這麼多(DET)　人想(b)　買單(Vi)　?(QUESTIONCATEGORY)　油耗(A)　比(Vt)　安全(Nv)　配備(N)　還要(ADV)　更(ADV)　吸引人(Vi)　更(ADV)　重要(Vi)　?(QUESTIONCATEGORY)　!(EXCLANATIONCATEGORY)　生命(N)　安全(Vi)　比不上(Vt)　油耗(A)　重要(Vi)　?(QUESTIONCATEGORY)　一(DET)　個(M)　車廠(N)　把(P)　安全(Vi)　配配省成(b)　這樣(Vi)　還(ADV)　有(Vt)　人客(N)　要(ADV)　捧場(Vi)　?(QUESTIONCATEGORY)　!(EXCLANATIONCATEGORY)　沒有(Vt)　良心(N)　的是(N)　經(P)
+　營(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　還是(ADV)　不(ADV)　爭氣(Vi)　的是(N)　消費(N)　?(QUESTIONCATEGORY)　?(QUESTIONCATEGORY)　建議(N)　是(Vt)　~(FW)　又(ADV)　不(ADV)　是(Vt)　沒有(Vt)　其他(DET)　更(ADV)　好的(N)　選擇(Vt)　....(ETCCATEGORY)　只能(N)　祝福(Vt)　各(DET)　位(M)　購入(Vt)　的(T)　車主(N)　以上(POST)　,(COMMACATEGORY)
+　沒有(Vt)　別的(DET)　不(ADV)　好的(N)　意思(N)　,(COMMACATEGORY)
+　單(ADV)　存(Vt)　個(M)　人(N)　意見(N)　一(DET)　個(M)　看不慣(Vt)　這樣(Vi)　欺負(Vt)　台灣(N)　消費(N)　著的(N)　人(N)

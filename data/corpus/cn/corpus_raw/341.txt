@@ -1,0 +1,10 @@
+　3700(DET)　元(M)　內不是(b)　不錯(Vi)　的(T)　本本(DET)　，(COMMACATEGORY)
+　顯(Vt)　存是(b)　64(DET)　位(M)　寬的呢(b)　！(EXCLANATIONCATEGORY)
+　跑(Vi)　遊戲(N)　還是(C)　差了(N)　一點點(DET)　。(PERIODCATEGORY)
+　內(N)　存條是(b)　三星(N)　DDR(FW)　3(DET)　。(PERIODCATEGORY)
+　自己(N)　加裝(Vt)　了(ASP)　一(DET)　條(M)　單條的(N)　金(N)　士頓2(N)　G(FW)　的(T)　內存(b)　。(PERIODCATEGORY)
+　跑起來(ADV)　還是(ADV)　不錯(Vi)　沒有(Vt)　衝突(N)　。(PERIODCATEGORY)
+　很多(DET)　人講(b)　系統(N)　不好裝(N)　，(COMMACATEGORY)
+　我(N)　想(Vt)　應該(ADV)　是你(b)　自己(N)　的(T)　系統(N)　盤(N)　問題(N)　和(C)　設置(Nv)　，(COMMACATEGORY)
+　設(Vt)　好(Vi)　光(N)　盤(N)　?(QUESTIONCATEGORY)　動(N)　可以(ADV)　選(Vt)　進入(Vt)　WINPE(FW)　再(ADV)　進行(Vt)　重格和(N)　安裝(Vt)　20(DET)　分鐘(M)　內就(b)　完成(Vt)　機器(N)　的克隆了(N)　!(EXCLANATIONCATEGORY)
+　

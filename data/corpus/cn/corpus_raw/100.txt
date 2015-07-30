@@ -1,0 +1,13 @@
+　它們(N)　的確(ADV)　也(ADV)　都(ADV)　是好車(b)　！(EXCLANATIONCATEGORY)
+　但(C)　凡事(N)　有它(b)　光明(Vi)　一(DET)　面(N)　，(COMMACATEGORY)
+　必定(ADV)　也(ADV)　有它(b)　黑暗(Vi)　的(T)　一(DET)　面(N)　！(EXCLANATIONCATEGORY)
+　不要(ADV)　光(ADV)　注意(Vt)　它的好(Vi)　((PARENTHESISCATEGORY)　省油(b)　、(PAUSECATEGORY)　輕便(Vi)　、(PAUSECATEGORY)　便宜(Vi)　、(PAUSECATEGORY)　耐用(Vi)　...(ETCCATEGORY)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　也(ADV)　要(ADV)　注意(Vt)　車商所(b)　不(ADV)　願(Vt)　告訴(Vt)　你的(N)　真相(N)　主(N)　被動(Vi)　安全(Vi)　缺乏(Vt)　所以(C)　，(COMMACATEGORY)
+　當(P)　這些(DET)　車主(N)　((PARENTHESISCATEGORY)　主(N)　被動(Vi)　安全(Nv)　配備(N)　不足(Vi)　)(PARENTHESISCATEGORY)　，(COMMACATEGORY)
+　面對(Vt)　這些(DET)　安全性(N)　的(T)　議題(N)　！(EXCLANATIONCATEGORY)
+　請(Vt)　嚴肅(Vi)　的(T)　，(COMMACATEGORY)
+　認真(Vi)　的(T)　面對(Vt)　！(EXCLANATIONCATEGORY)
+　這些(DET)　配備(N)　，(COMMACATEGORY)
+　或許(ADV)　將來(N)　可以(ADV)　救你一命(b)　，(COMMACATEGORY)
+　甚至(ADV)　救(Vt)　其他(DET)　人的命(b)　！(EXCLANATIONCATEGORY)
+　
