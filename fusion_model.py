@@ -1,4 +1,5 @@
 __author__ = 'NLP-PC'
+from affective_score import tf, tfidf
 
 # mean of valence and arousal
 def linear_fusion(corpus, lexicon, mark):
@@ -112,3 +113,207 @@ def nonlinear_max_fusion(corpus, lexicon, mark):
         valence_true.append(mark[ind][1])
         arousal_true.append(mark[ind][2])
     return valence_max, valence_true, arousal_max, arousal_true
+
+
+def linear_fusion_tf(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 0
+        sum_arousal = 0
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    word_tf = tf(word, corpus[i])
+                    if l[1] > 9:
+                        l[1] = 9
+                    if l[1] < 1:
+                        l[1] = 1
+                    if l[2] > 9:
+                        l[2] = 9
+                    if l[2] < 1:
+                        l[2] = 1
+                    count = count + word_tf
+                    sum_valence = sum_valence + word_tf * l[1]
+                    sum_arousal = sum_arousal + word_tf * l[2]
+        return [5., 5.] if count == 0 else [sum_valence / count, sum_arousal / count]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def linear_fusion_tfidf(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 0
+        sum_arousal = 0
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    word_tfidf = tfidf(word, corpus[i], corpus)
+                    if l[1] > 9:
+                        l[1] = 9
+                    if l[1] < 1:
+                        l[1] = 1
+                    if l[2] > 9:
+                        l[2] = 9
+                    if l[2] < 1:
+                        l[2] = 1
+                    count = count + word_tfidf
+                    sum_valence = sum_valence + word_tfidf * l[1]
+                    sum_arousal = sum_arousal + word_tfidf * l[2]
+        return [5., 5.] if count == 0 else [sum_valence / count, sum_arousal / count]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def linear_fusion_geo(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 1
+        sum_arousal = 1
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    if l[1] > 9:
+                        l[1] = 9
+                    if l[1] < 1:
+                        l[1] = 1
+                    if l[2] > 9:
+                        l[2] = 9
+                    if l[2] < 1:
+                        l[2] = 1
+                    count = count + 1
+                    sum_valence = sum_valence * l[1]
+                    sum_arousal = sum_arousal * l[2]
+        return [5., 5.] if count == 0 else [sum_valence ** (1. / count), sum_arousal ** (1. / count)]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def linear_fusion_geo_tf(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 1
+        sum_arousal = 1
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    word_tf = tf(word, corpus[i])
+                    if l[1] > 9:
+                        l[1] = 9
+                    if l[1] < 1:
+                        l[1] = 1
+                    if l[2] > 9:
+                        l[2] = 9
+                    if l[2] < 1:
+                        l[2] = 1
+                    count = count + word_tf
+                    sum_valence = sum_valence * (l[1] ** word_tf)
+                    sum_arousal = sum_arousal * (l[2] ** word_tf)
+        return [5., 5.] if count == 0 else [sum_valence ** (1. / count), sum_arousal ** (1. / count)]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def linear_fusion_geo_tfidf(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 1
+        sum_arousal = 1
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    word_tfidf = tfidf(word, corpus[i], corpus)
+                    if l[1] > 9:
+                        l[1] = 9
+                    if l[1] < 1:
+                        l[1] = 1
+                    if l[2] > 9:
+                        l[2] = 9
+                    if l[2] < 1:
+                        l[2] = 1
+                    count = count + word_tfidf
+                    sum_valence = sum_valence * (l[1] ** word_tfidf)
+                    sum_arousal = sum_arousal * (l[2] ** word_tfidf)
+        return [5., 5.] if count == 0 else [sum_valence ** (1. / count), sum_arousal ** (1. / count)]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
