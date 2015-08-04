@@ -3,6 +3,8 @@ import re
 import os
 import sys
 import csv
+from preprocess import scaling
+import numpy as np
 
 
 def load_corpus(corpus_dir):
@@ -13,7 +15,7 @@ def load_corpus(corpus_dir):
         file_id.append(int(file_name.strip().split('.')[0]))
     file_id.sort()
     for id in file_id:
-        text = codecs.open(os.path.join(corpus_dir, str(id)+'.txt'), 'r', 'utf-8').readlines()
+        text = codecs.open(os.path.join(corpus_dir, str(id) + '.txt'), 'r', 'utf-8').readlines()
         file_text = []
         for sentence in text:
             words = sentence.split(u'\u3000')  # blank space
@@ -34,7 +36,6 @@ def load_mark(filename):
 
         mark_data.append([int(line[0]), float(line[1]), float(line[2]), \
                           int(line[3]), line[4]])
-
     return mark_data
 
 
@@ -46,7 +47,6 @@ def load_lexicon(filename):
         line = line.strip().split(',')
 
         lexicon_data.append([line[0], float(line[1]), float(line[2])])
-
     return lexicon_data
 
 

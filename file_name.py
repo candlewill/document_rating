@@ -15,6 +15,14 @@ def get_file_path(filename=None):
         out = os.path.join('.','log','logs.log')
     elif filename == 'anew':
         out = os.path.join('.','data', 'corpus', 'anew_seed.txt')
+    elif filename == 'normalized_lexicon':
+        out = os.path.join('.', 'data', 'corpus', 'cn_lexicon', 'normalized_lexicon.txt')
+    elif filename == 'normalized_mark':
+        out = os.path.join('.', 'data', 'corpus', 'cn', 'normalized_mark.csv')
+    elif filename == 'normalized_onezero_lexicon':
+        out = os.path.join('.', 'data', 'corpus', 'cn_lexicon', 'normalized_onezero_lexicon.txt')
+    elif filename == 'normalized_onezero_mark':
+        out = os.path.join('.', 'data', 'corpus', 'cn', 'normalized_onezero_mark.csv')
     else:
         raise Exception('Wrong filename')
     return out
