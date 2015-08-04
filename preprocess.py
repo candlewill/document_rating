@@ -6,10 +6,8 @@ def scaling(num_list):
     # Note: the type of the parameter is np.array
     # Function: To normalize data
     result = []
-    mean = np.mean(num_list)
-    deta = np.max([mean - np.min(num_list), np.max(num_list) - mean])
     for num in num_list:
-        result.append((num - mean) / deta)
+        result.append((num - 5) / 5)
     return result
 
 
@@ -18,7 +16,7 @@ def scaling_onezero(num_list):
     # Function: To normalize data
     result = []
     for num in num_list:
-        result.append(num / np.max(num_list))
+        result.append(num / 9)
     return result
 
 
@@ -30,14 +28,12 @@ if __name__ == '__main__':
 
     lexicon = load_lexicon(get_file_path('lexicon'))
     mark = load_mark(get_file_path('mark'))
+    lexicon = np.array(lexicon)
+    mark = np.array(mark)
     #####################################
-    lexicon = np.array(lexicon)
     lexicon[:, 1] = scaling_onezero(np.array(lexicon[:, 1], dtype=float))
-    lexicon = np.array(lexicon)
     lexicon[:, 2] = scaling_onezero(np.array(lexicon[:, 2], dtype=float))
-    mark = np.array(mark)
     mark[:, 1] = scaling_onezero(np.array(mark[:, 1], dtype=float))
-    mark = np.array(mark)
     mark[:, 2] = scaling_onezero(np.array(mark[:, 2], dtype=float))
     ######################################
     save_csv(lexicon, get_file_path('normalized_onezero_lexicon'))

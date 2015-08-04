@@ -27,7 +27,7 @@ mark = load_mark(get_file_path('normalized_onezero_mark'))
 # show_common_term(corpus, lexicon)
 # exit()
 
-valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion(corpus, lexicon, mark)
+# valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion(corpus, lexicon, mark)
 # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_sqr(corpus, lexicon, mark)
 # valence_mean, valence_true, arousal_mean, arousal_true = nonlinear_max_fusion(corpus, lexicon, mark)
 # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_tf(corpus, lexicon, mark)
@@ -36,11 +36,12 @@ valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion(corpus, l
 # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_geo_tf(corpus, lexicon, mark)
 # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_geo_tfidf(corpus, lexicon, mark)
 
-# pos_valence_mean, neg_valence_mean, valence_true, pos_arousal_mean, neg_arousal_mean, arousal_true = get_pos_neg_va(
-#     corpus, lexicon, mark)
-# valence_mean = np.array([pos_valence_mean, neg_valence_mean]).T
-# arousal_mean = np.array([pos_arousal_mean, neg_arousal_mean]).T
+# Note: change the avg, when changing using normalized data or not
+pos_valence_mean, neg_valence_mean, valence_true, pos_arousal_mean, neg_arousal_mean, arousal_true = get_pos_neg_va(
+    corpus, lexicon, mark)
+valence_mean = np.array([pos_valence_mean, neg_valence_mean]).T
+arousal_mean = np.array([pos_arousal_mean, neg_arousal_mean]).T
 
-cv(valence_mean, valence_true, multivariant=False)
-cv(arousal_mean, arousal_true, multivariant=False)
+cv(valence_mean, valence_true, multivariant=True)
+cv(arousal_mean, arousal_true, multivariant=True)
 print('OK')

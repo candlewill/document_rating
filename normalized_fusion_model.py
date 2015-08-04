@@ -1,0 +1,361 @@
+__author__ = 'NLP-PC'
+from affective_score import tf, tfidf
+
+
+# mean of valence and arousal
+def linear_fusion(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 0
+        sum_arousal = 0
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    # if l[1] > 9:
+                    #     l[1] = 9
+                    # if l[1] < 1:
+                    #     l[1] = 1
+                    # if l[2] > 9:
+                    #     l[2] = 9
+                    # if l[2] < 1:
+                    #     l[2] = 1
+                    count = count + 1
+                    sum_valence = sum_valence + l[1]
+                    sum_arousal = sum_arousal + l[2]
+        return [0.5, 0.5] if count == 0 else [sum_valence / count, sum_arousal / count]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+# sum of sqr, just like the formula in the paper of Malandrakis except the sign()
+def linear_fusion_sqr(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_sqr_mean(text):
+        sum_valence = 0
+        sum_arousal = 0
+        sum_valence_sqr = 0
+        sum_arousal_sqr = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    # if l[1] > 9:
+                    #     l[1] = 9
+                    # if l[1] < 1:
+                    #     l[1] = 1
+                    # if l[2] > 9:
+                    #     l[2] = 9
+                    # if l[2] < 1:
+                    #     l[2] = 1
+                    sum_valence_sqr = sum_valence_sqr + l[1] ** 2
+                    sum_arousal_sqr = sum_arousal_sqr + l[2] ** 2
+                    sum_valence = sum_valence + l[1]
+                    sum_arousal = sum_arousal + l[2]
+        return [0.5, 0.5] if sum_valence == 0 else [sum_valence_sqr / sum_valence, sum_arousal_sqr / sum_arousal]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_sqr_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def nonlinear_max_fusion(corpus, lexicon, mark):
+    valence_max = []
+    valence_true = []
+    arousal_max = []
+    arousal_true = []
+
+    def VA_max(text):
+        max_valence = 0
+        max_arousal = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    if l[1] > max_valence:
+                        max_valence = l[1]
+                    if l[2] > max_arousal:
+                        max_arousal = l[2]
+        return [0.5, 0.5] if max_valence == 0 else [max_valence, max_arousal]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_max(text)
+        valence_max.append(V)
+        arousal_max.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_max, valence_true, arousal_max, arousal_true
+
+
+def linear_fusion_tf(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 0
+        sum_arousal = 0
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    word_tf = tf(word, corpus[i])
+                    count = count + word_tf
+                    sum_valence = sum_valence + word_tf * l[1]
+                    sum_arousal = sum_arousal + word_tf * l[2]
+        return [0.5, 0.5] if count == 0 else [sum_valence / count, sum_arousal / count]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def linear_fusion_tfidf(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 0
+        sum_arousal = 0
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    word_tfidf = tfidf(word, corpus[i], corpus)
+                    # if l[1] > 9:
+                    #     l[1] = 9
+                    # if l[1] < 1:
+                    #     l[1] = 1
+                    # if l[2] > 9:
+                    #     l[2] = 9
+                    # if l[2] < 1:
+                    #     l[2] = 1
+                    count = count + word_tfidf
+                    sum_valence = sum_valence + word_tfidf * l[1]
+                    sum_arousal = sum_arousal + word_tfidf * l[2]
+        return [0.5, 0.5] if count == 0 else [sum_valence / count, sum_arousal / count]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def linear_fusion_geo(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 1
+        sum_arousal = 1
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    # if l[1] > 9:
+                    #     l[1] = 9
+                    # if l[1] < 1:
+                    #     l[1] = 1
+                    # if l[2] > 9:
+                    #     l[2] = 9
+                    # if l[2] < 1:
+                    #     l[2] = 1
+                    count = count + 1
+                    sum_valence = sum_valence * l[1]
+                    sum_arousal = sum_arousal * l[2]
+        return [0.5, 0.5] if count == 0 else [sum_valence ** (1. / count), sum_arousal ** (1. / count)]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def linear_fusion_geo_tf(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 1
+        sum_arousal = 1
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    word_tf = tf(word, corpus[i])
+                    # if l[1] > 9:
+                    #     l[1] = 9
+                    # if l[1] < 1:
+                    #     l[1] = 1
+                    # if l[2] > 9:
+                    #     l[2] = 9
+                    # if l[2] < 1:
+                    #     l[2] = 1
+                    count = count + word_tf
+                    sum_valence = sum_valence * (l[1] ** word_tf)
+                    sum_arousal = sum_arousal * (l[2] ** word_tf)
+        return [0.5, 0.5] if count == 0 else [sum_valence ** (1. / count), sum_arousal ** (1. / count)]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+def linear_fusion_geo_tfidf(corpus, lexicon, mark):
+    valence_mean = []
+    valence_true = []
+    arousal_mean = []
+    arousal_true = []
+
+    def VA_mean(text):
+        sum_valence = 1
+        sum_arousal = 1
+        count = 0
+        for word in text:
+            for l in lexicon:
+                if word == l[0]:
+                    word_tfidf = tfidf(word, corpus[i], corpus)
+                    # if l[1] > 9:
+                    #     l[1] = 9
+                    # if l[1] < 1:
+                    #     l[1] = 1
+                    # if l[2] > 9:
+                    #     l[2] = 9
+                    # if l[2] < 1:
+                    #     l[2] = 1
+                    count = count + word_tfidf
+                    sum_valence = sum_valence * (l[1] ** word_tfidf)
+                    sum_arousal = sum_arousal * (l[2] ** word_tfidf)
+        return [0.5, 0.5] if count == 0 else [sum_valence ** (1. / count), sum_arousal ** (1. / count)]
+
+    for (i, text) in enumerate(corpus):
+        V, A = VA_mean(text)
+        valence_mean.append(V)
+        arousal_mean.append(A)
+        try:
+            ind = [item[0] for item in mark].index(i + 1)
+        except ValueError:
+            raise Exception('File not found. NO. %i' % (i + 1))
+
+        valence_true.append(mark[ind][1])
+        arousal_true.append(mark[ind][2])
+    return valence_mean, valence_true, arousal_mean, arousal_true
+
+
+if __name__ == '__main__':
+    import numpy as np
+    from sklearn import cross_validation
+    from load_data import load_corpus, load_lexicon, load_mark
+    from file_name import get_file_path
+    from regression import linear_regression, linear_regression_multivariant
+    from positive_negative_split import get_pos_neg_va
+
+
+    def cv(data, target, multivariant=False):
+        X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(data, target, test_size=0.2,
+                                                                             random_state=0)
+        if multivariant is False:
+            linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
+        else:
+            linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='Ridge_Regression')
+
+
+    normalize = True
+    corpus = load_corpus(get_file_path('cn_corpus'))
+    lexicon = load_lexicon(get_file_path('normalized_onezero_lexicon'))
+    mark = load_mark(get_file_path('normalized_onezero_mark'))
+
+    # # the following could use to check the same words in corpus and lexicon
+    # from visualization import show_common_term
+    # show_common_term(corpus, lexicon)
+    # exit()
+
+    # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion(corpus, lexicon, mark)
+    # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_sqr(corpus, lexicon, mark)
+    # valence_mean, valence_true, arousal_mean, arousal_true = nonlinear_max_fusion(corpus, lexicon, mark)
+    # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_tf(corpus, lexicon, mark)
+    # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_tfidf(corpus, lexicon, mark)
+    valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_geo(corpus, lexicon, mark)
+    # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_geo_tf(corpus, lexicon, mark)
+    # valence_mean, valence_true, arousal_mean, arousal_true = linear_fusion_geo_tfidf(corpus, lexicon, mark)
+
+    # pos_valence_mean, neg_valence_mean, valence_true, pos_arousal_mean, neg_arousal_mean, arousal_true = get_pos_neg_va(
+    #     corpus, lexicon, mark)
+    # valence_mean = np.array([pos_valence_mean, neg_valence_mean]).T
+    # arousal_mean = np.array([pos_arousal_mean, neg_arousal_mean]).T
+
+    cv(valence_mean, valence_true, multivariant=False)
+    cv(arousal_mean, arousal_true, multivariant=False)
+    print('OK')
