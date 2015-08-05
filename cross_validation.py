@@ -19,8 +19,8 @@ def cv(data, target, multivariant=False):
 
 normalize = True
 corpus = load_corpus(get_file_path('cn_corpus'))
-lexicon = load_lexicon(get_file_path('normalized_onezero_lexicon'))
-mark = load_mark(get_file_path('normalized_onezero_mark'))
+lexicon = load_lexicon(get_file_path('lexicon'))
+mark = load_mark(get_file_path('mark'))
 
 # # the following could use to check the same words in corpus and lexicon
 # from visualization import show_common_term

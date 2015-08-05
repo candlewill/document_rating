@@ -18,7 +18,7 @@ def get_pos_neg_va(corpus, lexicon, mark):
         neg_count_v = 0
         pos_count_a = 0
         neg_count_a = 0
-        avg = 0.5
+        avg = 5
         for word in text:
             for l in lexicon:
                 if word == l[0]:
