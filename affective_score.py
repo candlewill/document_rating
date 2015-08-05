@@ -359,7 +359,7 @@ if __name__ == '__main__':
     lexicon = load_lexicon(lexicon_name)
     mark = load_mark(mark_name)
     # log_state('use extend lexicon')
-    # lexicon = combine_lexicon(lexicon_name, expand_name)
+    lexicon = combine_lexicon(lexicon_name, expand_name)
 
     log_state('mean')
     evaluate_mean(corpus, lexicon, mark)
