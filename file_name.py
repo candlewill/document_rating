@@ -23,6 +23,10 @@ def get_file_path(filename=None):
         out = os.path.join('.', 'data', 'corpus', 'cn_lexicon', 'normalized_onezero_lexicon.txt')
     elif filename == 'normalized_onezero_mark':
         out = os.path.join('.', 'data', 'corpus', 'cn', 'normalized_onezero_mark.csv')
+    elif filename == 'test_doc2vec':
+        out = os.path.join('/', 'home', 'hs', 'Data', 'test_doc2vec')
+    elif filename == 'test_doc2vec_model':
+        out = os.path.join('/', 'home', 'hs', 'Data', 'test_doc2vec', 'imdb.d2v')
     else:
         raise Exception('Wrong filename')
     return out
