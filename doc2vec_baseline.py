@@ -7,14 +7,14 @@ import numpy
 from sklearn.linear_model import LogisticRegression
 from file_name import get_file_path
 from gensim.models.doc2vec import TaggedDocument as LabeledSentence
-
+import random
 
 class LabeledLineSentence(object):
     def __init__(self, sources):
         self.sources = sources
+        self.sentences = []
 
         flipped = {}
-
         # make sure that keys are unique
         for key, value in sources.items():
             if value not in flipped:
@@ -26,18 +26,21 @@ class LabeledLineSentence(object):
         for source, prefix in self.sources.items():
             with utils.smart_open(source) as fin:
                 for item_no, line in enumerate(fin):
-                    yield LabeledSentence(utils.to_unicode(line).split(), [prefix + '_%s' % item_no])
+                    yield LabeledSentence(words=utils.to_unicode(line).split(), tags=[prefix + '_%s' % str(item_no)])
 
     def to_array(self):
-        self.sentences = []
         for source, prefix in self.sources.items():
             with utils.smart_open(source) as fin:
                 for item_no, line in enumerate(fin):
-                    self.sentences.append(LabeledSentence(utils.to_unicode(line).split(), [prefix + '_%s' % item_no]))
+                    self.sentences.append(
+                        LabeledSentence(words=utils.to_unicode(line).split(), tags=[prefix + '_%s' % str(item_no)]))
         return self.sentences
 
-    def sentences_perm(self):
-        return numpy.random.permutation(self.sentences)
+    def sentences_rand(self):
+        # out = numpy.random.permutation(self.sentences)
+        # return out
+        random.shuffle(self.sentences)
+        return self.sentences
 
 
 sources = {'test-neg.txt': 'TEST_NEG', 'test-pos.txt': 'TEST_POS', 'train-neg.txt': 'TRAIN_NEG',
@@ -50,11 +53,9 @@ for old_key in keys:
 ##############################################################
 sentences = LabeledLineSentence(sources)
 model = Doc2Vec(min_count=1, window=10, size=100, sample=1e-4, negative=5, workers=7)
-
 model.build_vocab(sentences.to_array())
-
 for epoch in range(1):
-    model.train(sentences.sentences_perm())
+    model.train(sentences.sentences_rand())
 
 print(model.most_similar('good'))
 print(model['TRAIN_NEG_0'])

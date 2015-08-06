@@ -3,6 +3,7 @@ import os
 
 def get_file_path(filename=None):
     out = None
+    os_name = os.name
     if filename == 'cn_corpus':
         out = os.path.join('.','data','corpus','cn','corpus_raw')
     elif filename == 'mark':
@@ -24,9 +25,15 @@ def get_file_path(filename=None):
     elif filename == 'normalized_onezero_mark':
         out = os.path.join('.', 'data', 'corpus', 'cn', 'normalized_onezero_mark.csv')
     elif filename == 'test_doc2vec':
-        out = os.path.join('/', 'home', 'hs', 'Data', 'test_doc2vec')
+        if os_name == 'posix':  # ubuntu
+            out = os.path.join('/', 'home', 'hs', 'Data', 'test_doc2vec')
+        elif os_name == 'nt':  # windows
+            out = os.path.join('D:\\', 'chinese_word2vec', 'test_doc2vec')
     elif filename == 'test_doc2vec_model':
-        out = os.path.join('/', 'home', 'hs', 'Data', 'test_doc2vec', 'imdb.d2v')
+        if os_name == 'posix':
+            out = os.path.join('/', 'home', 'hs', 'Data', 'test_doc2vec', 'imdb.d2v')
+        elif os_name == 'nt':
+            out = os.path.join('D:\\', 'chinese_word2vec', 'test_doc2vec', 'imdb.d2v')
     else:
         raise Exception('Wrong filename')
     return out
