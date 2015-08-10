@@ -87,6 +87,8 @@ def load_embeddings(arg=None):
         model = gensim.models.Word2Vec.load(get_file_path('wordvecs_CVAT'))
     elif arg == 'IMDb':  # dim = 100
         model = Doc2Vec.load(get_file_path('test_doc2vec_model'))
+    elif arg == 'CVAT_docvecs':  # dim = 50
+        model = Doc2Vec.load(get_file_path('docvecs_CVAT'))
     else:
         raise Exception('Wrong Argument.')
     print('Load Model Complete.')

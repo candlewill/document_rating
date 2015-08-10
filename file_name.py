@@ -45,6 +45,8 @@ def get_file_path(filename=None):
         out = os.path.join('.', 'data', 'tmp', 'words_in_wordvec.p')
     elif filename == 'wordvecs_CVAT':
         out = os.path.join('.', 'data', 'tmp', 'wordvecs_CVAT.w2v')
+    elif filename == 'docvecs_CVAT':
+        out = os.path.join('.', 'data', 'tmp', 'docvecs_CVAT.d2v')
     else:
         raise Exception('Wrong filename')
     return out

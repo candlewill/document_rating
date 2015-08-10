@@ -5,6 +5,8 @@ from file_name import get_file_path
 from gensim import utils
 from load_data import load_corpus
 import random
+from gensim.models.doc2vec import TaggedDocument
+from gensim.models import Doc2Vec
 
 
 # Build word vector for training set by using the average value of all word vectors in the tweet, then scale
@@ -23,14 +25,30 @@ def buill_word_vector(text, model):
     return vec
 
 
+def build_doc_vector(corpus, model):
+    size = 50
+    vecs = [model.docvecs['SENT_%s' % id].reshape((1, size)) for (id, _) in enumerate(corpus)]
+    return np.concatenate(vecs)
+
+
 def train_wordvecs(Sentence):
     model = Word2Vec(size=50, min_count=2)
     model.build_vocab(Sentence.toarray())
     for epoch in range(10):
+        print('epoch: %s' % epoch)
         model.train(Sentence.rand())
     model.save(get_file_path('wordvecs_CVAT'))
     print('Training model complete, saved successful.')
 
+
+def train_docvecs(Sentences):
+    model = Doc2Vec(min_count=2, window=10, size=50, sample=1e-5, negative=5, workers=7)
+    model.build_vocab(Sentences.to_array())
+    for epoch in range(100):
+        print('epoch: %s' % epoch)
+        model.train(Sentences.sentences_rand())
+    model.save(get_file_path('docvecs_CVAT'))
+    print('Training model complete, saved successful.')
 
 class Sentence(object):
     def __init__(self, file_dir):
@@ -45,37 +63,24 @@ class Sentence(object):
         return self.corpus
 
 
-#
-# class LabeledLineSentence(object):
-#     def __init__(self, sources):
-#         self.sources = sources
-#
-#         flipped = {}
-#
-#         # make sure that keys are unique
-#         for key, value in sources.items():
-#             if value not in flipped:
-#                 flipped[value] = [key]
-#             else:
-#                 raise Exception('Non-unique prefix encountered')
-#
-#     def __iter__(self):
-#         for source, prefix in self.sources.items():
-#             with utils.smart_open(source) as fin:
-#                 for item_no, line in enumerate(fin):
-#                     yield LabeledSentence(utils.to_unicode(line).split(), [prefix + '_%s' % item_no])
-#
-#     def to_array(self):
-#         self.sentences = []
-#         for source, prefix in self.sources.items():
-#             with utils.smart_open(source) as fin:
-#                 for item_no, line in enumerate(fin):
-#                     self.sentences.append(LabeledSentence(utils.to_unicode(line).split(), [prefix + '_%s' % item_no]))
-#         return self.sentences
-#
-#     def sentences_perm(self):
-#         return numpy.random.permutation(self.sentences)
-#
+class TaggedLineSentence(object):
+    def __init__(self, corpus):
+        self.sentences = corpus
+        self.tagged_sentences = []
+
+    def __iter__(self):
+        for (id, sentence) in enumerate(self.sentences):
+            yield TaggedDocument(sentence, tags=['SENT_%s' % str(id)])
+
+    def to_array(self):
+        for (id, sentence) in enumerate(self.sentences):
+            self.tagged_sentences.append(
+                TaggedDocument(words=sentence, tags=['SENT_%s' % str(id)]))
+        return self.tagged_sentences
+
+    def sentences_rand(self):
+        random.shuffle(self.tagged_sentences)
+        return self.tagged_sentences
 
 def gold_valence_arousal(corpus, mark):
     valence, arousal = [], []
