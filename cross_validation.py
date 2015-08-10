@@ -14,7 +14,7 @@ def cv(data, target, multivariant=False):
     if multivariant is False:
         linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
     else:
-        linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='KNN_Reg')
+        linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='Ridge_Regression')
 
 
 if __name__ == '__main__':

@@ -369,3 +369,10 @@ Parameters: neighbors.KNeighborsRegressor(5, weights='distance')
 2015-08-10 12:23:28,705 - log_manager - INFO - linear regression Explained variance score: 0.27
 2015-08-10 12:23:28,705 - log_manager - INFO - MSE: 0.999186904778, MAE: 0.788564370659, Pearson_r: (0.52120134234067228, 2.1202820201630668e-11), R2: -1.13855751496, Spearman_r: (0.48574509830202817, 6.7773671585643181e-10), sqrt_MSE: 0.9995933697149434
 
+使用更多的預料庫訓練的詞向量
+2015-08-10 13:23:54,541 - log_manager - INFO - linear regression Explained variance score: 0.44
+2015-08-10 13:23:54,542 - log_manager - INFO - MSE: 1.71173646261, MAE: 1.09932771563, Pearson_r: (0.75625652437047219, 6.0550872264644755e-28), R2: -2.31561784386, Spearman_r: (0.7754891288597896, 3.7403438632925765e-30), sqrt_MSE: 1.30833346766433
+2015-08-10 13:23:54,565 - log_manager - INFO - linear regression Explained variance score: 0.26
+2015-08-10 13:23:54,566 - log_manager - INFO - MSE: 1.00600261972, MAE: 0.799550837061, Pearson_r: (0.562279117979951, 2.242072114987281e-13), R2: -5.62136095322, Spearman_r: (0.52936146688720187, 9.013169799523716e-12), sqrt_MSE: 1.0029968193945251
+可以取得更好的成績，alpha = 1 , Ridge kernel
+

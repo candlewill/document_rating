@@ -81,11 +81,11 @@ def load_pickle(filename):
 
 
 def load_embeddings(arg=None):
-    if arg == 'zh_tw':
+    if arg == 'zh_tw':  # dim = 400
         model = gensim.models.Word2Vec.load_word2vec_format(get_file_path('cn_word2vec'), binary=False)
-    elif arg == 'CVAT':
+    elif arg == 'CVAT':  # dim = 50
         model = gensim.models.Word2Vec.load(get_file_path('wordvecs_CVAT'))
-    elif arg == 'IMDb':
+    elif arg == 'IMDb':  # dim = 100
         model = Doc2Vec.load(get_file_path('test_doc2vec_model'))
     else:
         raise Exception('Wrong Argument.')

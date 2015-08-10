@@ -11,7 +11,7 @@ import numpy as np
 from sklearn import cross_validation
 from cross_validation import cv
 
-model = load_embeddings('CVAT')
+model = load_embeddings('zh_tw')
 
 print(len(model.vocab.keys()))
 corpus = load_corpus(get_file_path('cn_corpus'))

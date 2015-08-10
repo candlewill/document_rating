@@ -9,7 +9,7 @@ import random
 
 # Build word vector for training set by using the average value of all word vectors in the tweet, then scale
 def buill_word_vector(text, model):
-    size = 50
+    size = 400
     vec = np.zeros(size).reshape((1, size))
     count = 0.
     for word in text:
@@ -44,6 +44,38 @@ class Sentence(object):
         random.shuffle(self.corpus)
         return self.corpus
 
+
+#
+# class LabeledLineSentence(object):
+#     def __init__(self, sources):
+#         self.sources = sources
+#
+#         flipped = {}
+#
+#         # make sure that keys are unique
+#         for key, value in sources.items():
+#             if value not in flipped:
+#                 flipped[value] = [key]
+#             else:
+#                 raise Exception('Non-unique prefix encountered')
+#
+#     def __iter__(self):
+#         for source, prefix in self.sources.items():
+#             with utils.smart_open(source) as fin:
+#                 for item_no, line in enumerate(fin):
+#                     yield LabeledSentence(utils.to_unicode(line).split(), [prefix + '_%s' % item_no])
+#
+#     def to_array(self):
+#         self.sentences = []
+#         for source, prefix in self.sources.items():
+#             with utils.smart_open(source) as fin:
+#                 for item_no, line in enumerate(fin):
+#                     self.sentences.append(LabeledSentence(utils.to_unicode(line).split(), [prefix + '_%s' % item_no]))
+#         return self.sentences
+#
+#     def sentences_perm(self):
+#         return numpy.random.permutation(self.sentences)
+#
 
 def gold_valence_arousal(corpus, mark):
     valence, arousal = [], []
