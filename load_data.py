@@ -5,7 +5,10 @@ import sys
 import csv
 from preprocess import scaling
 import numpy as np
-
+import pickle
+import gensim
+from gensim.models import Doc2Vec
+from file_name import get_file_path
 
 def load_corpus(corpus_dir):
     file_dir = os.listdir(corpus_dir)
@@ -70,6 +73,24 @@ def load_anew(filepath=None):
             valence.append(float(line[1]))
             arousal.append(float(line[2]))
     return words, valence, arousal
+
+
+def load_pickle(filename):
+    out = pickle.load(open(filename, "rb"))
+    return out
+
+
+def load_embeddings(arg=None):
+    if arg == 'zh_tw':
+        model = gensim.models.Word2Vec.load_word2vec_format(get_file_path('cn_word2vec'), binary=False)
+    elif arg == 'CVAT':
+        model = gensim.models.Word2Vec.load(get_file_path('wordvecs_CVAT'))
+    elif arg == 'IMDb':
+        model = Doc2Vec.load(get_file_path('test_doc2vec_model'))
+    else:
+        raise Exception('Wrong Argument.')
+    print('Load Model Complete.')
+    return model
 
 
 if __name__ == '__main__':

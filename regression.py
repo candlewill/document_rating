@@ -3,7 +3,8 @@ from sklearn import linear_model
 from evaluate import evaluate
 from visualization import draw_line, draw_linear_regression
 import numpy as np
-
+from sklearn.svm import SVR
+from sklearn import neighbors
 
 def linear_regression(X_train, X_test, Y_train, Y_test, plot=False):
     # Create linear regression object
@@ -26,7 +27,16 @@ def linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='o
     if cost_fun == 'ordinary_least_squares':
         regr = linear_model.LinearRegression()
     elif cost_fun == 'Ridge_Regression':
-        regr = linear_model.Ridge(alpha=.5)
+        regr = linear_model.Ridge(alpha=5.5)
+    elif cost_fun == 'Bayesian_Regression':
+        regr = linear_model.BayesianRidge()
+    elif cost_fun == 'SVR':
+        regr = SVR(C=1.0, epsilon=0.2, kernel='linear')
+    elif cost_fun == 'KNN_Reg':
+        regr = neighbors.KNeighborsRegressor(5, weights='distance')
+    else:
+        raise Exception('The type of cost function is not specified.')
+
     # Train the model using the training sets
     regr.fit(X_train, Y_train)
     predict = regr.predict(X_test)

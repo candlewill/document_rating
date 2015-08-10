@@ -35,7 +35,16 @@ def get_file_path(filename=None):
         elif os_name == 'nt':
             out = os.path.join('D:\\', 'chinese_word2vec', 'test_doc2vec', 'docvecs', 'imdb.d2v')
     elif filename == 'cn_word2vec':
-        out = os.path.join('D:\\', 'chinese_word2vec', 'wiki.zh.fan.vector')
+        posix = os.path.join('/', 'home', 'hs', 'Data', 'test_doc2vec', 'cn_word2vec', 'wiki.zh.fan.vector')
+        nt = os.path.join('D:\\', 'chinese_word2vec', 'wiki.zh.fan.vector')
+        if os_name == 'posix':
+            out = posix
+        elif os_name == 'nt':
+            out = nt
+    elif filename == 'words_in_wordvec':
+        out = os.path.join('.', 'data', 'tmp', 'words_in_wordvec.p')
+    elif filename == 'wordvecs_CVAT':
+        out = os.path.join('.', 'data', 'tmp', 'wordvecs_CVAT.w2v')
     else:
         raise Exception('Wrong filename')
     return out
