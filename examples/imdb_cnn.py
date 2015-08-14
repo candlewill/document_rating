@@ -1,5 +1,5 @@
-__author__ = 'NLP-PC'
-# coding: utf-8
+from __future__ import absolute_import
+from __future__ import print_function
 import numpy as np
 
 np.random.seed(1337)  # for reproducibility
@@ -15,7 +15,9 @@ from keras.datasets import imdb
 '''
     This example demonstrates the use of Convolution1D
     for text classification.
+
     Run on GPU: THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python imdb_cnn.py
+
     Get to 0.8330 test accuracy after 3 epochs. 100s/epoch on K520 GPU.
 '''
 
