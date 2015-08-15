@@ -92,3 +92,43 @@ def gold_valence_arousal(corpus, mark):
         valence.append(mark[ind][1])
         arousal.append(mark[ind][2])
     return valence, arousal
+
+
+# word_vecs is the model of word2vec
+def build_embedding_matrix(word_vecs, k=300):
+    """
+    Get word matrix. W[i] is the vector for word indexed by i
+    """
+    vocab_size = len(word_vecs.vocab.keys())
+    word_idx_map = dict()
+    W = np.zeros(shape=(vocab_size, k))
+    for i, word in enumerate(word_vecs.vocab.keys()):
+        W[i] = word_vecs[word]
+        word_idx_map[word] = i  # dict
+    return W, word_idx_map
+
+
+# maxlen is the fixed length to align sentence, padding zero if the number of word is less than maxlen,
+# and cut off if more than maxlen
+def build_sentence_matrix(model, sententces, maxlen=200):
+    size = 50  # dimension
+    sentences_matrix = []
+    for text in sententces:
+        text_matrix = []
+        for word in text:
+            try:
+                text_matrix.append(model[word].reshape((1, size)))
+            except KeyError:
+                continue
+        text_matrix = np.concatenate(text_matrix)
+        len_text_matrix = text_matrix.shape[0]
+        # print(len_text_matrix)
+        if len_text_matrix > maxlen:
+            text_matrix = text_matrix[: maxlen]
+        if len_text_matrix < maxlen:
+            # print(text_matrix)
+            # text_matrix = np.lib.pad(text_matrix, ((0, maxlen-len_text_matrix), (0, 0)), mode = 'constant', constant_values = 0)
+            # print(text_matrix.shape)
+            text_matrix = np.concatenate((text_matrix, np.zeros((maxlen - len_text_matrix, size))), axis=0)
+        sentences_matrix.append(text_matrix)
+    return np.array(sentences_matrix)

@@ -37,17 +37,28 @@ print("Loading data...")
 print(len(X_train), 'train sequences')
 print(len(X_test), 'test sequences')
 
+print(X_train[1])
+print(len(X_train), len(X_train[0]))
+print(y_train[1])
+
+
 print("Pad sequences (samples x time)")
 X_train = sequence.pad_sequences(X_train, maxlen=maxlen)
 X_test = sequence.pad_sequences(X_test, maxlen=maxlen)
 print('X_train shape:', X_train.shape)
 print('X_test shape:', X_test.shape)
 
+print(X_train[1])
+print(len(X_train), len(X_train[0]))
+print(y_train[1])
+
+
 print('Build model...')
 model = Sequential()
 
 # we start off with an efficient embedding layer which maps
 # our vocab indices into embedding_dims dimensions
+# parameters: (input_dim, output_dim, init='uniform', weights=None, W_regularizer=None, W_constraint=None, mask_zero=False)
 model.add(Embedding(max_features, embedding_dims))
 model.add(Dropout(0.25))
 

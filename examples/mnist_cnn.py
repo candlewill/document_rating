@@ -30,11 +30,16 @@ nb_epoch = 12
 
 print(X_train[12], y_train[12])
 
+print(type(X_train), X_train.shape)
+
 # plt.imshow(X_train[12], cmap = cm.Greys_r)
 # plt.show()
 
 X_train = X_train.reshape(X_train.shape[0], 1, 28, 28)
 X_test = X_test.reshape(X_test.shape[0], 1, 28, 28)
+
+print(type(X_train), X_train.shape)
+exit()
 
 X_train = X_train.astype("float32")
 X_test = X_test.astype("float32")
