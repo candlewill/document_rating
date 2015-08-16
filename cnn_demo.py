@@ -35,7 +35,7 @@ print(sentence_embedding_matrix[3], valence[3], arousal[3])
 
 from save_data import dump_picle
 
-dump_picle((sentence_embedding_matrix, valence), get_file_path('NN_input_CVAT'))
+dump_picle((sentence_embedding_matrix, valence), get_file_path('CVAT_sentence_matrix_400'))
 
 exit()
 

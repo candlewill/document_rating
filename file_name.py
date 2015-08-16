@@ -52,7 +52,12 @@ def get_file_path(filename=None):
     elif filename == 'NN_output_CVAT':
         out = os.path.join('.', 'data', 'tmp', 'NN_output_CVAT.p')
     elif filename == 'CVAT_sentence_matrix_400':
-        out = 'D:/chinese_word2vec/CVAT_sentence_matrix_400.p'
+        posix = os.path.join('/', 'home', 'hs', 'Data', 'CVAT_sentence_matrix_400.p')
+        nt = 'D:/chinese_word2vec/CVAT_sentence_matrix_400.p'
+        if os_name == 'posix':
+            out = posix
+        elif os_name == 'nt':
+            out = nt
     else:
         raise Exception('Wrong filename')
     return out
