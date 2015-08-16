@@ -13,9 +13,11 @@ from load_data import load_corpus
 from file_name import get_file_path
 from word2vec_fn import build_embedding_matrix, build_sentence_matrix, gold_valence_arousal
 
-word_vecs = load_embeddings('CVAT')
+word_vecs = load_embeddings('zh_tw')
 
-embedding_matrix, idx_map = build_embedding_matrix(word_vecs, k=50)
+dim = 400
+
+embedding_matrix, idx_map = build_embedding_matrix(word_vecs, k=dim)
 print(embedding_matrix[:1])
 print(idx_map['我們'])
 
@@ -27,7 +29,7 @@ mark = load_mark(get_file_path('mark'))
 valence, arousal = gold_valence_arousal(corpus, mark)
 
 print('Result')
-sentence_embedding_matrix = build_sentence_matrix(word_vecs, corpus)
+sentence_embedding_matrix = build_sentence_matrix(word_vecs, corpus, dim=dim)
 print(sentence_embedding_matrix.shape)
 print(sentence_embedding_matrix[3], valence[3], arousal[3])
 
@@ -37,6 +39,7 @@ dump_picle((sentence_embedding_matrix, valence), get_file_path('NN_input_CVAT'))
 
 exit()
 
+'''
 X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(sentence_embedding_matrix, valence, test_size=0.2,
                                                                      random_state=0)
 print(X_train.shape)
@@ -82,3 +85,4 @@ from evaluate import evaluate
 print(Y_test)
 print(predict)
 evaluate(Y_test, predict, 'Result of CNN')
+'''

@@ -110,8 +110,8 @@ def build_embedding_matrix(word_vecs, k=300):
 
 # maxlen is the fixed length to align sentence, padding zero if the number of word is less than maxlen,
 # and cut off if more than maxlen
-def build_sentence_matrix(model, sententces, maxlen=200):
-    size = 50  # dimension
+def build_sentence_matrix(model, sententces, maxlen=200, dim=50):
+    size = dim  # dimension
     sentences_matrix = []
     for text in sententces:
         text_matrix = []

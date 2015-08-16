@@ -51,6 +51,8 @@ def get_file_path(filename=None):
         out = os.path.join('.', 'data', 'tmp', 'NN_input_CVAT.p')
     elif filename == 'NN_output_CVAT':
         out = os.path.join('.', 'data', 'tmp', 'NN_output_CVAT.p')
+    elif filename == 'CVAT_sentence_matrix_400':
+        out = 'D:/chinese_word2vec/CVAT_sentence_matrix_400.p'
     else:
         raise Exception('Wrong filename')
     return out
