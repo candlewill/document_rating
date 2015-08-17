@@ -8,5 +8,5 @@ def save_csv(data, filename):
         writer.writerows(data)
 
 
-def dump_picle(data, filename):
-    pickle.dump(data, open(filename, "wb"))
+def dump_picle(data, filename, protocol=None):
+    pickle.dump(data, open(filename, "wb"), protocol=protocol)

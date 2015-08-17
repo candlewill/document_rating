@@ -16,7 +16,7 @@ vec_dim = 300
 
 ##########################################################################################
 model = load_embeddings('google_news')
-
+print('Loading word2vec complete')
 
 def load_data(file_dir):
     file_names = os.listdir(file_dir)
@@ -37,8 +37,14 @@ def load_data(file_dir):
 pos_data, pos_length = load_data(file_dir + 'pos')
 pos_sentences_matrix = build_sentence_matrix(model, pos_data, maxlen=200, dim=vec_dim)
 
+print('compute pos data ok')
+
+dump_picle((pos_sentences_matrix, pos_length), file_dir + 'pos.p', protocol=4)
+print('save pos data ok')
+
 neg_data, neg_length = load_data(file_dir + 'neg')
 neg_sentences_matrix = build_sentence_matrix(model, neg_data, maxlen=200, dim=vec_dim)
+print('compute neg data ok')
 
-dump_picle((pos_sentences_matrix, pos_length), file_dir + 'pos.p')
-dump_picle((neg_sentences_matrix, neg_length), file_dir + 'neg.p')
+dump_picle((neg_sentences_matrix, neg_length), file_dir + 'neg.p', protocol=4)
+print('save neg data ok')
