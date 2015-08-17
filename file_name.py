@@ -1,21 +1,22 @@
 __author__ = 'NLP-PC'
 import os
 
+
 def get_file_path(filename=None):
     out = None
     os_name = os.name
     if filename == 'cn_corpus':
-        out = os.path.join('.','data','corpus','cn','corpus_raw')
+        out = os.path.join('.', 'data', 'corpus', 'cn', 'corpus_raw')
     elif filename == 'mark':
-        out = os.path.join('.','data','corpus','cn','mark.csv')
+        out = os.path.join('.', 'data', 'corpus', 'cn', 'mark.csv')
     elif filename == 'lexicon':
-        out = os.path.join('.','data','corpus','cn_lexicon','lexicon.txt')
+        out = os.path.join('.', 'data', 'corpus', 'cn_lexicon', 'lexicon.txt')
     elif filename == 'neural_cand':
-        out = os.path.join('.','data','corpus','cn_lexicon','expand','neural_cand.txt')
+        out = os.path.join('.', 'data', 'corpus', 'cn_lexicon', 'expand', 'neural_cand.txt')
     elif filename == 'log':
-        out = os.path.join('.','log','logs.log')
+        out = os.path.join('.', 'log', 'logs.log')
     elif filename == 'anew':
-        out = os.path.join('.','data', 'corpus', 'anew_seed.txt')
+        out = os.path.join('.', 'data', 'corpus', 'anew_seed.txt')
     elif filename == 'normalized_lexicon':
         out = os.path.join('.', 'data', 'corpus', 'cn_lexicon', 'normalized_lexicon.txt')
     elif filename == 'normalized_mark':
@@ -53,6 +54,13 @@ def get_file_path(filename=None):
         out = os.path.join('.', 'data', 'tmp', 'NN_output_CVAT.p')
     elif filename == 'CVAT_sentence_matrix_400':
         out = 'D:/chinese_word2vec/CVAT_sentence_matrix_400.p'
+    elif filename == 'google_news':
+        posix = '/home/hs/Data/Word_Embeddings/google_news.bin'
+        nt = 'D:/Word_Embeddings/GoogleNews-vectors-negative300.bin'
+        if os_name == 'posix':
+            out = posix
+        elif os_name == 'nt':
+            out = nt
     else:
         raise Exception('Wrong filename')
     return out
