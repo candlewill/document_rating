@@ -10,37 +10,46 @@ import os
 import pickle
 from sklearn import cross_validation
 
-sentence_embedding_matrix, valence = pickle.load(open(os.path.join('.', 'data', 'tmp', 'NN_input_CVAT.p'), 'rb'))
+# sentence_embedding_matrix, valence = pickle.load(open(os.path.join('.', 'data', 'tmp', 'NN_input_CVAT.p'), 'rb'))
+sentence_embedding_matrix, valence = pickle.load(open('D:/chinese_word2vec/CVAT_sentence_matrix_400.p', 'rb'))
 
 X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(sentence_embedding_matrix, valence, test_size=0.2,
                                                                      random_state=0)
 print(X_train.shape)
 print(len(Y_test))
 
-maxlen = 200
-size = 50
+maxlen = 200  # number of words to count in one sentence
+size = 400  # dimension of word embeddings
 X_train = X_train.reshape(X_train.shape[0], 1, maxlen, size)
 X_test = X_test.reshape(X_test.shape[0], 1, maxlen, size)
 print(X_train.shape)
 
 batch_size = 128
-nb_epoch = 1
+nb_epoch = 200
+nb_filter = [100, 50]
+filter_row = [7, 5]
+filter_col = [size, 1]
+nb_neuron = 256
 
 model = Sequential()
 
-model.add(Convolution2D(32, 1, 3, 3, border_mode='valid'))
+model.add(Convolution2D(nb_filter[0], 1, filter_row[0], filter_col[0], border_mode='valid'))
 model.add(Activation('relu'))
-model.add(Convolution2D(32, 32, 3, 3))
-model.add(Activation('relu'))
-model.add(MaxPooling2D(poolsize=(2, 2)))
+# model.add(Convolution2D(nb_filter[1], nb_filter[0], filter_row[1], filter_col[1], border_mode = 'full'))
+# model.add(Activation('sigmoid'))
+model.add(MaxPooling2D(poolsize=(2, 1)))
 model.add(Dropout(0.25))
 
 model.add(Flatten())
-model.add(Dense(72128, 128))
-model.add(Activation('relu'))
+model.add(Dense(9700, nb_neuron))
+model.add(Activation('sigmoid'))
 model.add(Dropout(0.5))
 
-model.add(Dense(128, 1))
+# model.add(Dense(nb_neuron, nb_neuron))
+# model.add(Activation('sigmoid'))
+# model.add(Dropout(0.2))
+
+model.add(Dense(nb_neuron, 1))
 model.add(Activation('linear'))
 
 sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)

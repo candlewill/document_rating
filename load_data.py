@@ -1,3 +1,6 @@
+# coding: utf-8
+# !/usr/bin/python
+
 import codecs
 import re
 import os

@@ -25,7 +25,7 @@ from six.moves import range
 
 batch_size = 32
 nb_classes = 10
-nb_epoch = 200
+nb_epoch = 10
 data_augmentation = True
 
 # the data, shuffled and split between tran and test sets
