@@ -9,7 +9,8 @@ from save_data import dump_picle
 
 
 ########################################## config ########################################
-file_dir = 'E:/研究/Data/IMDB/aclImdb/train/'
+file_dir = 'E:/研究/Data/IMDB/aclImdb/train/' if os.name == 'nt' else '/home/hs/Data/imdb/aclImdb/train/'
+
 vec_dim = 300
 
 

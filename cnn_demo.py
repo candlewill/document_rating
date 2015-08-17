@@ -15,15 +15,19 @@ from word2vec_fn import build_embedding_matrix, build_sentence_matrix, gold_vale
 
 word_vecs = load_embeddings('zh_tw')
 
-dim = 400
+dim = len(word_vecs['我們'])  # 400
 
 embedding_matrix, idx_map = build_embedding_matrix(word_vecs, k=dim)
-print(embedding_matrix[:1])
+print(embedding_matrix[1])
 print(idx_map['我們'])
+
+print(len(word_vecs['我們']))
+print(word_vecs['我們'].shape)
+
 
 corpus = load_corpus(get_file_path('cn_corpus'))
 print(corpus[:2])
-print(build_sentence_matrix(model=word_vecs, sententces=corpus[:2]))
+print(build_sentence_matrix(model=word_vecs, sententces=corpus[:2], dim=dim))
 
 mark = load_mark(get_file_path('mark'))
 valence, arousal = gold_valence_arousal(corpus, mark)
