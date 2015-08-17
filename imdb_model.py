@@ -18,10 +18,12 @@ file_dir = windows_dir if os.name == 'nt' else '/home/hs/Data/imdb/aclImdb/train
 vec_dim = 300
 ##########################################################################################
 pos_sentences_matrix, pos_length = pickle.load(open(os.path.join(windows_dir, 'pos.p'), 'rb'))
+print(pos_sentences_matrix[2], pos_sentences_matrix.shape)
 neg_sentences_matrix, neg_length = pickle.load(open(os.path.join(windows_dir, 'neg.p'), 'rb'))
-
-sentence_embedding_matrix = np.concatenate((pos_sentences_matrix, neg_sentences_matrix), axis=1)
-valence = np.concatenate((np.ones((1, pos_length)), np.zeros((1, neg_length))), axis=1)
+print(neg_sentences_matrix[3], neg_sentences_matrix.shape)
+print('load complete ')
+sentence_embedding_matrix = np.concatenate((pos_sentences_matrix, neg_sentences_matrix), axis=0)
+valence = np.concatenate((np.ones((1, pos_length)), np.zeros((1, neg_length))), axis=1).T
 
 X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(sentence_embedding_matrix, valence, test_size=0.2,
                                                                      random_state=0)
@@ -56,7 +58,7 @@ model.add(Dense(72128, 128))
 model.add(Activation('relu'))
 model.add(Dropout(0.5))
 
-model.add(Dense(128, 1))
+model.add(Dense(128, nb_classes))
 model.add(Activation('sigmoid'))
 
 sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
