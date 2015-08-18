@@ -70,6 +70,10 @@ def get_file_path(filename=None):
         out = './data/tmp/word_idx_map.p'
     elif filename == 'imdb_processed_data':
         out = './data/tmp/imdb_processed_data.p'
+    elif filename == 'CVAT_Vocab':
+        out = './data/tmp/CVAT_Vocab.p'
+    elif filename == 'word_idx_map_CVAT':
+        out = './data/tmp/word_idx_map_CVAT.p'
     else:
         raise Exception('Wrong filename')
     return out

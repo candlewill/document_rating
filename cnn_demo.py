@@ -7,11 +7,44 @@ from keras.utils import np_utils
 from keras.optimizers import SGD
 
 from sklearn import cross_validation
-
-from load_data import load_embeddings, load_mark
+import os
+from load_data import load_embeddings, load_mark, load_pickle
 from load_data import load_corpus
 from file_name import get_file_path
 from word2vec_fn import build_embedding_matrix, build_sentence_matrix, gold_valence_arousal
+from collections import defaultdict
+from save_data import dump_picle
+
+
+def get_vocab(corpus):
+    vocab = defaultdict(float)
+    for sent in corpus:
+        for word in sent:
+            vocab[word] += 1
+    print(len(vocab))
+    return vocab
+
+
+########################################## config ########################################
+vec_dim = 400
+##########################################################################################
+corpus = load_corpus(get_file_path('cn_corpus'))
+# print(corpus[:2])
+# vocab = get_vocab(corpus)
+# dump_picle(vocab, get_file_path('CVAT_Vocab'))
+# print('OK')
+vocab = load_pickle(get_file_path('CVAT_Vocab'))
+for i in vocab:
+    print(i)
+print(len(vocab))
+
+W, word_idx_map = build_embedding_matrix(load_embeddings('zh_tw'), vocab, k=400)
+dump_picle(word_idx_map, get_file_path('word_idx_map_CVAT'))
+print('dump word_idx_map successful')
+dump_picle(W, '/home/hs/Data/embedding_matrix_CVAT.p')
+print('OK')
+exit()
+
 
 word_vecs = load_embeddings('zh_tw')
 
@@ -24,9 +57,6 @@ print(idx_map['我們'])
 print(len(word_vecs['我們']))
 print(word_vecs['我們'].shape)
 
-
-corpus = load_corpus(get_file_path('cn_corpus'))
-print(corpus[:2])
 print(build_sentence_matrix(model=word_vecs, sententces=corpus[:2], dim=dim))
 
 mark = load_mark(get_file_path('mark'))
