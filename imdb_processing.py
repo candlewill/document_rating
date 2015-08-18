@@ -1,6 +1,6 @@
 __author__ = 'NLP-PC'
 import os
-from load_data import load_embeddings
+from load_data import load_embeddings, load_pickle
 from file_name import get_file_path
 import codecs
 import string
@@ -9,6 +9,7 @@ from save_data import dump_picle
 from preprocess_imdb import clean_str
 from word2vec_fn import make_idx_data
 from word2vec_fn import build_embedding_matrix
+import numpy as np
 
 ########################################## config ########################################
 file_dir = 'E:/研究/Data/IMDB/aclImdb/train/' if os.name == 'nt' else '/home/hs/Data/imdb/aclImdb/train/'
@@ -39,7 +40,7 @@ def load_data(file_dir):
     return data, length
 
 
-def prepare_data(word_vecs, file_dir):
+def prepare_data(file_dir, word_idx_map):
     def load_data(file_dir):
         file_names = os.listdir(file_dir)
         data = []
@@ -50,10 +51,18 @@ def prepare_data(word_vecs, file_dir):
         idx_data = make_idx_data(data, word_idx_map, max_len=200, kernel_size=5)
         return idx_data, length
 
-    load_data(file_dir + 'pos/')
+    pos_idx_data, pos_length = load_data(file_dir + 'pos/')
+    print(pos_idx_data.shape, pos_length)
+    neg_idx_data, neg_length = load_data(file_dir + 'neg/')
+    print(neg_idx_data.shape, neg_length)
+    data = np.concatenate((pos_idx_data, neg_idx_data), axis=0)
+    print(data.shape)
+    return data, pos_length, neg_length
 
 
-prepare_data(None, file_dir)
+word_idx_map = load_pickle(get_file_path('word_idx_map'))
+data, pos_length, neg_length = prepare_data(file_dir, word_idx_map)
+dump_picle([data, pos_length, neg_length], get_file_path('imdb_processed_data'))
 exit()
 
 model = load_embeddings('google_news')

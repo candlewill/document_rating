@@ -68,6 +68,8 @@ def get_file_path(filename=None):
             out = nt
     elif filename == 'word_idx_map':
         out = './data/tmp/word_idx_map.p'
+    elif filename == 'imdb_processed_data':
+        out = './data/tmp/imdb_processed_data.p'
     else:
         raise Exception('Wrong filename')
     return out
