@@ -16,9 +16,13 @@ vec_dim = 300
 ##########################################################################################
 
 # make word index map
-W, word_idx_map = build_embedding_matrix(load_embeddings('google_news'), k=300)
-dump_picle(word_idx_map, get_file_path('word_idx_map'))
-
+# W, word_idx_map = build_embedding_matrix(load_embeddings('google_news'), k=300)
+# dump_picle(word_idx_map, get_file_path('word_idx_map'))
+# print('dump word_idx_map successful')
+# dump_picle(W, '/home/hs/Data/embedding_matrix.p')
+# print('OK')
+# exit()
+# make word index map end
 def load_data(file_dir):
     file_names = os.listdir(file_dir)
     data = []
