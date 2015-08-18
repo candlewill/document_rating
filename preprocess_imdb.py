@@ -20,6 +20,8 @@ def clean_str(string):
     string = re.sub(r"\)", " \) ", string)
     string = re.sub(r"\?", " \? ", string)
     string = re.sub(r"\s{2,}", " ", string)
+    for c in "'`":
+        string = string.replace(c, '')
     return string.strip().lower()
 
 

@@ -10,14 +10,21 @@ from preprocess_imdb import clean_str
 from word2vec_fn import make_idx_data
 from word2vec_fn import build_embedding_matrix
 import numpy as np
+from collections import defaultdict
 
 ########################################## config ########################################
 file_dir = 'E:/研究/Data/IMDB/aclImdb/train/' if os.name == 'nt' else '/home/hs/Data/imdb/aclImdb/train/'
 vec_dim = 300
 ##########################################################################################
 
+# word_idx_map = load_pickle(get_file_path('word_idx_map'))
+# print(len(word_idx_map))
+# for i in word_idx_map:
+#     print(i)
+# exit()
 # make word index map
-# W, word_idx_map = build_embedding_matrix(load_embeddings('google_news'), k=300)
+# vocab = load_pickle('./data/tmp/vocab.p')
+# W, word_idx_map = build_embedding_matrix(load_embeddings('google_news'), vocab, k=300)
 # dump_picle(word_idx_map, get_file_path('word_idx_map'))
 # print('dump word_idx_map successful')
 # dump_picle(W, '/home/hs/Data/embedding_matrix.p')
@@ -39,6 +46,33 @@ def load_data(file_dir):
         data.append(cleanText(text))
     return data, length
 
+
+def get_vocab(file_dir):
+    vocab = defaultdict(float)
+
+    def load_data(file_dir):
+        file_names = os.listdir(file_dir)
+        data = []
+        for file_name in file_names:
+            text = ' '.join(codecs.open(os.path.join(file_dir, file_name), 'r', 'utf-8').readlines())
+            for word in clean_str(text).split():
+                vocab[word] += 1
+
+    load_data(file_dir + 'pos/')
+    load_data(file_dir + 'neg/')
+    return vocab
+
+
+# get vocab and save to pickle
+# vocab = get_vocab(file_dir)
+# dump_picle(vocab, './data/tmp/vocab.p')
+# print('OK')
+# a = load_pickle('./data/tmp/vocab.p')
+# for i in a:
+#     print(i)
+# print(len(a))
+# exit()
+# end
 
 def prepare_data(file_dir, word_idx_map):
     def load_data(file_dir):

@@ -95,15 +95,18 @@ def gold_valence_arousal(corpus, mark):
 
 
 # word_vecs is the model of word2vec
-def build_embedding_matrix(word_vecs, k=300):
+def build_embedding_matrix(word_vecs, vocab, k=300):
     """
     Get word matrix. W[i] is the vector for word indexed by i
     """
-    vocab_size = len(word_vecs.vocab.keys())
+    union = (set(word_vecs.vocab.keys()) & set(vocab))
+    vocab_size = len(union)
+    print(vocab_size)
     word_idx_map = dict()
     W = np.zeros(shape=(vocab_size + 1, k))
     W[0] = np.zeros(k, dtype=np.float32)
-    for i, word in enumerate(word_vecs.vocab.keys(), start=1):
+    for i, word in enumerate(union, start=1):
+        print(word, i)
         W[i] = word_vecs[word]
         word_idx_map[word] = i  # dict
     return W, word_idx_map
