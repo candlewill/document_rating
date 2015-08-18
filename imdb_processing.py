@@ -6,14 +6,18 @@ import codecs
 import string
 from word2vec_fn import build_sentence_matrix
 from save_data import dump_picle
-
+from preprocess_imdb import clean_str
+from word2vec_fn import make_idx_data
+from word2vec_fn import build_embedding_matrix
 
 ########################################## config ########################################
 file_dir = 'E:/研究/Data/IMDB/aclImdb/train/' if os.name == 'nt' else '/home/hs/Data/imdb/aclImdb/train/'
 vec_dim = 300
 ##########################################################################################
-model = load_embeddings('google_news')
-print('Loading word2vec complete')
+
+# make word index map
+W, word_idx_map = build_embedding_matrix(load_embeddings('google_news'), k=300)
+dump_picle(word_idx_map, get_file_path('word_idx_map'))
 
 def load_data(file_dir):
     file_names = os.listdir(file_dir)
@@ -29,6 +33,27 @@ def load_data(file_dir):
         text = ' '.join(codecs.open(os.path.join(file_dir, file_name), 'r', 'utf-8').readlines())
         data.append(cleanText(text))
     return data, length
+
+
+def prepare_data(word_vecs, file_dir):
+    def load_data(file_dir):
+        file_names = os.listdir(file_dir)
+        data = []
+        length = len(file_names)
+        for file_name in file_names:
+            text = ' '.join(codecs.open(os.path.join(file_dir, file_name), 'r', 'utf-8').readlines())
+            data.append(clean_str(text))
+        idx_data = make_idx_data(data, word_idx_map, max_len=200, kernel_size=5)
+        return idx_data, length
+
+    load_data(file_dir + 'pos/')
+
+
+prepare_data(None, file_dir)
+exit()
+
+model = load_embeddings('google_news')
+print('Loading word2vec complete')
 
 
 pos_data, pos_length = load_data(file_dir + 'pos')

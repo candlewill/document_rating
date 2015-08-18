@@ -101,13 +101,15 @@ def build_embedding_matrix(word_vecs, k=300):
     """
     vocab_size = len(word_vecs.vocab.keys())
     word_idx_map = dict()
-    W = np.zeros(shape=(vocab_size, k))
-    for i, word in enumerate(word_vecs.vocab.keys()):
+    W = np.zeros(shape=(vocab_size + 1, k))
+    W[0] = np.zeros(k, dtype=np.float32)
+    for i, word in enumerate(word_vecs.vocab.keys(), start=1):
         W[i] = word_vecs[word]
         word_idx_map[word] = i  # dict
     return W, word_idx_map
 
 
+# abandon for it may lead to memory error as its big size
 # maxlen is the fixed length to align sentence, padding zero if the number of word is less than maxlen,
 # and cut off if more than maxlen
 def build_sentence_matrix(model, sententces, maxlen=200, dim=50):
@@ -132,3 +134,34 @@ def build_sentence_matrix(model, sententces, maxlen=200, dim=50):
             text_matrix = np.concatenate((text_matrix, np.zeros((maxlen - len_text_matrix, size))), axis=0)
         sentences_matrix.append(text_matrix)
     return np.array(sentences_matrix)
+
+
+def get_idx_from_sent(sent, word_idx_map, max_l=200, kernel_size=5):
+    """
+    Transforms sentence into a list of indices. Pad with zeroes.
+    """
+    x = []
+    pad = kernel_size - 1
+    for i in range(pad):
+        x.append(0)
+    words = sent.split()
+    for num, word in enumerate(words, 1):
+        if word in word_idx_map:
+            x.append(word_idx_map[word])
+        if num > max_l:
+            break
+    while len(x) < max_l + 2 * pad:
+        x.append(0)
+    return x
+
+
+def make_idx_data(sentences, word_idx_map, max_len=200, kernel_size=5):
+    """
+    Transforms sentences into a 2-d matrix.
+    """
+    idx_data = []
+    for sent in sentences:
+        idx_sent = get_idx_from_sent(sent, word_idx_map, max_len, kernel_size)
+        idx_data.append(idx_sent)
+    idx_data = np.array(idx_data, dtype=np.int)
+    return idx_data
