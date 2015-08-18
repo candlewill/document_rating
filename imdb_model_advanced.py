@@ -79,14 +79,16 @@ model.add(Activation('softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='adadelta')
 ####################################################################################
 
+model.fit(X_train, Y_train, batch_size=50, nb_epoch=10, verbose=1, show_accuracy=True, validation_data=(X_test, Y_test))
 
+exit()
 epoch = 0
 val_acc = []
 val_auc = []
 
 # Train model for N_epoch epochs (could be run as many times as needed)
 
-N_epoch = 3
+N_epoch = 10
 
 for i in range(N_epoch):
     model.fit(X_train, Y_train, batch_size=50, nb_epoch=1, verbose=1, show_accuracy=True)
