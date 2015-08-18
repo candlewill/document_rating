@@ -48,7 +48,7 @@ print(X_train.shape)
 N_fm = 400
 
 batch_size = 128
-nb_epoch = 3
+nb_epoch = 100
 
 ###################################### model #######################################
 model = Sequential()
@@ -61,6 +61,7 @@ model.add(Reshape(1, conv_input_height, conv_input_width))
 model.add(Convolution2D(N_fm, 1, kernel_size, conv_input_width, border_mode='valid', W_regularizer=l2(0.0001)))
 # ReLU activation
 model.add(Activation('relu'))
+
 
 # aggregate data in every feature map to scalar using MAX operation
 model.add(MaxPooling2D(poolsize=(conv_input_height - kernel_size + 1, 1), ignore_border=True))
@@ -85,7 +86,7 @@ predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))
 pickle.dump((Y_test, predict), open(os.path.join('.', 'data', 'tmp', 'NN_output_CVAT.p'), "wb"))
 
 exit()
-
+'''
 # sentence_embedding_matrix, valence = pickle.load(open(os.path.join('.', 'data', 'tmp', 'NN_input_CVAT.p'), 'rb'))
 sentence_embedding_matrix, valence = pickle.load(open('D:/chinese_word2vec/CVAT_sentence_matrix_400.p', 'rb'))
 
@@ -145,4 +146,5 @@ from evaluate import evaluate
 print(Y_test)
 print(predict)
 evaluate(Y_test, predict, 'Result of CNN')
+'''
 '''
