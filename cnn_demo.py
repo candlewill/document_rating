@@ -14,6 +14,8 @@ from file_name import get_file_path
 from word2vec_fn import build_embedding_matrix, build_sentence_matrix, gold_valence_arousal
 from collections import defaultdict
 from save_data import dump_picle
+from word2vec_fn import make_idx_data
+import numpy as np
 
 
 def get_vocab(corpus):
@@ -34,17 +36,25 @@ corpus = load_corpus(get_file_path('cn_corpus'))
 # dump_picle(vocab, get_file_path('CVAT_Vocab'))
 # print('OK')
 vocab = load_pickle(get_file_path('CVAT_Vocab'))
-for i in vocab:
-    print(i)
-print(len(vocab))
+# for i in vocab:
+#     print(i)
+# print(len(vocab))
 
-W, word_idx_map = build_embedding_matrix(load_embeddings('zh_tw'), vocab, k=400)
-dump_picle(word_idx_map, get_file_path('word_idx_map_CVAT'))
-print('dump word_idx_map successful')
-dump_picle(W, '/home/hs/Data/embedding_matrix_CVAT.p')
-print('OK')
+# W, word_idx_map = build_embedding_matrix(load_embeddings('zh_tw'), vocab, k=400)
+# dump_picle(word_idx_map, get_file_path('word_idx_map_CVAT'))
+# print('dump word_idx_map successful')
+# dump_picle(W, '/home/hs/Data/embedding_matrix_CVAT.p')
+# print('OK')
+
+word_idx_map = load_pickle(get_file_path('word_idx_map_CVAT'))
+mark = load_mark(get_file_path('mark'))
+valence, arousal = gold_valence_arousal(corpus, mark)
+idx_data = make_idx_data(corpus, word_idx_map, max_len=200, kernel_size=5)
+
+# dump_picle([idx_data, valence, arousal], get_file_path('CVAT_processed_data'))
+idx_data, valence, arousal = load_pickle(get_file_path('CVAT_processed_data'))
+print(idx_data.shape)
 exit()
-
 
 word_vecs = load_embeddings('zh_tw')
 
@@ -58,9 +68,6 @@ print(len(word_vecs['我們']))
 print(word_vecs['我們'].shape)
 
 print(build_sentence_matrix(model=word_vecs, sententces=corpus[:2], dim=dim))
-
-mark = load_mark(get_file_path('mark'))
-valence, arousal = gold_valence_arousal(corpus, mark)
 
 print('Result')
 sentence_embedding_matrix = build_sentence_matrix(word_vecs, corpus, dim=dim)

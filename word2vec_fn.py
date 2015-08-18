@@ -147,7 +147,10 @@ def get_idx_from_sent(sent, word_idx_map, max_l=200, kernel_size=5):
     pad = kernel_size - 1
     for i in range(pad):
         x.append(0)
-    words = sent.split()
+    if type(sent) is not list:
+        words = sent.split()
+    else:
+        words = sent
     for num, word in enumerate(words, 1):
         if word in word_idx_map:
             x.append(word_idx_map[word])
