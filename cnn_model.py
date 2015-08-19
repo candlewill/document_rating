@@ -20,7 +20,7 @@ max_len = 200
 kernel_size = 8
 filename = './data/tmp/CVAT_processed_data.p'
 embedding_maxtrix = './data/tmp/embedding_matrix_CVAT.p'
-option = 'Valence'  # Arousal
+option = 'Arousal'  # Arousal
 ##########################################################################################
 idx_data, valence, arousal = pickle.load(open(filename, "rb"))
 W = pickle.load(open(embedding_maxtrix, "rb"))
