@@ -100,6 +100,24 @@ def load_embeddings(arg=None):
     return model
 
 
+def load_vader(name):
+    def load_text(filename):
+        with open(filename, 'r', encoding='utf-8') as csvfile:
+            reader = csv.reader(csvfile, delimiter='\t')
+            texts, ratings = [], []
+            for line in reader:
+                texts.append(line[2])
+                ratings.append(float(line[1]))
+        return texts, ratings
+
+    texts, ratings = [], []
+    for filename in name:
+        text, rating = load_text('./data/corpus/vader/' + filename + '.txt')
+        texts.extend(text)
+        ratings.extend(rating)
+    return texts, ratings
+
+
 if __name__ == '__main__':
     from file_name import get_file_path
 
