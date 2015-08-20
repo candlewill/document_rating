@@ -18,8 +18,8 @@ from sklearn import cross_validation
 vec_dim = 300
 max_len = 200
 kernel_size = 8
-filename = './data/corpus/vader/vader_processed_data.p'
-embedding_maxtrix = './data/corpus/vader/embedding_matrix_all.p'
+filename = './data/corpus/vader/vader_processed_data_movie_reviews.p'
+embedding_maxtrix = './data/corpus/vader/embedding_matrix_movie_reviews.p'
 ##########################################################################################
 idx_data, ratings = pickle.load(open(filename, "rb"))
 W = pickle.load(open(embedding_maxtrix, "rb"))
