@@ -406,3 +406,16 @@ arousal
 vader
 2015-08-20 16:41:18,608 - log_manager - INFO - Result of CNN
 2015-08-20 16:41:18,611 - log_manager - INFO - MSE: 1.33696248623, MAE: 0.926633378798, Pearson_r: (0.71783677951334068, 0.0), R2: 0.505832282814, Spearman_r: SpearmanrResult(correlation=0.72202877177360958, pvalue=0.0), sqrt_MSE: 1.1562709398015751
+
+vader: traditional method
+extend anew
+2015-08-21 16:09:01,322 - log_manager - INFO - mean
+2015-08-21 16:11:24,681 - log_manager - INFO - valence
+2015-08-21 16:11:24,684 - log_manager - INFO - MSE: 3.89258194686, MAE: 1.67467729804, Pearson_r: (0.33826665391341931, 3.7719455529068354e-282), R2: -0.053778018947, Spearman_r: SpearmanrResult(correlation=0.35525527911156363, pvalue=0.0), sqrt_MSE: 1.9729627332669297
+2015-08-21 16:13:34,419 - log_manager - INFO - mean
+
+anew
+2015-08-21 16:20:47,301 - log_manager - INFO - mean
+2015-08-21 16:20:57,066 - log_manager - INFO - valence
+2015-08-21 16:20:57,070 - log_manager - INFO - MSE: 5.56106104145, MAE: 1.94344184789, Pearson_r: (0.13876153729870458, 9.5524963135015258e-47), R2: -0.505459349989, Spearman_r: SpearmanrResult(correlation=0.14198939154793716, pvalue=6.9466775696585903e-49), sqrt_MSE: 2.358190204679703
+
