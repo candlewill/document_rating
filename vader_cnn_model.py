@@ -13,6 +13,7 @@ import numpy as np
 import os
 import pickle
 from sklearn import cross_validation
+import math
 
 ########################################## config ########################################
 vec_dim = 300
@@ -33,8 +34,8 @@ Y = np.array(ratings) + np.ones(len(ratings), dtype=float) * 5
 print(Y.shape)
 print(Y)
 
-X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.3,
-                                                                     random_state=1)
+X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
+                                                                     random_state=7)
 
 print(X_train.shape)
 print(Y_train.shape)
@@ -47,8 +48,8 @@ print(X_train.shape)
 # Number of feature maps (outputs of convolutional layer)
 N_fm = 300
 
-batch_size = 50
-nb_epoch = 100
+batch_size = 10
+nb_epoch = 10
 
 
 ###################################### model #######################################
@@ -71,7 +72,7 @@ def cnn_model_default():
 
 
 def cnn_model_default_improve():
-    N_fm = 50
+    N_fm = 100
     kernel_size = 5
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
@@ -84,7 +85,7 @@ def cnn_model_default_improve():
     model.add(Dense(N_fm, 1))
     model.add(Activation('linear'))
     sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
-    model.compile(loss='mean_squared_error', optimizer=sgd)
+    model.compile(loss='mean_squared_error', optimizer='adagrad')
     return model
 
 
@@ -144,13 +145,74 @@ def cnn_1():
     return model
 
 
+def cnn_model_2():
+    N_fm = 100
+    model = Sequential()
+    model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
+    model.add(Reshape(1, conv_input_height, conv_input_width))
+    model.add(Convolution2D(N_fm, 1, 5, 5, border_mode='valid', W_regularizer=l2(0.0001)))
+    model.add(Activation('relu'))
+    model.add(MaxPooling2D(poolsize=(2, 2), ignore_border=True))
+
+    model.add(Convolution2D(N_fm, N_fm, 5, 5, border_mode='valid', W_regularizer=l2(0.0001)))
+    model.add(Activation('relu'))
+    model.add(MaxPooling2D(poolsize=(2, 2), ignore_border=True))
+
+    model.add(Flatten())
+    model.add(Dropout(0.5))
+    model.add(Dense(N_fm * (((conv_input_height - 4) / 2 - 4) / 2) * (((conv_input_width - 4) / 2 - 4) / 2), 1))
+    model.add(Activation('linear'))
+    sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
+    model.compile(loss='mean_squared_error', optimizer='adagrad')
+    return model
+
+
+def cnn_model_3():
+    N_fm = 100
+    model = Sequential()
+    model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
+    model.add(Reshape(1, conv_input_height, conv_input_width))
+    model.add(Convolution2D(N_fm, 1, 7, 7, border_mode='valid', W_regularizer=l2(0.0001)))
+    model.add(Activation('relu'))
+    model.add(MaxPooling2D(poolsize=(3, 3), ignore_border=True))
+
+    model.add(Convolution2D(N_fm, N_fm, 5, 5, border_mode='valid', W_regularizer=l2(0.0001)))
+    model.add(Activation('relu'))
+    model.add(MaxPooling2D(poolsize=(2, 2), ignore_border=True))
+
+    model.add(Flatten())
+    model.add(Dropout(0.5))
+    h = math.floor((math.floor((conv_input_height - 6) / 3) - 4) / 2)
+    w = math.floor((math.floor((conv_input_width - 6) / 3) - 4) / 2)
+    model.add(Dense(N_fm * h * w, 1))
+    model.add(Activation('linear'))
+    sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
+    model.compile(loss='mean_squared_error', optimizer='adagrad')
+    return model
+
+
+def cnn_model_simple():
+    N_fm = 10
+    model = Sequential()
+    model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
+    model.add(Reshape(1, conv_input_height, conv_input_width))
+    model.add(Convolution2D(N_fm, 1, 5, conv_input_width, border_mode='valid', W_regularizer=l2(0.0001)))
+    model.add(Activation('relu'))
+    model.add(MaxPooling2D(poolsize=(conv_input_height - 5 + 1, 1), ignore_border=True))
+    model.add(Flatten())
+    model.add(Dropout(0.5))
+    model.add(Dense(N_fm, 1))
+    model.add(Activation('linear'))
+    sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
+    model.compile(loss='mean_squared_error', optimizer='adagrad')
+    return model
 ####################################################################################
 
-model = cnn_model_default_improve()
+model = cnn_model_simple()
 model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation_data=(X_test, Y_test))
 
 score = model.evaluate(X_test, Y_test)
 print('The score:', score)
 predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))[0]
 
-pickle.dump((Y_test, predict), open('./data/corpus/cnn_result.p', "wb"))
+pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_movie_reviews_result.p', "wb"))
