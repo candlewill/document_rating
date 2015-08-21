@@ -46,12 +46,14 @@ def evaluate_mean(corpus, lexicon, mark):
 
 
 def tfidf(t, d, D):
+    d = d.split()
     tf = float(d.count(t)) / sum(d.count(w) for w in set(d))
-    idf = sp.log(float(len(D)) / (len([doc for doc in D if t in doc])))
+    idf = sp.log(float(len(D)) / (len([doc.split() for doc in D if t in doc.split()])))
     return tf * idf
 
 
 def tf(t, d):
+    d = d.split()
     tf = float(d.count(t)) / float(len(d))
     return tf
 
@@ -59,252 +61,125 @@ def tf(t, d):
 def evaluate_tfidf_geo(corpus, lexicon, mark):
     valence_pred = []
     valence_true = []
-    arousal_pred = []
-    arousal_true = []
 
-    num = len(corpus)
-    for (i, text) in enumerate(corpus):
+    def VA_mean(text):
         sum_valence = 1.
-        sum_arousal = 1.
-        count = 0.
-
-        for word in text:
-            for l in lexicon:
-                if word == l[0]:
-                    word_tfidf = tfidf(word, corpus[i], corpus)
-                    # logger.info("tfidf of word %s is %f" % (word, word_tfidf))
-                    if l[1] > 9:
-                        l[1] = 9
-                    if l[1] < 1:
-                        l[1] = 1
-                    if l[2] > 9:
-                        l[2] = 9
-                    if l[2] < 1:
-                        l[2] = 1
-
+        count = 0
+        word_list = text.split()
+        for word in word_list:
+            for line in lexicon:
+                word_tfidf = tfidf(word, corpus[i], corpus)
+                if word == line:
                     count = count + word_tfidf
-                    sum_valence = sum_valence * (l[1] ** word_tfidf)
-                    sum_arousal = sum_arousal * (l[2] ** word_tfidf)
+                    sum_valence = sum_valence * (lexicon[word] ** word_tfidf)
+        return 5 if count == 0 else sum_valence ** (1. / count)
 
-        if count == 0.:
-            valence_pred.append(5.)
-            arousal_pred.append(5.)
-        else:
-            # logger.info("%f %f" % (sum_valence ** (1. / count), sum_arousal ** (1. / count)))
-            valence_pred.append(sum_valence ** (1. / count))
-            arousal_pred.append(sum_arousal ** (1. / count))
-
-        for item in mark:
-            if (i + 1) == item[0]:
-                valence_true.append(item[1])
-                arousal_true.append(item[2])
-                break
-
-        if (i + 1) % 10 == 0:
-            logger.info("evaluate for text : %i/%i..." % ((i + 1), num))
-
+    for i, text in enumerate(corpus):
+        V = VA_mean(text)
+        valence_pred.append(V)
+        valence_true.append(mark[i])
+    print(valence_true[:200])
+    print(valence_pred[:200])
     evaluate(valence_true, valence_pred, 'valence')
-    evaluate(arousal_true, arousal_pred, 'arousal')
 
 
 def evaluate_tf_geo(corpus, lexicon, mark):
     valence_pred = []
     valence_true = []
-    arousal_pred = []
-    arousal_true = []
 
-    num = len(corpus)
-    for (i, text) in enumerate(corpus):
-        sum_valence = 1.
-        sum_arousal = 1.
-        count = 0.
-
-        for word in text:
-            for l in lexicon:
-                if word == l[0]:
+    def VA_mean(text):
+        sum_valence = 1
+        count = 0
+        word_list = text.split()
+        for word in word_list:
+            for line in lexicon:
+                if word == line:
                     word_tf = tf(word, corpus[i])
-                    # logger.info("tfidf of word %s is %f" % (word, word_tfidf))
-                    if l[1] > 9:
-                        l[1] = 9
-                    if l[1] < 1:
-                        l[1] = 1
-                    if l[2] > 9:
-                        l[2] = 9
-                    if l[2] < 1:
-                        l[2] = 1
-
                     count = count + word_tf
-                    sum_valence = sum_valence * (l[1] ** word_tf)
-                    sum_arousal = sum_arousal * (l[2] ** word_tf)
+                    sum_valence = sum_valence * (lexicon[word] ** word_tf)
+        return 5 if count == 0 else sum_valence ** (1. / count)
 
-        if count == 0.:
-            valence_pred.append(5.)
-            arousal_pred.append(5.)
-        else:
-            # logger.info("%f %f" % (sum_valence ** (1. / count), sum_arousal ** (1. / count)))
-            valence_pred.append(sum_valence ** (1. / count))
-            arousal_pred.append(sum_arousal ** (1. / count))
-
-        for item in mark:
-            if (i + 1) == item[0]:
-                valence_true.append(item[1])
-                arousal_true.append(item[2])
-                break
-
-        if (i + 1) % 10 == 0:
-            logger.info("evaluate for text : %i/%i..." % ((i + 1), num))
-
+    for i, text in enumerate(corpus):
+        V = VA_mean(text)
+        valence_pred.append(V)
+        valence_true.append(mark[i])
+    print(valence_true[:200])
+    print(valence_pred[:200])
     evaluate(valence_true, valence_pred, 'valence')
-    evaluate(arousal_true, arousal_pred, 'arousal')
 
 
 def evaluate_geo(corpus, lexicon, mark):
     valence_pred = []
     valence_true = []
-    arousal_pred = []
-    arousal_true = []
 
-    num = len(corpus)
-    for (i, text) in enumerate(corpus):
-        sum_valence = 1.
-        sum_arousal = 1.
-        count = 0.
-
-        for word in text:
-            for l in lexicon:
-                if word == l[0]:
-                    if l[1] > 9:
-                        l[1] = 9
-                    if l[1] < 1:
-                        l[1] = 1
-                    if l[2] > 9:
-                        l[2] = 9
-                    if l[2] < 1:
-                        l[2] = 1
-
+    def VA_mean(text):
+        sum_valence = 1
+        count = 0
+        word_list = text.split()
+        for word in word_list:
+            for line in lexicon:
+                if word == line:
                     count = count + 1
-                    sum_valence = sum_valence * l[1]
-                    sum_arousal = sum_arousal * l[2]
+                    sum_valence = sum_valence * lexicon[line]
+        return 5 if count == 0 else sum_valence ** (1. / count)
 
-        if count == 0.:
-            valence_pred.append(5.)
-            arousal_pred.append(5.)
-        else:
-            # logger.info("%f %f" % (sum_valence ** (1. / count), sum_arousal ** (1. / count)))
-            valence_pred.append(sum_valence ** (1. / count))
-            arousal_pred.append(sum_arousal ** (1. / count))
-
-        for item in mark:
-            if (i + 1) == item[0]:
-                valence_true.append(item[1])
-                arousal_true.append(item[2])
-                break
-
-        if (i + 1) % 10 == 0:
-            logger.info("evaluate for text : %i/%i..." % ((i + 1), num))
-
+    for i, text in enumerate(corpus):
+        V = VA_mean(text)
+        valence_pred.append(V)
+        valence_true.append(mark[i])
+    print(valence_true[:200])
+    print(valence_pred[:200])
     evaluate(valence_true, valence_pred, 'valence')
-    evaluate(arousal_true, arousal_pred, 'arousal')
 
 
 def evaluate_tf_mean(corpus, lexicon, mark):
     valence_pred = []
     valence_true = []
-    arousal_pred = []
-    arousal_true = []
 
-    num = len(corpus)
-    for (i, text) in enumerate(corpus):
-        sum_valence = 0.
-        sum_arousal = 0.
-        count = 0.
-
-        for word in text:
-            for l in lexicon:
-                if word == l[0]:
+    def VA_mean(text):
+        sum_valence = 0
+        count = 0
+        word_list = text.split()
+        for word in word_list:
+            for line in lexicon:
+                if word == line:
                     word_tf = tf(word, corpus[i])
-                    # logger.info("tfidf of word %s is %f" % (word, word_tfidf))
-                    if l[1] > 9:
-                        l[1] = 9
-                    if l[1] < 1:
-                        l[1] = 1
-                    if l[2] > 9:
-                        l[2] = 9
-                    if l[2] < 1:
-                        l[2] = 1
-
                     count = count + word_tf
-                    sum_valence = sum_valence + word_tf * l[1]
-                    sum_arousal = sum_arousal + word_tf * l[2]
+                    sum_valence = sum_valence + word_tf * lexicon[word]
+        return 5 if count == 0 else sum_valence / count
 
-        if count == 0:
-            valence_pred.append(5.)
-            arousal_pred.append(5.)
-        else:
-            valence_pred.append(sum_valence / count)
-            arousal_pred.append(sum_arousal / count)
-
-        for item in mark:
-            if (i + 1) == item[0]:
-                valence_true.append(item[1])
-                arousal_true.append(item[2])
-                break
-
-        if i % 10 == 0:
-            logger.info("evaluate for text : %i/%i..." % (i, num))
-
+    for i, text in enumerate(corpus):
+        V = VA_mean(text)
+        valence_pred.append(V)
+        valence_true.append(mark[i])
+    print(valence_true[:200])
+    print(valence_pred[:200])
     evaluate(valence_true, valence_pred, 'valence')
-    evaluate(arousal_true, arousal_pred, 'arousal')
 
 
 def evaluate_tfidf_mean(corpus, lexicon, mark):
     valence_pred = []
     valence_true = []
-    arousal_pred = []
-    arousal_true = []
 
-    num = len(corpus)
-    for (i, text) in enumerate(corpus):
-        sum_valence = 0.
-        sum_arousal = 0.
-        count = 0.
-
-        for word in text:
-            for l in lexicon:
-                if word == l[0]:
+    def VA_mean(text):
+        sum_valence = 0
+        count = 0
+        word_list = text.split()
+        for word in word_list:
+            for line in lexicon:
+                if word == line:
                     word_tfidf = tfidf(word, corpus[i], corpus)
-                    # logger.info("tfidf of word %s is %f" % (word, word_tfidf))
-                    if l[1] > 9:
-                        l[1] = 9
-                    if l[1] < 1:
-                        l[1] = 1
-                    if l[2] > 9:
-                        l[2] = 9
-                    if l[2] < 1:
-                        l[2] = 1
-
                     count = count + word_tfidf
-                    sum_valence = sum_valence + word_tfidf * l[1]
-                    sum_arousal = sum_arousal + word_tfidf * l[2]
+                    sum_valence = sum_valence + word_tfidf * lexicon[word]
+        return 5 if count == 0 else sum_valence / count
 
-        if count == 0:
-            valence_pred.append(5.)
-            arousal_pred.append(5.)
-        else:
-            valence_pred.append(sum_valence / count)
-            arousal_pred.append(sum_arousal / count)
-
-        for item in mark:
-            if (i + 1) == item[0]:
-                valence_true.append(item[1])
-                arousal_true.append(item[2])
-                break
-
-        if i % 10 == 0:
-            logger.info("evaluate for text : %i/%i..." % (i, num))
-
+    for i, text in enumerate(corpus):
+        V = VA_mean(text)
+        valence_pred.append(V)
+        valence_true.append(mark[i])
+    print(valence_true[:200])
+    print(valence_pred[:200])
     evaluate(valence_true, valence_pred, 'valence')
-    evaluate(arousal_true, arousal_pred, 'arousal')
 
 
 from preprocess_imdb import clean_str
@@ -334,25 +209,24 @@ if __name__ == '__main__':
     words, valences, _ = load_anew(lexicon_name)
     # words, valences, _ = load_extend_anew()
     mark = np.array(ratings) + np.ones(len(ratings), dtype=float) * 5
-    from collections import defaultdict
-
     lexicon = dict()
     for i, word in enumerate(words):
         lexicon[word] = valences[i]
-    log_state('mean')
-    # evaluate_mean(corpus, lexicon, mark)
 
+    log_state('mean')
+    evaluate_mean(corpus, lexicon, mark)
 
     log_state('tf_mean')
     evaluate_tf_mean(corpus, lexicon, mark)
-    exit()
 
     log_state('tfidf_mean')
     evaluate_tfidf_mean(corpus, lexicon, mark)
 
     log_state('geo')
     evaluate_geo(corpus, lexicon, mark)
+
     log_state('tfidf_geo')
     evaluate_tfidf_geo(corpus, lexicon, mark)
+
     log_state('tf_geo')
     evaluate_tf_geo(corpus, lexicon, mark)
