@@ -15,7 +15,9 @@ from evaluate import evaluate
 import scipy as sp
 from log_manager import log_state
 import nltk
-
+from load_data import load_anew, load_extend_anew
+from save_data import dump_picle
+from load_data import load_pickle
 
 # from multiprocessing import Pool
 # from multiprocessing.dummy import Pool as ThreadPool
@@ -45,11 +47,12 @@ def evaluate_mean(corpus, lexicon, mark):
     evaluate(valence_true, valence_pred, 'valence')
 
 
+idfs = load_pickle('./data/vocab_idf.p')
 def tfidf(t, d, D):
     d = d.split()
     tf = float(d.count(t)) / sum(d.count(w) for w in set(d))
-    idf = sp.log(float(len(D)) / (len([doc.split() for doc in D if t in doc.split()])))
-    return tf * idf
+    # idf = sp.log(float(len(D)) / (len([doc.split() for doc in D if t in doc.split()])))
+    return tf * idfs[t]
 
 
 def tf(t, d):
@@ -200,14 +203,27 @@ if __name__ == '__main__':
     # corpus, ratings = load_vader(['tweets', 'movie_reviews', 'product_reviews', 'news_articles'])
     corpus, ratings = load_vader(['movie_reviews'])
     corpus = process(corpus)
+    print(corpus[:2])
+    from collections import defaultdict
+    # idf = sp.log(float(len(D)) / (len([doc.split() for doc in D if t in doc.split()])))
 
+    # vocab = load_pickle('./data/corpus/vader/vocab_moview_reviews.p')
+    # idf=defaultdict(float)
+    # length = len(vocab)
+    # for i, word in enumerate(vocab):
+    #     idf[word] = sp.log(float(len(corpus)) / (len([doc for doc in corpus if word in doc.split()])))
+    #     if i%50 == 0:
+    #         print('%i/%i:'%(i, length),word, idf[word])
+    #
+    # dump_picle(idf, './data/vocab_idf.p')
+    # exit()
     lexicon_name = get_file_path('anew')
     logger.info(r"loading lexicon form : " + lexicon_name)
 
-    from load_data import load_anew, load_extend_anew
 
-    words, valences, _ = load_anew(lexicon_name)
-    # words, valences, _ = load_extend_anew()
+
+    # words, valences, _ = load_anew(lexicon_name)
+    words, valences, _ = load_extend_anew()
     mark = np.array(ratings) + np.ones(len(ratings), dtype=float) * 5
     lexicon = dict()
     for i, word in enumerate(words):
