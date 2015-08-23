@@ -21,6 +21,8 @@ def draw_linear_regression(X_test, Y_test, predict):
 
 def show_common_term(corpus, lexicon, threshold=1):
     for sent_list in corpus:
+        if sent_list is not list:
+            sent_list = sent_list.split()
         word_count = [sent_list.count(w[0]) for w in lexicon]
         word_count = np.array(word_count)
         occur_times = (word_count >= 1).sum()

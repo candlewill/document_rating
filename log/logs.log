@@ -421,3 +421,34 @@ anew
 
 anew
 
+2015-08-22 15:29:44,943 - log_manager - INFO - geo
+2015-08-22 15:32:20,560 - log_manager - INFO - valence
+2015-08-22 15:32:20,564 - log_manager - INFO - MSE: 3.71250677824, MAE: 1.65174394726, Pearson_r: (0.33715839459016772, 3.3366806878730477e-280), R2: -0.00502907620407, Spearman_r: SpearmanrResult(correlation=0.35471553404462136, pvalue=0.0), sqrt_MSE: 1.9267866457499943
+2015-08-22 15:32:20,570 - log_manager - INFO - tfidf_geo
+2015-08-22 19:41:58,574 - log_manager - INFO - linear regression Explained variance score: 0.01
+2015-08-22 19:41:58,603 - log_manager - INFO - MSE: 3.64397240685, MAE: 1.75843912699, Pearson_r: (0.12440456634161845, 9.0127699088449452e-09), R2: -47.0956418608, Spearman_r: SpearmanrResult(correlation=0.12856478785799511, pvalue=2.8131193780421599e-09), sqrt_MSE: 1.9089191724247572
+
+
+ML
+
+2015-08-22 19:44:02,156 - log_manager - INFO - linear regression Explained variance score: 0.01
+2015-08-22 19:44:02,159 - log_manager - INFO - MSE: 3.64397240685, MAE: 1.75843912699, Pearson_r: (0.12440456634161845, 9.0127699088449452e-09), R2: -47.0956418608, Spearman_r: SpearmanrResult(correlation=0.12856478785799511, pvalue=2.8131193780421599e-09), sqrt_MSE: 1.9089191724247572
+
+2015-08-22 19:44:51,196 - log_manager - INFO - linear regression Explained variance score: 0.01
+2015-08-22 19:44:51,200 - log_manager - INFO - MSE: 3.64591083618, MAE: 1.75950363571, Pearson_r: (0.12143002090530544, 2.0250215463587738e-08), R2: -54.7529571626, Spearman_r: SpearmanrResult(correlation=0.11779334891829255, pvalue=5.308819206019664e-08), sqrt_MSE: 1.9094268344672396
+
+
+2015-08-22 19:51:59,043 - log_manager - INFO - linear regression Explained variance score: 0.01
+2015-08-22 19:51:59,047 - log_manager - INFO - MSE: 3.65792917123, MAE: 1.763765968, Pearson_r: (0.10697458569648308, 7.8963500020095967e-07), R2: -73.1369324471, Spearman_r: SpearmanrResult(correlation=0.10092853150085236, pvalue=3.2030434405195405e-06), sqrt_MSE: 1.9125713506242052
+
+
+2015-08-22 19:52:43,389 - log_manager - INFO - linear regression Explained variance score: 0.01
+2015-08-22 19:52:43,394 - log_manager - INFO - MSE: 3.64435333765, MAE: 1.758537687, Pearson_r: (0.12402102666267653, 1.001513214578735e-08), R2: -47.1960778824, Spearman_r: SpearmanrResult(correlation=0.1277080532469145, pvalue=3.5863895308795575e-09), sqrt_MSE: 1.9090189463820033
+2015-08-22 19:52:53,416 - log_manager - INFO - linear regression Explained variance score: 0.02
+2015-08-22 19:52:53,420 - log_manager - INFO - MSE: 3.64370055615, MAE: 1.75741718958, Pearson_r: (0.12547332980773077, 6.7066799368014415e-09), R2: -43.4289837182, Spearman_r: SpearmanrResult(correlation=0.12099528190010729, pvalue=2.2757145952287008e-08), sqrt_MSE: 1.9088479656988455
+2015-08-22 19:53:03,088 - log_manager - INFO - linear regression Explained variance score: 0.01
+2015-08-22 19:53:03,091 - log_manager - INFO - MSE: 3.64585219663, MAE: 1.75898145017, Pearson_r: (0.12291124014520777, 1.3564304919218979e-08), R2: -45.834994293, Spearman_r: SpearmanrResult(correlation=0.12027077704855541, pvalue=2.761835142759799e-08), sqrt_MSE: 1.9094114791286447
+2015-08-22 19:53:12,791 - log_manager - INFO - linear regression Explained variance score: 0.01
+2015-08-22 19:53:12,795 - log_manager - INFO - MSE: 3.64614385373, MAE: 1.75905183378, Pearson_r: (0.12260492818439175, 1.4741975298779344e-08), R2: -45.9571631736, Spearman_r: SpearmanrResult(correlation=0.1194323692787946, pvalue=3.4505093624030107e-08), sqrt_MSE: 1.909487851160486
+2015-08-22 21:30:35,261 - log_manager - INFO - linear regression Explained variance score: 0.01
+2015-08-22 21:30:35,266 - log_manager - INFO - MSE: 3.64662572044, MAE: 1.75845936286, Pearson_r: (0.12285011528211659, 1.3791768832413297e-08), R2: -43.3596647778, Spearman_r: SpearmanrResult(correlation=0.12319553564396141, pvalue=1.2553346275615807e-08), sqrt_MSE: 1.909614023943335
