@@ -21,7 +21,7 @@ kernel_size = 8
 filename = './data/tmp/CVAT_processed_data.p'
 embedding_maxtrix = './data/tmp/embedding_matrix_CVAT.p'
 # python 2.7 use:
-# './data/tmp/CVAT_processed_data.p' and './data/tmp/embedding_matrix_CVAT.p'
+# './data/tmp/CVAT_processed_data_v2.7.p' and './data/tmp/embedding_matrix_CVAT_v2.7.p'
 option = 'Arousal'  # Arousal
 ##########################################################################################
 idx_data, valence, arousal = pickle.load(open(filename, "rb"))
