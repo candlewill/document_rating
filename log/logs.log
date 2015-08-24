@@ -598,3 +598,5 @@ news_articles
 2015-08-24 00:51:08,161 - log_manager - INFO - linear regression Explained variance score: 0.07
 2015-08-24 00:51:08,164 - log_manager - INFO - MSE: 0.791918231749, MAE: 0.711542625367, Pearson_r: (0.260454853454055, 1.7671411036555023e-10), R2: -11.0229410546, Spearman_r: SpearmanrResult(correlation=0.23829477034336932, pvalue=5.8680000131235902e-09), sqrt_MSE: 0.8898978771459003
 
+使用回归word embedding的方法
+dim = 50

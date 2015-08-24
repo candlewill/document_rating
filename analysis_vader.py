@@ -16,25 +16,25 @@ mean_ratings, tf_means, tfidf_means, geos, tf_geos, tfidf_geos, ratings = load_p
 #                                                                           ratings[slice_idx]
 
 
-# evaluate(ratings, mean_ratings, 'mean_ratings')
-# evaluate(ratings, tf_means, 'tf_means')
-# evaluate(ratings, tfidf_means, 'tfidf_means')
-# evaluate(ratings, geos, 'geos')
-# evaluate(ratings, tf_geos, 'tf_geos')
-# evaluate(ratings, tfidf_geos, 'tfidf_geos')
+evaluate(ratings, mean_ratings, 'mean_ratings')
+evaluate(ratings, tf_means, 'tf_means')
+evaluate(ratings, tfidf_means, 'tfidf_means')
+evaluate(ratings, geos, 'geos')
+evaluate(ratings, tf_geos, 'tf_geos')
+evaluate(ratings, tfidf_geos, 'tfidf_geos')
 
 ################################################ Regression Methods ##########################################
-X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(mean_ratings, ratings, test_size=0.2,
-                                                                     random_state=0)
-linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
-X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(tf_means, ratings, test_size=0.2, random_state=0)
-linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
-X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(tfidf_means, ratings, test_size=0.2,
-                                                                     random_state=0)
-linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
-X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(geos, ratings, test_size=0.2, random_state=0)
-linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
-X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(tf_geos, ratings, test_size=0.2, random_state=0)
-linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
-X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(tfidf_geos, ratings, test_size=0.2, random_state=0)
-linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
+# X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(mean_ratings, ratings, test_size=0.2,
+#                                                                      random_state=0)
+# linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
+# X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(tf_means, ratings, test_size=0.2, random_state=0)
+# linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
+# X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(tfidf_means, ratings, test_size=0.2,
+#                                                                      random_state=0)
+# linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
+# X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(geos, ratings, test_size=0.2, random_state=0)
+# linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
+# X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(tf_geos, ratings, test_size=0.2, random_state=0)
+# linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
+# X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(tfidf_geos, ratings, test_size=0.2, random_state=0)
+# linear_regression(X_train, X_test, Y_train, Y_test, plot=False)

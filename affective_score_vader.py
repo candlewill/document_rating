@@ -229,9 +229,9 @@ def calculate_ratings(corpus, ratings, lexicon):
             word_tf_list.append(tf)
             word_tfidf_list.append(tf * idf)
         mean_ratings.append(np.average(np.array(word_rating_list)))
-        tf_mean = sum(wr * wtf / sum(word_tf_list) for wr, wtf in zip(word_rating_list, word_tf_list))
+        tf_mean = sum([wr * wtf / sum(word_tf_list) for wr, wtf in zip(word_rating_list, word_tf_list)])
         tf_means.append(tf_mean)
-        tfidf_mean = sum(wr * wtfidf / sum(word_tfidf_list) for wr, wtfidf in zip(word_rating_list, word_tfidf_list))
+        tfidf_mean = sum([wr * wtfidf / sum(word_tfidf_list) for wr, wtfidf in zip(word_rating_list, word_tfidf_list)])
         tfidf_means.append(tfidf_mean)
         geos.append(reduce(lambda x, y: x * y, word_rating_list, 1) ** (1 / len(word_rating_list)))
         tf_geos.append(

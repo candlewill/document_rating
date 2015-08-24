@@ -31,13 +31,16 @@ def build_doc_vector(corpus, model):
     return np.concatenate(vecs)
 
 
-def train_wordvecs(Sentence):
+def train_wordvecs(Sentence, save_path=None):
     model = Word2Vec(size=50, min_count=2)
     model.build_vocab(Sentence.toarray())
     for epoch in range(10):
         print('epoch: %s' % epoch)
         model.train(Sentence.rand())
-    model.save(get_file_path('wordvecs_CVAT'))
+    if save_path is None:
+        model.save(get_file_path('wordvecs_CVAT'))
+    else:
+        model.save(save_path)
     print('Training model complete, saved successful.')
 
 

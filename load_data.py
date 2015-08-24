@@ -4,14 +4,12 @@
 import codecs
 import re
 import os
-import sys
 import csv
-from preprocess import scaling
-import numpy as np
 import pickle
+
 import gensim
 from gensim.models import Doc2Vec
-from file_name import get_file_path
+
 
 def load_corpus(corpus_dir):
     file_dir = os.listdir(corpus_dir)
@@ -115,6 +113,8 @@ def load_embeddings(arg=None):
         model = Doc2Vec.load(get_file_path('docvecs_CVAT'))
     elif arg == 'google_news':
         model = gensim.models.Word2Vec.load_word2vec_format(get_file_path('google_news'), binary=True)
+    elif arg == 'vader':
+        model = gensim.models.Word2Vec.load('./data/vader_wordvecs.w2v')
     else:
         raise Exception('Wrong Argument.')
     print('Load Model Complete.')
