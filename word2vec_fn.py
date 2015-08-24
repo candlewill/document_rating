@@ -10,10 +10,11 @@ from gensim.models import Doc2Vec
 
 
 # Build word vector for training set by using the average value of all word vectors in the tweet, then scale
-def buill_word_vector(text, model):
-    size = 400
+def buill_word_vector(text, model, size = 400):
     vec = np.zeros(size).reshape((1, size))
     count = 0.
+    if text is not list:
+        text = text.split()
     for word in text:
         try:
             vec += model[word].reshape((1, size))
@@ -32,7 +33,7 @@ def build_doc_vector(corpus, model):
 
 
 def train_wordvecs(Sentence, save_path=None):
-    model = Word2Vec(size=50, min_count=2)
+    model = Word2Vec(size=50, min_count=1)
     model.build_vocab(Sentence.toarray())
     for epoch in range(10):
         print('epoch: %s' % epoch)

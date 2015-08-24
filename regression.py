@@ -42,6 +42,8 @@ def linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='o
     predict = regr.predict(X_test)
     # record the experiment performance, Explained variance score: 1 is perfect prediction
     np.seterr(invalid='ignore')
+    print(list(predict)[:100])
+    print(Y_test[:100])
     evaluate(list(predict), np.array(Y_test),
              'linear regression ' + 'Explained variance score: %.2f' % regr.score(X_test, Y_test))
 

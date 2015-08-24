@@ -13,15 +13,17 @@ import random
 from load_data import load_anew
 
 print('start')
-
 model = load_embeddings('vader')
+corpus, ratings = load_vader(['news_articles'])
+lexicon_name = get_file_path('anew')
+words, valences, _ = load_anew(lexicon_name)
+corpus, ratings = screen_data(corpus, ratings, words)
+ratings = np.array(ratings) + np.ones(len(ratings), dtype=float) * 5
 
 print(len(model.vocab.keys()))
-exit()
-vecs = np.concatenate([buill_word_vector(text, model) for text in corpus])
-valence, arousal = gold_valence_arousal(corpus, mark)
-cv(vecs, valence, multivariant=True)
-cv(vecs, arousal, multivariant=True)
+vecs = np.concatenate([buill_word_vector(text, model, size=50) for text in corpus])
+print(vecs[1])
+cv(vecs, ratings, multivariant=True)
 exit()
 
 # from save_data import dump_picle
