@@ -1,13 +1,6 @@
 __author__ = 'NLP-PC'
-print('start')
 from file_name import get_file_path
-
-print('fea')
-print('OK')
 from load_data import load_corpus, load_mark
-
-print('start')
-exit()
 from load_data import load_embeddings
 
 from word2vec_fn import buill_word_vector
@@ -25,13 +18,11 @@ model = load_embeddings('vader')
 
 print(len(model.vocab.keys()))
 exit()
-corpus = load_corpus(get_file_path('cn_corpus'))
-mark = load_mark(get_file_path('mark'))
 vecs = np.concatenate([buill_word_vector(text, model) for text in corpus])
 valence, arousal = gold_valence_arousal(corpus, mark)
 cv(vecs, valence, multivariant=True)
 cv(vecs, arousal, multivariant=True)
-
+exit()
 
 # from save_data import dump_picle
 # dump_picle(model.key(), get_file_path('words_in_wordvec'))
