@@ -10,11 +10,15 @@ from positive_negative_split import get_pos_neg_va
 from load_data import combine_lexicon
 
 def cv(data, target, multivariant=False):
-    X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(data, target, test_size=0.2, random_state=0)
+    X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(data, target, test_size=0.1, random_state=10)
     if multivariant is False:
         linear_regression(X_train, X_test, Y_train, Y_test, plot=False)
     else:
+        linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='ordinary_least_squares')
         linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='Ridge_Regression')
+        linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='Bayesian_Regression')
+        linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='SVR')
+        linear_regression_multivariant(X_train, X_test, Y_train, Y_test, cost_fun='KNN_Reg')
 
 
 if __name__ == '__main__':

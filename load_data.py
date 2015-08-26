@@ -9,6 +9,7 @@ import pickle
 
 import gensim
 from gensim.models import Doc2Vec
+from file_name import get_file_path
 
 
 def load_corpus(corpus_dir):
