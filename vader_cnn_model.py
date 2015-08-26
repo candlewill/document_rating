@@ -30,7 +30,8 @@ conv_input_width = W.shape[1]  # embedding dimension
 conv_input_height = int(idx_data.shape[1])  # max_len
 print(conv_input_width, conv_input_height)
 
-Y = np.array(ratings) + np.ones(len(ratings), dtype=float) * 5
+# Y = np.array(ratings) + np.ones(len(ratings), dtype=float) * 5
+Y = ratings
 print(Y.shape)
 print(Y)
 
