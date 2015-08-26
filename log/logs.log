@@ -734,3 +734,7 @@ The above result is good.
 
 CNN
 all
+2015-08-26 20:08:46,227 - log_manager - INFO - all
+2015-08-26 20:08:46,235 - log_manager - INFO - MSE: 1.47415196597, MAE: 0.968002375177, Pearson_r: (0.69341577784750641, 0.0), R2: 0.479846273541, Spearman_r: SpearmanrResult(correlation=0.69419831352390404, pvalue=0.0), sqrt_MSE: 1.2141465998669299
+
+tweets
