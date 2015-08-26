@@ -19,8 +19,8 @@ import math
 vec_dim = 300
 max_len = 200
 kernel_size = 8
-filename = './data/corpus/vader/vader_processed_data_movie_reviews.p'
-embedding_maxtrix = './data/corpus/vader/embedding_matrix_movie_reviews.p'
+filename = './data/corpus/vader/vader_processed_data_all.p'
+embedding_maxtrix = './data/corpus/vader/embedding_matrix_all.p'
 ##########################################################################################
 idx_data, ratings = pickle.load(open(filename, "rb"))
 W = pickle.load(open(embedding_maxtrix, "rb"))
@@ -47,14 +47,15 @@ size = vec_dim
 print(X_train.shape)
 
 # Number of feature maps (outputs of convolutional layer)
-N_fm = 300
+N_fm = 150
 
-batch_size = 10
-nb_epoch = 10
+batch_size = 64
+nb_epoch = 3
 
 
 ###################################### model #######################################
 def cnn_model_default():
+    N_fm = 150
     kernel_size = 8
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
@@ -73,7 +74,7 @@ def cnn_model_default():
 
 
 def cnn_model_default_improve():
-    N_fm = 100
+    N_fm = 300
     kernel_size = 5
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
@@ -85,7 +86,7 @@ def cnn_model_default_improve():
     model.add(Dropout(0.5))
     model.add(Dense(N_fm, 1))
     model.add(Activation('linear'))
-    sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
+    sgd = SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
     model.compile(loss='mean_squared_error', optimizer='adagrad')
     return model
 
@@ -209,11 +210,11 @@ def cnn_model_simple():
     return model
 ####################################################################################
 
-model = cnn_model_simple()
+model = cnn_model_default_improve()
 model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation_data=(X_test, Y_test))
 
 score = model.evaluate(X_test, Y_test)
 print('The score:', score)
 predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))[0]
 
-pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_movie_reviews_result.p', "wb"))
+pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_all_result.p', "wb"))
