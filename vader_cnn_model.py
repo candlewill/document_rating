@@ -19,8 +19,8 @@ import math
 vec_dim = 300
 max_len = 200
 kernel_size = 8
-filename = './data/corpus/vader/vader_processed_data_all.p'
-embedding_maxtrix = './data/corpus/vader/embedding_matrix_all.p'
+filename = './data/corpus/vader/vader_processed_data_tweets.p'
+embedding_maxtrix = './data/corpus/vader/embedding_matrix_tweets.p'
 ##########################################################################################
 idx_data, ratings = pickle.load(open(filename, "rb"))
 W = pickle.load(open(embedding_maxtrix, "rb"))
@@ -50,7 +50,7 @@ print(X_train.shape)
 N_fm = 150
 
 batch_size = 64
-nb_epoch = 3
+nb_epoch = 10
 
 
 ###################################### model #######################################
@@ -217,4 +217,4 @@ score = model.evaluate(X_test, Y_test)
 print('The score:', score)
 predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))[0]
 
-pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_all_result.p', "wb"))
+pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_tweets_result2.p', "wb"))
