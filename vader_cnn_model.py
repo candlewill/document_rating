@@ -112,7 +112,7 @@ def cnn_model_default_improve_2():
     return model
 
 def cnn_model_default_improve_3():
-    N_fm = 150 # number of filters
+    N_fm = 100 # number of filters
     kernel_size = 8
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
@@ -122,14 +122,14 @@ def cnn_model_default_improve_3():
                             nb_col=conv_input_width,
                             border_mode='valid',
                             W_regularizer=l2(0.0001)))
-    model.add(Activation("sigmoid"))
+    model.add(Activation("relu"))
     model.add(MaxPooling2D(pool_size=(conv_input_height - kernel_size + 1, 1), ignore_border=True))
     model.add(Flatten())
     model.add(Dropout(0.5))
     model.add(Dense(1))
     model.add(Activation('linear'))
     sgd = SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
-    model.compile(loss='mse', optimizer=sgd)
+    model.compile(loss='mse', optimizer='adagrad')
     return model
 
 
