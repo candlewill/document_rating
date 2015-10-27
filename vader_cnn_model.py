@@ -1,5 +1,6 @@
 from __future__ import absolute_import
 from __future__ import print_function
+print('OK')
 from keras.models import Sequential
 from keras.layers.core import Dense, Dropout, Activation, Flatten, Reshape
 from keras.layers.convolutional import Convolution2D, MaxPooling2D
@@ -24,27 +25,26 @@ embedding_maxtrix = './data/corpus/vader/embedding_matrix_news_articles.p'
 ##########################################################################################
 idx_data, ratings = pickle.load(open(filename, "rb"))
 W = pickle.load(open(embedding_maxtrix, "rb"))
-print(W.shape)
-print(idx_data.shape)
+print('词向量大小: %s' % str(list(W.shape)))
+print('句向量空间: %s' % str(idx_data.shape))
 conv_input_width = W.shape[1]  # embedding dimension
 conv_input_height = int(idx_data.shape[1])  # max_len
-print(conv_input_width, conv_input_height)
+print('词向量维度：%s；句子长度：%s' % (conv_input_width, conv_input_height))
 
 # Y = np.array(ratings) + np.ones(len(ratings), dtype=float) * 5
 Y = ratings
-print(Y.shape)
-print(Y)
+print('语料库大小: %s' % str(Y.shape))
+print('标记示例：%s' % str(Y[:100]))
 
 X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(idx_data, Y, test_size=0.2,
                                                                      random_state=7)
 
-print(X_train.shape)
+print('训练数据： %s' % str(X_train.shape))
 print(Y_train.shape)
-print(len(Y_test))
+print('测试数据：%s' % str(len(Y_test)))
 
 maxlen = max_len
 size = vec_dim
-print(X_train.shape)
 
 # Number of feature maps (outputs of convolutional layer)
 N_fm = 150
@@ -74,7 +74,7 @@ def cnn_model_default():
 
 
 def cnn_model_default_improve():
-    N_fm = 300
+    N_fm = 300 # number of filters
     kernel_size = 5
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
@@ -88,6 +88,27 @@ def cnn_model_default_improve():
     model.add(Activation('linear'))
     sgd = SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
     model.compile(loss='mean_squared_error', optimizer='adagrad')
+    return model
+
+def cnn_model_default_improve_2():
+    N_fm = 300 # number of filters
+    kernel_size = 5
+    model = Sequential()
+    model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
+    model.add(Reshape(dims=(1, conv_input_height, conv_input_width)))
+    model.add(Convolution2D(nb_filter=N_fm,
+                            nb_row=kernel_size,
+                            nb_col=conv_input_width,
+                            border_mode='valid',
+                            W_regularizer=l2(0.0001)))
+    model.add(Activation("sigmoid"))
+    model.add(MaxPooling2D(pool_size=(conv_input_height - kernel_size + 1, 1), ignore_border=True))
+    model.add(Flatten())
+    model.add(Dropout(0.5))
+    model.add(Dense(1))
+    model.add(Activation('linear'))
+    sgd = SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
+    model.compile(loss='mse', optimizer='adagrad')
     return model
 
 
@@ -208,9 +229,10 @@ def cnn_model_simple():
     sgd = SGD(lr=0.001, decay=1e-6, momentum=0.9, nesterov=True)
     model.compile(loss='mean_squared_error', optimizer='adagrad')
     return model
+
 ####################################################################################
 
-model = cnn_model_default_improve()
+model = cnn_model_default_improve_2()
 model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation_data=(X_test, Y_test))
 model.save_weights('./data/corpus/vader/cnn_model_weights.hdf5', overwrite=False)
 print('The weights of CNN have been saved!')
@@ -220,4 +242,4 @@ score = model.evaluate(X_test, Y_test)
 print('The score:', score)
 predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))[0]
 
-pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_movie_news_articles4.p', "wb"))
+pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_result.p', "wb"))
