@@ -20,8 +20,8 @@ import math
 vec_dim = 300
 max_len = 200
 kernel_size = 8
-filename = './data/corpus/vader/vader_processed_data_news_articles.p'
-embedding_maxtrix = './data/corpus/vader/embedding_matrix_news_articles.p'
+filename = './data/corpus/vader/vader_processed_data_tweets.p'
+embedding_maxtrix = './data/corpus/vader/embedding_matrix_tweets.p'
 ##########################################################################################
 idx_data, ratings = pickle.load(open(filename, "rb"))
 W = pickle.load(open(embedding_maxtrix, "rb"))
@@ -50,7 +50,7 @@ size = vec_dim
 N_fm = 150
 
 batch_size = 64
-nb_epoch = 10
+nb_epoch = 20
 
 
 ###################################### model #######################################
@@ -112,8 +112,8 @@ def cnn_model_default_improve_2():
     return model
 
 def cnn_model_default_improve_3():
-    N_fm = 100 # number of filters
-    kernel_size = 7
+    N_fm = 150 # number of filters
+    kernel_size = 8
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
     model.add(Reshape(dims=(1, conv_input_height, conv_input_width)))
