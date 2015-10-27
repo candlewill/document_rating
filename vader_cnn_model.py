@@ -113,7 +113,7 @@ def cnn_model_default_improve_2():
 
 def cnn_model_default_improve_3():
     N_fm = 100 # number of filters
-    kernel_size = 8
+    kernel_size = 5
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
     model.add(Reshape(dims=(1, conv_input_height, conv_input_width)))
