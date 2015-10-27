@@ -125,7 +125,7 @@ def cnn_model_default_improve_3():
     model.add(Activation("relu"))
     model.add(MaxPooling2D(pool_size=(conv_input_height - kernel_size + 1, 1), ignore_border=True))
     model.add(Flatten())
-    model.add(Dropout(0.5))
+    model.add(Dropout(0.6))
     model.add(Dense(1))
     model.add(Activation('linear'))
     sgd = SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
