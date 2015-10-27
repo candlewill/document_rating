@@ -776,3 +776,6 @@ news_articles
 2015-08-26 20:53:59,551 - log_manager - INFO - MSE: 0.875310545682, MAE: 0.733947538264, Pearson_r: (0.34271744675898114, 1.7511329055432985e-17), R2: 0.00763206320685, Spearman_r: SpearmanrResult(correlation=0.30473752764999795, pvalue=5.6750431643192213e-14), sqrt_MSE: 0.9355803256171579
 
 use extend anew
+
+继续，使用tweets数据 from vader
+

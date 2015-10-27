@@ -212,8 +212,10 @@ def cnn_model_simple():
 
 model = cnn_model_default_improve()
 model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation_data=(X_test, Y_test))
+model.save_weights('./data/corpus/vader/cnn_model_weights.hdf5', overwrite=False)
 
 score = model.evaluate(X_test, Y_test)
+
 print('The score:', score)
 predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))[0]
 
