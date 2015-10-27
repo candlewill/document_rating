@@ -129,7 +129,7 @@ def cnn_model_default_improve_3():
     model.add(Dense(1))
     model.add(Activation('linear'))
     sgd = SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
-    model.compile(loss='mse', optimizer='adagrad')
+    model.compile(loss='mse', optimizer=sgd)
     return model
 
 
