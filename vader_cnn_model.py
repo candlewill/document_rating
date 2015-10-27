@@ -111,6 +111,27 @@ def cnn_model_default_improve_2():
     model.compile(loss='mse', optimizer='adagrad')
     return model
 
+def cnn_model_default_improve_3():
+    N_fm = 100 # number of filters
+    kernel_size = 7
+    model = Sequential()
+    model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
+    model.add(Reshape(dims=(1, conv_input_height, conv_input_width)))
+    model.add(Convolution2D(nb_filter=N_fm,
+                            nb_row=kernel_size,
+                            nb_col=conv_input_width,
+                            border_mode='valid',
+                            W_regularizer=l2(0.0001)))
+    model.add(Activation("sigmoid"))
+    model.add(MaxPooling2D(pool_size=(conv_input_height - kernel_size + 1, 1), ignore_border=True))
+    model.add(Flatten())
+    model.add(Dropout(0.5))
+    model.add(Dense(1))
+    model.add(Activation('linear'))
+    sgd = SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
+    model.compile(loss='mse', optimizer='adagrad')
+    return model
+
 
 def cnn_0():
     N_fm = 50
@@ -232,9 +253,9 @@ def cnn_model_simple():
 
 ####################################################################################
 
-model = cnn_model_default_improve_2()
+model = cnn_model_default_improve_3()
 model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation_data=(X_test, Y_test))
-model.save_weights('./data/corpus/vader/cnn_model_weights.hdf5', overwrite=False)
+model.save_weights('./data/corpus/vader/cnn_model_weights.hdf5', overwrite=True)
 print('The weights of CNN have been saved!')
 print('Starting to predicting...')
 score = model.evaluate(X_test, Y_test)
