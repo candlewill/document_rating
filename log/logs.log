@@ -778,4 +778,5 @@ news_articles
 use extend anew
 
 继续，使用tweets数据 from vader
-
+2015-10-28 00:41:10,076 - log_manager - INFO - Result of CNN
+2015-10-28 00:41:10,076 - log_manager - INFO - MSE: 0.842070624454, MAE: 0.734010360085, Pearson_r: (0.26409321556488541, 9.6248642500171723e-11), R2: 0.0453172392977, Spearman_r: (0.24020646308653659, 4.39542019559634e-09), sqrt_MSE: 0.9176440619618634
