@@ -8,9 +8,45 @@ from keras.layers.embeddings import Embedding
 from keras.constraints import unitnorm
 from keras.regularizers import l2
 
-from load_data import load_pickle
-from preprocess_imdb import clean_str
-from word2vec_fn import get_idx_from_sent
+import pickle
+from string import punctuation
+
+
+def load_pickle(filename):
+    out = pickle.load(open(filename, "rb"))
+    return out
+
+
+def clean_str(sentence):
+    """
+    Tokenization/string cleaning for dataset
+    Every dataset is lower cased except
+    """
+    for p in list(punctuation):
+        sentence = sentence.replace(p, '')
+    return sentence.strip().lower()
+
+
+def get_idx_from_sent(sent, word_idx_map, max_l=200, kernel_size=5):
+    """
+    Transforms sentence into a list of indices. Pad with zeroes.
+    """
+    x = []
+    pad = kernel_size - 1
+    for i in range(pad):
+        x.append(0)
+    if type(sent) is not list:
+        words = sent.split()
+    else:
+        words = sent
+    for num, word in enumerate(words, 1):
+        if word in word_idx_map:
+            x.append(word_idx_map[word])
+        if num > max_l:
+            break
+    while len(x) < max_l + 2 * pad:
+        x.append(0)
+    return x
 
 
 def cnn(text=None):
