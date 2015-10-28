@@ -41,8 +41,10 @@ X_train, X_test, Y_train, Y_test = cross_validation.train_test_split(idx_data, Y
 
 print('训练数据： %s' % str(X_train.shape))
 print(Y_train.shape)
-print('测试数据：%s' % str(len(Y_test)))
-
+print('测试数据数量：%s' % str(len(Y_test)))
+print('测试数据shape： %s' % str(X_test.shape))
+print(X_test[0].shape)
+exit()
 maxlen = max_len
 size = vec_dim
 
@@ -252,15 +254,15 @@ def cnn_model_simple():
     return model
 
 ####################################################################################
+if __name__ == '__main__':
+    model = cnn_model_default_improve_3()
+    model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation_data=(X_test, Y_test))
+    model.save_weights('./data/corpus/vader/cnn_model_weights.hdf5', overwrite=True)
+    print('The weights of CNN have been saved!')
+    print('Starting to predicting...')
+    score = model.evaluate(X_test, Y_test)
 
-model = cnn_model_default_improve_3()
-model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation_data=(X_test, Y_test))
-model.save_weights('./data/corpus/vader/cnn_model_weights.hdf5', overwrite=True)
-print('The weights of CNN have been saved!')
-print('Starting to predicting...')
-score = model.evaluate(X_test, Y_test)
+    print('The score:', score)
+    predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))[0]
 
-print('The score:', score)
-predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))[0]
-
-pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_result.p', "wb"))
+    pickle.dump((Y_test, predict), open('./data/corpus/vader/cnn_result.p', "wb"))
