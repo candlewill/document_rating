@@ -44,7 +44,7 @@ print(Y_train.shape)
 print('测试数据数量：%s' % str(len(Y_test)))
 print('测试数据shape： %s' % str(X_test.shape))
 print(X_test[0].shape)
-exit()
+
 maxlen = max_len
 size = vec_dim
 
@@ -114,7 +114,7 @@ def cnn_model_default_improve_2():
     return model
 
 def cnn_model_default_improve_3():
-    N_fm = 100 # number of filters
+    N_fm = 300 # number of filters
     kernel_size = 5
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
