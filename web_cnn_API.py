@@ -63,4 +63,8 @@ def cnn(text=None):
     model.load_weights('./data/corpus/vader/cnn_model_weights.hdf5')
     predict_value = model.predict(idx_request_text)
 
-    print(predict_value)
+    return predict_value
+
+if __name__ == "__main__":
+    text = 'appy B-day Jim Price!! :-) (you are more awesome than you could dream) Hope today was the best ever!!  :-D'
+    print(cnn(text))
