@@ -153,5 +153,3 @@ from evaluate import evaluate
 print(Y_test)
 print(predict)
 evaluate(Y_test, predict, 'Result of CNN')
-'''
-'''
