@@ -52,7 +52,7 @@ size = vec_dim
 N_fm = 150
 
 batch_size = 64
-nb_epoch = 20
+nb_epoch = 10
 
 
 ###################################### model #######################################
@@ -114,7 +114,7 @@ def cnn_model_default_improve_2():
     return model
 
 def cnn_model_default_improve_3():
-    N_fm = 300 # number of filters
+    N_fm = 100 # number of filters
     kernel_size = 5
     model = Sequential()
     model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
@@ -127,7 +127,7 @@ def cnn_model_default_improve_3():
     model.add(Activation("relu"))
     model.add(MaxPooling2D(pool_size=(conv_input_height - kernel_size + 1, 1), ignore_border=True))
     model.add(Flatten())
-    model.add(Dropout(0.6))
+    model.add(Dropout(0.5))
     model.add(Dense(1))
     model.add(Activation('linear'))
     sgd = SGD(lr=0.0001, decay=1e-6, momentum=0.9, nesterov=True)
