@@ -44,7 +44,7 @@ W, word_idx_map = build_embedding_matrix(load_embeddings('google_news'), vocab, 
 # print('dump word_idx_map successful')
 dump_picle(W, './data/corpus/vader/embedding_matrix_all.p')
 print('dump embedding matrix file OK')
-# word_idx_map = load_pickle('./data/corpus/vader/word_idx_map_movie_reviews.p')
+c
 idx_data = make_idx_data(corpus, word_idx_map, max_len=200, kernel_size=5)
 dump_picle([idx_data, ratings], './data/corpus/vader/vader_processed_data_all.p')
 print(idx_data[0])
