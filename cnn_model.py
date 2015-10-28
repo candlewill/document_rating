@@ -22,7 +22,7 @@ filename = './data/tmp/CVAT_processed_data.p'
 embedding_maxtrix = './data/tmp/embedding_matrix_CVAT.p'
 # python 2.7 use:
 # './data/tmp/CVAT_processed_data_v2.7.p' and './data/tmp/embedding_matrix_CVAT_v2.7.p'
-option = 'Arousal'  # Arousal
+option = 'Valence'  # Arousal or Valence
 ##########################################################################################
 idx_data, valence, arousal = pickle.load(open(filename, "rb"))
 W = pickle.load(open(embedding_maxtrix, "rb"))
@@ -50,28 +50,28 @@ print(X_train.shape)
 N_fm = 400
 
 batch_size = 128
-nb_epoch = 100
+nb_epoch = 20
 
 ###################################### model #######################################
 model = Sequential()
 # Embedding layer (lookup table of trainable word vectors)
 model.add(Embedding(input_dim=W.shape[0], output_dim=W.shape[1], weights=[W], W_constraint=unitnorm()))
 # Reshape word vectors from Embedding to tensor format suitable for Convolutional layer
-model.add(Reshape(1, conv_input_height, conv_input_width))
+model.add(Reshape(dims=(1, conv_input_height, conv_input_width)))
 
 # first convolutional layer
-model.add(Convolution2D(N_fm, 1, kernel_size, conv_input_width, border_mode='valid', W_regularizer=l2(0.0001)))
+model.add(Convolution2D(N_fm, kernel_size, conv_input_width, border_mode='valid', W_regularizer=l2(0.0001)))
 # ReLU activation
 model.add(Activation('relu'))
 
 
 # aggregate data in every feature map to scalar using MAX operation
-model.add(MaxPooling2D(poolsize=(conv_input_height - kernel_size + 1, 1), ignore_border=True))
+model.add(MaxPooling2D(pool_size=(conv_input_height - kernel_size + 1, 1), ignore_border=True))
 
 model.add(Flatten())
 model.add(Dropout(0.5))
 # Inner Product layer (as in regular neural network, but without non-linear activation function)
-model.add(Dense(N_fm, 1))
+model.add(Dense(1))
 # SoftMax activation; actually, Dense+SoftMax works as Multinomial Logistic Regression
 model.add(Activation('linear'))
 
@@ -83,6 +83,11 @@ model.fit(X_train, Y_train, batch_size=batch_size, nb_epoch=nb_epoch, validation
 
 score = model.evaluate(X_test, Y_test)
 print('The score:', score)
+
+model.save_weights('./data/tmp/CVAT_cnn_model_weights_'+option+'.hdf5', overwrite=True)
+print('The weights of CNN have been saved!')
+
+
 predict = model.predict(X_test, batch_size=batch_size).reshape((1, len(Y_test)))[0]
 
 pickle.dump((Y_test, predict), open(os.path.join('.', 'data', 'tmp', 'NN_output_CVAT.p'), "wb"))
