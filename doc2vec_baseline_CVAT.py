@@ -17,13 +17,16 @@ print(model.docvecs[1])
 print(model.docvecs['SENT_23'])
 print(len(model.vocab.keys()))
 
+
 corpus = load_corpus(get_file_path('cn_corpus'))
 mark = load_mark(get_file_path('mark'))
 vecs = build_doc_vector(corpus, model)
 
 valence, arousal = gold_valence_arousal(corpus, mark)
+
 cv(vecs, valence, multivariant=True)
 cv(vecs, arousal, multivariant=True)
+exit()
 # '''
 # from save_data import dump_picle
 # dump_picle(model.key(), get_file_path('words_in_wordvec'))
