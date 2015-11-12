@@ -175,6 +175,13 @@ def CNN_VA_prediction(text=None):
     else:
         return cnn_Chinese(text)
 if __name__ == "__main__":
+    from load_data import load_corpus
+
+    data = load_corpus('../data/corpus/cn/corpus_raw/')
+    for i in data:
+        print(''.join(i))
+        print(CNN_VA_prediction(''.join(i)))
+    exit()
     text = '我今天特別高興'
     print(CNN_VA_prediction(text))
 
